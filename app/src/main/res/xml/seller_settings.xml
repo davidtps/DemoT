@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/seller_settings">
+    <Preference
+        android:icon="@drawable/ic_buildinvideoupdate"
+        android:key="@string/key_build_in_video_update"
+        android:title="@string/build_in_video_update" />
+    <Preference
+        android:icon="@drawable/ic_buildinpictureupdate"
+        android:key="@string/key_build_in_picture_update"
+        android:title="@string/build_in_picture_update" />
+    <!--ic_aq_pq_adjust-->
+    <Preference
+        android:icon="@drawable/ic_aq_pq_adjust"
+        android:key="@string/key_aq_pq_adjust"
+        android:title="@string/aq_pq_adjust" />
+    <Preference
+        android:icon="@drawable/ic_malllogo"
+        android:key="@string/key_mall_logo"
+        android:title="@string/mall_logo" />
+    <Preference
+        android:icon="@drawable/ic_autoalayback_setup"
+        android:key="@string/key_auto_play_setup"
+        android:title="@string/auto_play_setup" />
+    <SwitchPreference
+        android:icon="@drawable/ic_eposswitch"
+        android:key="@string/key_epos_switch"
+        android:title="@string/epos_switch" />
+    <!--<SwitchPreference-->
+    <!--android:icon="@drawable/ic_buildinvideoswitch"-->
+    <!--android:key="@string/key_build_in_video_switch"-->
+    <!--android:title="@string/build_in_video_switch" />-->
+
+    <!--<SwitchPreference-->
+    <!--android:icon="@drawable/ic_buildinvideoswitch"-->
+    <!--android:key="@string/key_sharepref_usb_res_priority_check"-->
+    <!--android:title="@string/switch_usb_priority_content" />-->
+    <Preference
+        android:icon="@drawable/ic_epos_position_adjust"
+        android:key="@string/key_epos_position_adjustment"
+        android:title="@string/epos_position_adjustment" />
+    <Preference
+        android:icon="@drawable/ic_mall_logo_position_adjust"
+        android:key="@string/key_malllogo_position_adjustment"
+        android:title="@string/mall_logo_position_adjustment" />
+
+    <Preference
+        android:icon="@drawable/ic_epos_update"
+        android:key="@string/key_epos_update"
+        android:title="@string/epos_update" />
+
+</PreferenceScreen>

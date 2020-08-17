@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">მაღაზია რეჟიმი პარამეტრები</string>
+    <string name="build_in_video_update">ჩაშენებული ვიდეო განახლება</string>
+    <string name="aq_pq_adjust">აუდიო ხარისხისა და ფოტო ხარისხის მორგება</string>
+    <string name="mall_logo">სავაჭრო ცენტრისა და სარეკლამო ლოგო</string>
+    <string name="auto_play_setup">ავტო აღწარმოების Setup</string>
+    <string name="epos_switch">E-Pos შეცვლა</string>
+
+    <string name="resume_storemode_title">განაახლე მაღაზიის რეჟიმის დემო ვერსია</string>
+    <string name="resume_storemode_desc">ტელევიზია მალე დაბრუნდება მაღაზიის რეჟიმზე, ამ პროცესის გადასადებად თქვენ შეგიძლიათ დააჭიროთ ნებისმიერ ღილაკს.</string>
+    <string name="fte_init_storemode_title">მაღაზიის რეჟიმის დაწყება</string>
+    <string name="fte_init_storemode_desc">მაღაზია რეჟიმი იქნება initated, ნუ გსურთ გაგრძელება?</string>
+    <string name="fte_init_storemode_back">უკან FTE</string>
+    <string name="fte_init_storemode_enter">შეიყვანეთ მაღაზია რეჟიმი</string>
+
+
+    <string name="usb_not_found">არ USB მოწყობილობა არის ნაპოვნი. დარწმუნდით, რომ მოწყობილობა ჩართულია.</string>
+    <string name="udate_success">განახლება წარმატება</string>
+    <string name="guide_poweron_title">თქვენ შეგიძლიათ გადართოთ სახლის რეჟიმზე პარამეტრებიდან</string>
+
+    <string name="use_mode">გამოყენება რეჟიმი</string>
+    <string name="user_mode">მთავარი რეჟიმი</string>
+    <string name="store_mode">მაღაზია რეჟიმი</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">აირჩიეთ ცენტრი ლოგო</string>
+    <string name="seller_settings_toast">დააჭირეთ მენიუს, რომ დააყენოთ მაღაზიის რეჟიმი. </string>
+
+    <string name="mall_logo_limit">გთხოვთ აირჩიოთ PNG ან JPG გამოსახულებები</string>
+    <string name="enter_storemode">შეიყვანეთ მაღაზია რეჟიმი</string>
+    <string name="init_storemode_countdown">თუ თქვენ გააგრძელებთ Ok ღილაკზე დაჭერას ტელევიზიის მენიუ გადავა სთორ რეჟიმზე.</string>
+    <string name="not_find_update_file_tips">განახლების ფაილი არ მოიძებნა. დარწმუნდით, რომ %1$s მოთავსებულია USB-ის ძირ დირექტორიაში</string>
+    <string name="not_find_update_file_tips2">განახლების ფაილი არ მოიძებნა. დარწმუნდით, რომ %1$s და %2$s მოთავსებულია USB-ის ძირ დირექტორიაში</string>
+    <string name="not_find_update_file_tips3">განახლებული ფაილი ვერ მოიძებნა.</string>
+    <string name="add_mall_logo_success">ცენტრი ლოგო უკვე ატვირთული წარმატებით.</string>
+
+    <string name="epos_position_adjustment">E\u2011Pos პოზიციის რეგულირება</string>
+    <string name="mall_logo_position_adjustment">მაღაზიისა და სარეკლამო ლოგოს პოზიციის რეგულირება</string>
+    <string name="epos_update">E\u2011Pos განახლება</string>
+    <string name="invalid_button_press_tips">არასწორ ღილაკზე დაჭერა მაღაზიის რეჟიმში</string>
+    <string name="video_update_title">ვიდეოს განახლება</string>
+
+    <string name="prompt_build_in_video_update">ჩაშენებული ვიდეოს განახლება. გთხოვთ მოიცადოთ. </string>
+    <string name="video_update_button_update">განახლება</string>
+    <string name="video_update_button_cancel">გაუქმება</string>
+    <string name="picture_update_title">სურათის განახლება</string>
+    <string name="prompt_build_in_picture_update">ჩაშენებული ფოტოს განახლება. გთხოვთ მოიცადოთ. </string>
+    <string name="update_build_in_video_toast_tips">გთხოვთ მოიცადოთ, მიმდინარეობს ვიდეოს განახლება.</string>
+    <string name="update_build_in_pic_toast_tips">გთხოვთ მოიცადოთ, მიმდინარეობს ფოტოს განახლება.</string>
+    <string name="updating_tips_text">მიმდინარეობს განახლება. გთხოვთ მოიცადოთ.</string>
+    <string name="dialog_btn_confirm_tip">ადასტურებენ</string>
+    <string name="dialog_btn_delete_tip">წაშლა</string>
+    <string name="dialog_btn_cancel_tip">გაუქმება</string>
+    <string name="build_in_picture_update">ჩაშენებული ფოტოს განახლება</string>
+    <string name="no_find_update_pic_file_tips">ფოტოს განახლების ფაილი არ მოიძებნა. ფაილის პრეფიქსი უნდა იყოს [%1$s]</string>
+    <string name="update_video_max_size_tips_text">მიმდინარე ვიდეოს განახლების ფაილი არის %1$d მბ. მაქსიმალური მხარდაჭერილი ზომა: %1$d მბ.</string>
+
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">USB ვიდეო</string>
+    <string name="checkbox_usb_pic_content">USB ფოტო</string>
+    <string name="checkbox_signal_content">სიგნალი</string>
+    <string name="checkbox_build_in_pic_content">ჩაშენებული ფოტო</string>
+    <string name="checkbox_build_in_video_content">ჩაშენებული ვიდეო</string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">სურათი</string>
+    <string name="sound_ajust">ხმის</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">სავაჭრო ლოგოს მაქსიმალური ზომა არის [%1$d]!</string>
+    <string name="mall_logo_pic_exist">სურათი უკვე არსებობს.</string>
+    <string name="delete_picture_dialog_title">სურათის წაშლა</string>
+    <string name="delete_picture_dialog_content">დარწმუნებული ხართ, რომ გსურთ ამის წაშლა?</string>
+    <string name="delete_picture_succes_tips">წარმატებით წაიშალა</string>
+
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">მარცხენა</string>
+    <string name="position_right">მარჯვენა</string>
+    <string name="position_top">დაბრუნება</string>
+    <string name="position_bottom">ძირი</string>
+    <string name="epos_updating_tips">E-Pos განახლება. გთხოვთ დაიცადოთ.</string>
+    <string name="btn_done">კეთდება</string>
+    <string name="btn_edit">რედაქტირება</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>გაფრთხილება</b></string>
+    <string name="energy_summary_one">ენერგიის მოხმარება მიმდინარე სურათის რეჟიმში შესაძლოა იყოს უფრო მეტი ვიდრე მითითებულია ენერგიის მოხმარების ეტიკეტზე</string>
+    <string name="energy_summary_two">გთხოვთ, გამოიყენეთ სტანდარტული სურათის რეჟიმი ენერგიის ნორმალური მოხმარებისათვის</string>
+</resources>

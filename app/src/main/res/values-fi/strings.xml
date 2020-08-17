@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Myymälätila asetukset</string>
+    <string name="build_in_video_update">Sisäänrakennettu videopäivitys</string>
+    <string name="aq_pq_adjust">AQ&amp;PQ-säätö</string>
+    <string name="mall_logo">Kauppakeskuksen ja mainostamisen logo</string>
+    <string name="auto_play_setup">Automaattisen toiston asetus</string>
+    <string name="epos_switch">E-Pos-kytkin </string>
+
+    <string name="resume_storemode_title">Palaa myymälätilan demoon</string>
+    <string name="resume_storemode_desc">TV asetetaan kohta takaisin myymälätilan demoon, voit siirtää tätä prosessia painamalla mitä tahansa kaukosäätimen painiketta.</string>
+    <string name="fte_init_storemode_title">Käynnistä myymälätila</string>
+    <string name="fte_init_storemode_desc">Myymälätila käynnistetään, haluatko jatkaa?</string>
+    <string name="fte_init_storemode_back">Takaisin FTE-tilaan</string>
+    <string name="fte_init_storemode_enter">Siirry myymälätilaan</string>
+
+
+    <string name="usb_not_found">USB-laitetta ei löydy. Varmista, että laite on kytkettynä.</string>
+    <string name="udate_success">Päivitys onnistui!</string>
+    <string name="guide_poweron_title">Voit siirtyä kotitilaan Asetuksissa</string>
+
+    <string name="use_mode">Käyttötila</string>
+    <string name="user_mode">Aloitusnäyttötila</string>
+    <string name="store_mode">Myymälätila</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Valitse ostoskeskuksen logo</string>
+    <string name="seller_settings_toast">Aseta tallennustila painamalla Valikko-painiketta</string>
+
+    <string name="mall_logo_limit">Ole hyvä ja valitse PNG- tai JPG-kuva</string>
+    <string name="enter_storemode">Siirry myymälätilaan</string>
+    <string name="init_storemode_countdown">Pitämällä Ok-painiketta painettuna, television valikko käynnistää myymälätilan.</string>
+    <string name="not_find_update_file_tips">Päivitystiedostoa ei löydy. Ole hyvä ja varmista, että %1$s sijaitsee USB-päähakemistossa.</string>
+    <string name="not_find_update_file_tips2">Päivitystiedostoa ei löydy. Ole hyvä ja varmista, että %1$s tai %2$s sijaitsee USB-päähakemistossa.</string>
+    <string name="not_find_update_file_tips3">Päivitystiedostoa ei löytynyt.</string>
+    <string name="add_mall_logo_success">Ostoskeskuksen logo on ladattu onnistuneesti.</string>
+
+    <string name="epos_position_adjustment">E-Pos-asennon säätö</string>
+    <string name="mall_logo_position_adjustment">Myymälä- ja mainoslogojen sijainnin säätö</string>
+    <string name="epos_update">E-Pos-päivitys</string>
+    <string name="invalid_button_press_tips">Myymälätilassa painettu virheellistä painiketta</string>
+    <string name="video_update_title">Päivitä video</string>
+
+    <string name="prompt_build_in_video_update">Päivitetään sisäistä videota. Ole hyvä ja odota.</string>
+    <string name="video_update_button_update">päivitä</string>
+    <string name="video_update_button_cancel">Peru toiminto</string>
+    <string name="picture_update_title">Päivitä kuva</string>
+    <string name="prompt_build_in_picture_update">Päivitetään sisäänrakennettua kuvaa. Ole hyvä ja odota.</string>
+    <string name="update_build_in_video_toast_tips">Ole hyvä ja odota, videota päivitetään.</string>
+    <string name="update_build_in_pic_toast_tips">Ole hyvä ja odota, kuvaa päivitetään.</string>
+    <string name="updating_tips_text">Päivitetään. Ole hyvä ja odota.</string>
+    <string name="dialog_btn_confirm_tip">Hyväksy</string>
+    <string name="dialog_btn_delete_tip">Poista</string>
+    <string name="dialog_btn_cancel_tip">Peru toiminto</string>
+    <string name="build_in_picture_update">Sisäänrakennettu kuvapäivitys</string>
+    <string name="no_find_update_pic_file_tips">Kuvapäivitystiedostoa ei löydy. Tiedostonimen etuliitteen tulisi olla [%1$] </string>
+    <string name="update_video_max_size_tips_text">Nykyinen videon päivitystiedosto on [XXX1] M. Tuettu enimmäiskoko: %2$d M.</string>
+
+
+    <string name="checkbox_usb_video_content">USB-video</string>
+    <string name="checkbox_usb_pic_content">USB-kuva</string>
+    <string name="checkbox_signal_content">Signaali</string>
+    <string name="checkbox_build_in_pic_content">Sisäinen kuva</string>
+    <string name="checkbox_build_in_video_content">Sisäänrakennettu video</string>
+
+    <string name="picture_ajust">Kuva</string>
+    <string name="sound_ajust">Ääni</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Myymälän enimmäiskoko on %1$d! </string>
+    <string name="mall_logo_pic_exist">Kuva on jo olemassa.</string>
+    <string name="delete_picture_dialog_title">Poista kuva</string>
+    <string name="delete_picture_dialog_content">Haluatko varmasti poistaa tämän?</string>
+    <string name="delete_picture_succes_tips">Poistettu onnistuneesti</string>
+
+
+    <string name="position_left">Vasen</string>
+    <string name="position_right">Oikea</string>
+    <string name="position_top">Takaisin ylös</string>
+    <string name="position_bottom">Pohja</string>
+
+    <string name="epos_updating_tips">Päivitetään asetusta E-Pos. Ole hyvä ja odota.</string>
+    <string name="btn_done">Valmis</string>
+    <string name="btn_edit">Muokkaa</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>VAROITUS</b></string>
+    <string name="energy_summary_one">Energiankulutus nykyisessä  kuvatilassa voi olla korkeampi kuin energian luokitusmerkinnässä ilmoitettu</string>
+    <string name="energy_summary_two">Ole hyvä ja käytä tavallista kuvatilaa normaalia energiankulutusta varten</string>
+</resources>

@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">ማከማቻ ሞድ ማቀናበሪያዎች</string>
+    <string name="build_in_video_update">አብረው የተገጠሙ የቪድዮ ማዘመኛ</string>
+    <string name="aq_pq_adjust">AQ&amp;PQ ማስተካከያ</string>
+    <string name="mall_logo">የሞል እና ማስተዋወቂያ አርማ</string>
+    <string name="auto_play_setup">በራስ ሰር ማጫወቻ ማዘጋጃ</string>
+    <string name="epos_switch">E-Pos መቀየሪያ </string>
+
+    <string name="resume_storemode_title">የመደብር ሁነታ ማሳያን እንደገና ጀምር</string>
+    <string name="resume_storemode_desc">ቲቪ ከአፍታ በኋላ ወደ መደብር ሁነታ ይመለሳል፣ ይህን ሂደት ወደ ሌላ ጊዜ ለማዘዋወር በሩቅ መቆጣጠሪያ ላይ ማንኛውንም አዝራር ይጫኑ።</string>
+    <string name="fte_init_storemode_title">መነሻ የመደብር ሁነታ</string>
+    <string name="fte_init_storemode_desc">ማከማቻ ሞድ ይጀምራል፣ ለመቀጠል ይፈልጋሉ?</string>
+    <string name="fte_init_storemode_back">ወደ FTE ተመለስ</string>
+    <string name="fte_init_storemode_enter">ማከማቻ ሞድ ግባ</string>
+
+
+    <string name="usb_not_found">ምንም USB መሳሪያ አልተገኘም። መሳሪያዎ እንደተገናኘ ያረጋግጡ።</string>
+    <string name="udate_success">ማዘመን ተሳክቷል</string>
+    <string name="guide_poweron_title">በቅንብሮች ውስጥ ወደ መነሻ ሁነታ መቀየር ይችላሉ</string>
+
+    <string name="use_mode">የተጠቃሚ ሞድ</string>
+    <string name="user_mode">መነሻ ሞድ</string>
+    <string name="store_mode">ማከማቻ ሞድ</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">የሞል አልማ ይምረጡ</string>
+    <string name="seller_settings_toast">ወደ መደብር ሁነታ ለመቀየር ምናሌን ይጫኑ</string>
+
+    <string name="mall_logo_limit">እባክዎ የPNG ወይም JPG ምስል ይምረጡ</string>
+    <string name="enter_storemode">ማከማቻ ሞድ ግባ</string>
+    <string name="init_storemode_countdown">Okን ደጋግመው ከተጫኑ የቲቬው ምናሌ የመደብር ሁነታን ያስጀምራል።</string>
+    <string name="not_find_update_file_tips">ምንም የዝማኔ ፋይል ሊገኝ አይችልም። እባክዎ  %1$s በUSB መነሻ አቃፊ ውስጥ መሆኑን ያረጋግጡ።</string>
+    <string name="not_find_update_file_tips2">ምንም የዝማኔ ፋይል ሊገኝ አይችልም። እባክዎ  %1$s ወይም %2$s በUSB መነሻ አቃፊ ውስጥ መሆኑን ያረጋግጡ።</string>
+    <string name="not_find_update_file_tips3">ምንም የማሻሻያ ፋይል አልተመሠረተም</string>
+    <string name="add_mall_logo_success">የሞል አርማው በተሳካ ሁኔታ ተሰቅሏል።</string>
+
+    <string name="epos_position_adjustment">E-Pos የአቀማመጥ ማስተካከያ</string>
+    <string name="mall_logo_position_adjustment">ሞል እና የማስተዋወቂያ ዓርማ ቦታ ማስተካከያ</string>
+    <string name="epos_update">E-Pos መዘመኛ</string>
+    <string name="invalid_button_press_tips">በመደብር ሁነታ ውስጥ ልክ ያልሆነ አዝራር ተጭነዋል</string>
+    <string name="video_update_title">ቪዲዮ አዘምን</string>
+
+    <string name="prompt_build_in_video_update">በውስጥ-የተገነባ ቪዲዮ በማዘመን ላይ። እባክዎ ይጠብቁ።</string>
+    <string name="video_update_button_update">አዘምን</string>
+    <string name="video_update_button_cancel">ተወው</string>
+    <string name="picture_update_title">ምስል አዘምን</string>
+    <string name="prompt_build_in_picture_update">በውስጥ-የተገነባ ምስል በማዘመን ላይ። እባክዎ ይጠብቁ።</string>
+    <string name="update_build_in_video_toast_tips">እባክዎ ይጠብቁ፣ ቪዲዮ እየተዘመነ ነው።</string>
+    <string name="update_build_in_pic_toast_tips">እባክዎ ይጠብቁ፣ ምስል እየተዘመነ ነው።</string>
+    <string name="updating_tips_text">በማዘመን ላይ። እባክዎ ይጠብቁ።</string>
+    <string name="dialog_btn_confirm_tip">አረጋግጥ</string>
+    <string name="dialog_btn_delete_tip">ሰርዝ</string>
+    <string name="dialog_btn_cancel_tip">ተወው</string>
+    <string name="build_in_picture_update">በውስጥ-የተገነባ ምስል ዝማኔ</string>
+    <string name="no_find_update_pic_file_tips">የምስል ማዘመኛ ፋይል አልተገኘም። የፋይል ስም ቅድመ ቅጥያ [%1$s] መሆን </string>
+    <string name="update_video_max_size_tips_text">የአሁኑ ቪዲዮ ማዘመኛ %1$d M ነው፡፡ የሚደገፈውን መጠን መጨመር፡ %2$d M፡፡</string>
+
+    <string name="checkbox_usb_video_content">USB ቪዲዮ</string>
+    <string name="checkbox_usb_pic_content">USB ምስል</string>
+    <string name="checkbox_signal_content">ምልክት</string>
+    <string name="checkbox_build_in_pic_content">በውስጥ-የተገነባ ምስል</string>
+    <string name="checkbox_build_in_video_content">አብሮ የተገጠመ ቪድዮ</string>
+
+    <string name="picture_ajust">ምስል</string>
+    <string name="sound_ajust">ድምጽ</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">ከፍተኛው የሞል ዓርማ መጠን %1$d ነው!</string>
+    <string name="mall_logo_pic_exist">ምስል ቀድሞም አለ</string>
+    <string name="delete_picture_dialog_title">ምስል ሰርዝ</string>
+    <string name="delete_picture_dialog_content">ይህን መሰረዝ መፈለግዎን እርግጠኛ ነዎት?</string>
+    <string name="delete_picture_succes_tips">በተሳካ ሁኔታ ተሰርዟል</string>
+
+
+    <string name="position_left">ግራ</string>
+    <string name="position_right">ቀኝ</string>
+    <string name="position_top">ከላይ ጫፍ</string>
+    <string name="position_bottom">ግርጌ</string>
+
+    <string name="epos_updating_tips">E-Pos እየዘመነ ነው፡፡ እባክዎን ይጠብቁ፡፡</string>
+    <string name="btn_done">ተከናውኗል</string>
+    <string name="btn_edit">አርትዕ</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>ማስጠንቀቂያ</b></string>
+    <string name="energy_summary_one">በአሁኑ የምስል ሁነታ ውስጥ የኃይል ፍጆታ በኃይል ልኬት ማሳያ ላይ ከተመልከተው በላይ ሊሆን ይችላል።</string>
+    <string name="energy_summary_two">ለመደበኛ የኃይል ፍጆታ እባክዎ መደበኛ የምስል ሁነታን ይጠቀሙ</string>
+</resources>

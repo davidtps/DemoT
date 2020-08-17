@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="720dp"
+        android:layout_height="150dp"
+        android:background="@drawable/guide_poweron_bg"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/guide_poweron"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:text="@string/guide_poweron_title"
+            android:textColor="#DEFFFFFF"
+            android:textSize="24sp" />
+    </RelativeLayout>
+</LinearLayout>

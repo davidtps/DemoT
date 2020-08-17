@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Butiksmodusindstillingerne</string>
+    <string name="build_in_video_update">Indbygget video-opdatering</string>
+    <string name="aq_pq_adjust">AO&amp;PQ-justering</string>
+    <string name="mall_logo">Butikscenter- &amp; reklamelogo</string>
+    <string name="auto_play_setup">Automatisk opstilling af tilbagespilning</string>
+    <string name="epos_switch">E-pos kontakt </string>
+
+    <string name="resume_storemode_title">Fortsæt lagringsmodus-demo</string>
+    <string name="resume_storemode_desc">TV-apparatet vil tilbage til butiksmodus snart. Du kan trykke på på alle fjernknapper for at udsætte denne proces.</string>
+    <string name="fte_init_storemode_title">Start Butiksmodus</string>
+    <string name="fte_init_storemode_desc">Lagringsmodus bliver startet. Ønsker du at fortsætte?</string>
+    <string name="fte_init_storemode_back">Tilbage til FTE</string>
+    <string name="fte_init_storemode_enter">Gå ind på lagringsmodus</string>
+
+
+    <string name="usb_not_found">Ingen USB enhed er fundet. Sikr dig, at din enhed er forbundet.</string>
+    <string name="udate_success">Opdatering gennemført!</string>
+    <string name="guide_poweron_title">Du kan skifte til familiemodus i indstillinger</string>
+
+    <string name="use_mode">Brug tilstand</string>
+    <string name="user_mode">Hjem-tilstand</string>
+    <string name="store_mode">Lagringsmodus</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Vælg et indkøbscenterlogo</string>
+    <string name="seller_settings_toast">Tryk på menu for at opsætte butiksmodus</string>
+
+    <string name="mall_logo_limit">Vælg venligst en PNG eller JPG-billede</string>
+    <string name="enter_storemode">Gå ind på lagringsmodus</string>
+    <string name="init_storemode_countdown">Hvis du fortsætter med at trykke på Ok, så vil menuen til TV\'et begynde butiksmodus.</string>
+    <string name="not_find_update_file_tips">Ingen opdateringsfil kan findes. Sørg venligst for, at %1$s er placeret i USB-rodmappen.</string>
+    <string name="not_find_update_file_tips2">Ingen opdateringsfil kan findes. Sørg venligst for, at %1$s eller %2$s er placeret i USB-rodmappen.</string>
+    <string name="not_find_update_file_tips3">Ingen opgraderingsfil fundet</string>
+    <string name="add_mall_logo_success">Det lykkedes at uploade indkøbscenterlogoet.</string>
+
+    <string name="epos_position_adjustment">E-pos positionsjustering</string>
+    <string name="mall_logo_position_adjustment">Justering af logopositioner til mail &amp; reklame</string>
+    <string name="epos_update">E-pos opdatering</string>
+    <string name="invalid_button_press_tips">Ugyldig knaptryk i lagringsmodus</string>
+    <string name="video_update_title">Opdater video</string>
+
+    <string name="prompt_build_in_video_update">Opdaterer indbygget video. Vent venligst.</string>
+    <string name="video_update_button_update">opdater</string>
+    <string name="video_update_button_cancel">Annuller</string>
+    <string name="picture_update_title">Opdater billede</string>
+    <string name="prompt_build_in_picture_update">Opdaterer lndbygget billede.. Vent venligst.</string>
+    <string name="update_build_in_video_toast_tips">Vent venligst, Video opdaterer.</string>
+    <string name="update_build_in_pic_toast_tips">Vent venligst, video opdaterer.</string>
+    <string name="updating_tips_text">Opdaterer. Vent venligst.</string>
+    <string name="dialog_btn_confirm_tip">Bekræft</string>
+    <string name="dialog_btn_delete_tip">Slet</string>
+    <string name="dialog_btn_cancel_tip">Annuller</string>
+    <string name="build_in_picture_update">Indbygget billedopdatering</string>
+    <string name="no_find_update_pic_file_tips">Billedopdaterings-filen findes ikke. Filnavnet bør være [%1$s].</string>
+    <string name="update_video_max_size_tips_text">Nuværende videoopdateringsfil er %1$d M. Maks. størrelse, der understøttes %2$d M.</string>
+
+
+    <string name="checkbox_usb_video_content">USB video</string>
+    <string name="checkbox_usb_pic_content">USB-billede</string>
+    <string name="checkbox_signal_content">Signal</string>
+    <string name="checkbox_build_in_pic_content">Indbygget billede</string>
+    <string name="checkbox_build_in_video_content">Indbygget video</string>
+
+    <string name="picture_ajust">Billede</string>
+    <string name="sound_ajust">Lyd</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Maks.størrelse på maillogo er %1$d!</string>
+    <string name="mall_logo_pic_exist">Billlede eksisterer allerede.</string>
+    <string name="delete_picture_dialog_title">Slet billede.</string>
+    <string name="delete_picture_dialog_content">Er su sikker på, at du ønsker at slette dette?</string>
+    <string name="delete_picture_succes_tips">Det lykkedes at slette</string>
+
+
+    <string name="position_left">Venstre</string>
+    <string name="position_right">Højre</string>
+    <string name="position_top">Tilbage til toppen</string>
+    <string name="position_bottom">Bunden</string>
+
+    <string name="epos_updating_tips">Opdaterer E-Pos. Vent venligst.</string>
+    <string name="btn_done">Udført</string>
+    <string name="btn_edit">Rediger</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>ADVARSEL</b></string>
+    <string name="energy_summary_one">Energiforbrug i den nuværende billedtilstand kan være højere end vist på etiketten til energivurdering.</string>
+    <string name="energy_summary_two">Anvend venligst standard billedtilstand til normalt energiforbrug</string>
+</resources>

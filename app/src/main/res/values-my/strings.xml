@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">စတိုးဆိုင်မုဒ် ဆက်တင်များ</string>
+    <string name="build_in_video_update">တစ်ပါတည်းပါသော ဗီဒီယို မွမ်းမံမှု</string>
+    <string name="aq_pq_adjust">အသံ အရည်အသွေးနှင့် ရုပ်ပုံ အရည်အသွေး ချိန်ညှိမှု</string>
+    <string name="mall_logo">ကုန်တိုက်နှင့် အရောင်းမြှင့်တင်ရေး လိုဂို</string>
+    <string name="auto_play_setup">အလိုအလျောက် ပလေးဘက် တည်ဆောက်မှု</string>
+    <string name="epos_switch">E-Pos ခလုတ်</string>
+
+    <string name="resume_storemode_title">စတိုးဆိုင်မုဒ် ဒီမိုကို ဆက်လက်လုပ်ဆောင်ပါ</string>
+    <string name="resume_storemode_desc">မကြာမီ TV သည် စတိုးဆိုင်မုဒ် ဒီမိုသို့ ပြန်သတ်မှတ်လိမ့်မည်၊ ဤလုပ်ဆောင်မှုကို နောက်ရွှေ့ဆိုင်းရန် အဝေးထိန်းမှ ခလုတ်တစ်ခုခုကို နှိပ်နိုင်ပါသည်။</string>
+    <string name="fte_init_storemode_title">စတိုးဆိုင်မုဒ်ကို စတင်လိုက်ပါ</string>
+    <string name="fte_init_storemode_desc">စတိုးအနေအထားသို့ ပြောင်းသွားမည်ဖြစ်သည်၊ ဆက်လက် လုပ်ဆောင်လိုပါသလား။</string>
+    <string name="fte_init_storemode_back">FTE သို့ ပြန်သွားပါ</string>
+    <string name="fte_init_storemode_enter">စတိုးဆိုင်မုဒ်သို့ ဝင်ရောက်ပါ</string>
+
+
+    <string name="usb_not_found">USB ကိရိယာ မတွေ့ပါ။ သင့်ကိရိယာသည် ချိတ်ထားကြောင်း သေချာစွာ လုပ်ဆောင်ပါ။</string>
+    <string name="udate_success">အပ်ဒိတ် အောင်မြင်သည်!</string>
+    <string name="guide_poweron_title">အိမ်သုံးမုဒ်ကို ဆက်တင်များတွင် ပြောင်းနိုင်ပါသည်</string>
+
+    <string name="use_mode">အသုံးပြုမှု အနေအထား</string>
+    <string name="user_mode">ပင်မ အနေအထား</string>
+    <string name="store_mode">စတိုးဆိုင်မုဒ်</string>
+    <string name="store_mode_with_video">ဗီဒီယိုပြသနိုင်သော စတိုးဆိုင်မုဒ်</string>
+    <string name="select_a_mall_logo">မေးလ်လိုဂိုတစ်ခု ရွေးချယ်ပါ</string>
+    <string name="seller_settings_toast">စတိုးဆိုင်မုဒ်တည်ဆောက်ရန် မီနူးကို နှိပ်ပါ</string>
+
+    <string name="mall_logo_limit">PNG သို့မဟုတ် JPG ရုပ်ပုံ ရွေးချယ်ပါ</string>
+    <string name="enter_storemode">စတိုးဆိုင်မုဒ်သို့ ဝင်ရောက်ပါ</string>
+    <string name="init_storemode_countdown">အကယ်၍ သင်သည် အိုကေခလုတ်ကို ဖိကိုင်ထားပါက TV အတွက် မီနူးသည် စတိုးဆိုင်မုဒ်ကို အစပြုလိမ့်မည်။</string>
+    <string name="not_find_update_file_tips">မွမ်းမံရန် ဖိုင်မတွေ့ပါ။ %1$s သည် USB ၏ ပင်မဒိုင်ယာထရီတွင် ရှိနေကြောင်း သေချာပါစေ။</string>
+    <string name="not_find_update_file_tips2">မွမ်းမံရန် ဖိုင်မတွေ့ပါ။ %1$s သို့မဟုတ် %2$s သည် USB ၏ ပင်မဒိုင်ယာထရီတွင် ရှိနေကြောင်း သေချာပါစေ။</string>
+    <string name="not_find_update_file_tips3">အဆင့်မြှင့်ရန် ဖိုင်မတွေ့ပါ။</string>
+    <string name="add_mall_logo_success">မေးလ်လိုဂိုကို အောင်မြင်စွာ အပ်လုဒ်တင်ပြီးပြီ။</string>
+
+    <string name="epos_position_adjustment">E\u2011Pos အနေအထား ချိန်ညှိချက်</string>
+    <string name="mall_logo_position_adjustment">ကုန်တိုက်နှင့် အရောင်းမြှင့်တင်ရေး လိုဂို အနေအထား ချိန်ညှိမှု</string>
+    <string name="epos_update">E\u2011Pos မွမ်းမံမှု</string>
+    <string name="invalid_button_press_tips">စတိုးဆိုင်မုဒ်တွင် မမှန်သော ခလုတ်ကို နှိပ်သည်</string>
+    <string name="video_update_title">ဗီဒီယို မွမ်းမံပါ</string>
+
+    <string name="prompt_build_in_video_update">တစ်ပါတည်းပါလာသော ဗီဒီယိုကို မွမ်းမံနေသည်။ စောင့်နေပါ။</string>
+    <string name="video_update_button_update">အပ်ဒိတ်</string>
+    <string name="video_update_button_cancel">ပယ်ဖျက်</string>
+    <string name="picture_update_title">ရုပ်ပုံ မွမ်းမံပါ</string>
+    <string name="prompt_build_in_picture_update">တစ်ပါတည်းပါလာသော ရုပ်ပုံကို မွမ်းမံနေသည်။ စောင့်နေပါ။</string>
+    <string name="update_build_in_video_toast_tips">စောင့်နေပါ၊ ဗီဒီယိုကို မွမ်းမံနေသည်။</string>
+    <string name="update_build_in_pic_toast_tips">စောင့်နေပါ၊ ရုပ်ပုံကို မွမ်းမံနေသည်။</string>
+    <string name="updating_tips_text">မွမ်းမံနေသည်။ စောင့်နေပါ။</string>
+    <string name="dialog_btn_confirm_tip">အတည်ပြုပါ</string>
+    <string name="dialog_btn_delete_tip">ဖျက်ပါ</string>
+    <string name="dialog_btn_cancel_tip">ပယ်ဖျက်</string>
+    <string name="build_in_picture_update">တစ်ပါတည်းပါလာသော ရုပ်ပုံကို မွမ်းမံမှု</string>
+    <string name="no_find_update_pic_file_tips">ရုပ်ပုံ မွမ်းမံရန် ဖိုင်မတွေ့ပါ။ ဖိုင်အမည်ရှေ့ပိုင်းသည် [%1$s] ဖြစ်သင့်သည်</string>
+    <string name="update_video_max_size_tips_text">လက်ရှိဗီဒီယို မွမ်းမံရန်ဖိုင်သည် %1$d M ရှိသည်။ အကြီးဆုံး ထောက်ပံ့သည့် အရွယ်အစားမှာ %2$d M ဖြစ်သည်။</string>
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">USB ဗီဒီယို</string>
+    <string name="checkbox_usb_pic_content">USB ရုပ်ပုံ</string>
+    <string name="checkbox_signal_content">အချက်ပြ</string>
+    <string name="checkbox_build_in_pic_content">တစ်ပါတည်းပါလာသော ရုပ်ပုံ</string>
+    <string name="checkbox_build_in_video_content">တစ်ပါတည်းပါဝင်သော ဗီဒီယို </string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">ရုပ်ပုံ</string>
+    <string name="sound_ajust">အသံ</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">အကြီးဆုံး ဆိုင်လိုဂိုအရွယ်အစားသည် %1$d ဖြစ်သည်။</string>
+    <string name="mall_logo_pic_exist">ရုပ်ပုံ ရှိပြီးဖြစ်သည်။</string>
+    <string name="delete_picture_dialog_title">ရုပ်ပုံ ဖျက်ပါ</string>
+    <string name="delete_picture_dialog_content">၎င်းကို ဖျက်လိုသည်မှာ သေချာပါသလား။</string>
+    <string name="delete_picture_succes_tips">အောင်မြင်စွာ ဖျက်ပြီးပြီ</string>
+
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">ဘယ်ဘက်</string>
+    <string name="position_right">ညာဘက်</string>
+    <string name="position_top">အနောက်မှ ထိပ်ဆုံးသို့</string>
+    <string name="position_bottom">အောက်ခြေ</string>
+    <string name="epos_updating_tips">E-Pos အပ်ဒိတ်လုပ်နေသည်။ စောင့်နေပါ။</string>
+    <string name="btn_done">ပြီးပြီ</string>
+    <string name="btn_edit">တည်းဖြတ်</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>သတိပေးချက်</b></string>
+    <string name="energy_summary_one">လက်ရှိရုပ်ပုံမုဒ်တွင် စွမ်းအင်သုံးစွဲမှုသည် ညွှန်းပြထားသော စွမ်အင်သုံးစွဲမှုအဆင့်ထက် မြင့်မားနိုင်ပါသည်။</string>
+    <string name="energy_summary_two">ပုံမှန်စွမ်းအင်သုံးစွဲမှုအတွက် ပုံမှန်ရုပ်ပုံမုဒ်ကို အသုံးပြုပါ</string>
+</resources>

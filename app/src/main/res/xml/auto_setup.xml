@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/auto_play_setup">
+
+    <!--<string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>-->
+
+    <CheckBoxPreference
+        android:key="@string/key_sharepref_usb_video_check"
+        android:title="@string/checkbox_usb_video_content"></CheckBoxPreference>
+    <CheckBoxPreference
+        android:key="@string/key_sharepref_usb_pic_check"
+        android:title="@string/checkbox_usb_pic_content"></CheckBoxPreference>
+    <CheckBoxPreference
+        android:key="@string/key_sharepref_signal_check"
+        android:title="@string/checkbox_signal_content"></CheckBoxPreference>
+    <CheckBoxPreference
+        android:key="@string/key_sharepref_build_in_pic_check"
+        android:title="@string/checkbox_build_in_pic_content"></CheckBoxPreference>
+    <CheckBoxPreference
+        android:key="@string/key_sharepref_build_in_video_check"
+        android:title="@string/checkbox_build_in_video_content"></CheckBoxPreference>
+</PreferenceScreen>

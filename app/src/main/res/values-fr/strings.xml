@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="resume_storemode_title">Reprendre la démo en mode magasin</string>
+    <string name="resume_storemode_desc">Le TV reviendra bientôt en mode démonstration magasin, vous pouvez appuyer sur n\'importe quel bouton de la télécommande pour annuler.</string>
+    <string name="fte_init_storemode_title">Initier le mode magasin</string>
+    <string name="fte_init_storemode_desc">Le mode Magasin sera activé, souhaitez-vous continuer?</string>
+    <string name="fte_init_storemode_back">Retour à l\'assistant de configuration</string>
+    <string name="fte_init_storemode_enter">Entrer dans le mode magasin</string>
+
+    <string name="seller_settings">Paramètres Mode magasin</string>
+    <string name="build_in_video_update">Mise à jour de la vidéo embarquée</string>
+    <string name="aq_pq_adjust">Réglage de la qualité audio &amp; qualité image</string>
+    <string name="mall_logo">Ajouter ou modifier un Logo</string>
+    <string name="auto_play_setup">Configuration de Lecture Automatique</string>
+    <string name="epos_switch">Activation Bandeau</string>
+
+    <string name="usb_not_found">Aucun périphérique USB n\'est détecté. Assurez-vous que votre appareil est connecté. </string>
+    <string name="udate_success">Mise à jour réussie!</string>
+    <string name="guide_poweron_title">Vous pouvez passer en mode Famille dans les paramètres</string>
+    <string name="use_mode">Mode d\'utilisation</string>
+    <string name="user_mode">Mode Domicile</string>
+    <string name="store_mode">Mode Magasin</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Sélectionnez un logo</string>
+    <string name="seller_settings_toast">Appuyez sur Menu pour configurer le mode Magasin.</string>
+    <string name="mall_logo_limit">Veuillez choisir une image PNG ou JPG</string>
+    <string name="enter_storemode">Entrer dans le mode magasin</string>
+    <string name="init_storemode_countdown">Pressez le bouton Ok dans le menu pour activer le mode Magasin</string>
+    <string name="not_find_update_file_tips">Aucun fichier de mise à jour n\'a été trouvé. Veuillez vérifier que %1$s se trouve dans le répertoire racine de la clé USB.</string>
+    <string name="not_find_update_file_tips2">Aucun fichier de mise à jour n\'a été trouvé. Veuillez vérifier que %1$s ou %2$s se trouve dans le répertoire racine de la clé USB.</string>
+    <string name="not_find_update_file_tips3">Aucun fichier de mise à jour détecté.</string>
+    <string name="add_mall_logo_success">Le logo a été téléchargé.</string>
+
+
+    <string name="epos_position_adjustment">Réglage de position bandeau du mode Magasin</string>
+    <string name="mall_logo_position_adjustment">Réglage de la position des logos du centre commercial et des promotions</string>
+    <string name="epos_update">Mise à jour Bandeau</string>
+    <string name="invalid_button_press_tips">Bouton non valide, Appuyer sur Mode Magasin</string>
+    <string name="video_update_title">Mettre à jour la vidéo</string>
+    <string name="prompt_build_in_video_update">Mise à jour de la vidéo intégrée. Veuillez attendre.</string>
+    <string name="video_update_button_update">Mise à jour</string>
+    <string name="video_update_button_cancel">Annuler</string>
+    <string name="picture_update_title">Mettre à jour la photo</string>
+    <string name="prompt_build_in_picture_update">Mise à jour de l\'image intégrée en cours. Veuillez patienter.</string>
+    <string name="update_build_in_video_toast_tips">Veuillez patienter, la vidéo est en cours de mise à jour.</string>
+    <string name="update_build_in_pic_toast_tips">Veuillez patienter, la photo est en cours de mise à jour.</string>
+    <string name="updating_tips_text">Mise à jour en cours. Veuillez patienter.</string>
+    <string name="dialog_btn_confirm_tip">Confirmer</string>
+    <string name="dialog_btn_delete_tip">Supprimer</string>
+    <string name="dialog_btn_cancel_tip">Annuler</string>
+    <string name="build_in_picture_update">Mise à jour d\'image intégrée</string>
+    <string name="no_find_update_pic_file_tips">Le fichier de mise à jour de l\'image est introuvable. Le préfixe du nom de fichier doit être [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Le fichier de mise à jour vidéo actuel est %1$d M. Taille maximale prise en charge: %2$d M.</string>
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">Vidéo USB</string>
+    <string name="checkbox_usb_pic_content">Image USB</string>
+    <string name="checkbox_signal_content">Signal</string>
+    <string name="checkbox_build_in_pic_content">Image intégrée</string>
+    <string name="checkbox_build_in_video_content">Vidéo embarquée</string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">Image</string>
+    <string name="sound_ajust">Audio</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">La taille maximale du logo du centre commercial est %1$d!</string>
+    <string name="mall_logo_pic_exist">La photo existe déjà.</string>
+    <string name="delete_picture_dialog_title">Supprimer la photo</string>
+    <string name="delete_picture_dialog_content">Êtes-vous sûr de vouloir supprimer ceci?</string>
+    <string name="delete_picture_succes_tips">Supprimé avec succès</string>
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">Gauche</string>
+    <string name="position_right">Droite</string>
+    <string name="position_top">Haut</string>
+    <string name="position_bottom">Bas</string>
+    <string name="epos_updating_tips">Mise à jour de l\'E-Pos. S\'il vous plaît, attendez.</string>
+    <string name="btn_done">Terminer</string>
+    <string name="btn_edit">Modifier</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>ATTENTION</b></string>
+    <string name="energy_summary_one">La consommation d\'énergie de ce mode d\'image peut être supérieure à celle indiquée sur l\'étiquette énergétique</string>
+    <string name="energy_summary_two">Veuillez Utilisez le mode Standard pour une consommation d\'énergie normale</string>
+</resources>

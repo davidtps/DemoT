@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Поставки на режим за продавница</string>
+    <string name="build_in_video_update">Вградено ажурирање на видео</string>
+    <string name="aq_pq_adjust">Прилагодување на аудиоквалитет и квалитет на слика</string>
+    <string name="mall_logo">Лого на трговски центар и промоција</string>
+    <string name="auto_play_setup">Поставување на автоматска репродукција</string>
+    <string name="epos_switch">Прекинувач за E-Pos</string>
+
+    <string name="resume_storemode_title">Продолжете со демо за режим за продавница</string>
+    <string name="resume_storemode_desc">Наскоро ТВ-уредот ќе се врати во демо на режим за продавница, можете да го притиснете кое било далечинско копче за да го одложите овој процес.</string>
+    <string name="fte_init_storemode_title">Иницирајте режим за продавница</string>
+    <string name="fte_init_storemode_desc">Ќе почне режимот за продавница, сакате ли да продолжите?</string>
+    <string name="fte_init_storemode_back">Назад во FTE</string>
+    <string name="fte_init_storemode_enter">Внесете Режим за продавница</string>
+
+
+    <string name="usb_not_found">Не се најде USB уред. Проверете дали вашиот уред е поврзан.</string>
+    <string name="udate_success">Ажурирањето е успешно!</string>
+    <string name="guide_poweron_title">Можете да се префрлите во режим Дома во Поставки</string>
+
+    <string name="use_mode">Use Mode</string>
+    <string name="user_mode">Почетен режим</string>
+    <string name="store_mode">Режим на продавница</string>
+    <string name="store_mode_with_video">Режим за продавница со видео 4K</string>
+    <string name="select_a_mall_logo">Изберете лого на трговски центар</string>
+    <string name="seller_settings_toast">Притиснете на Мени за да го поставите Режимот за продавница</string>
+
+    <string name="mall_logo_limit">Изберете слика PNG или JPG</string>
+    <string name="enter_storemode">Внесете Режим за продавница</string>
+    <string name="init_storemode_countdown">Ако продолжите да притискате на Ok, тогаш менито за ТВ-уредот ќе го отпочне режимот за продавница.</string>
+    <string name="not_find_update_file_tips">Не може да се најде датотека за ажурирање. Проверете дали %1$s се наоѓа во основниот директориум на USB.</string>
+    <string name="not_find_update_file_tips2">Не може да се најде датотека за ажурирање. Проверете дали %1$s или %2$s се наоѓа во основниот директориум на USB.</string>
+    <string name="not_find_update_file_tips3">Не е пронајдена датотека за надоградба</string>
+    <string name="add_mall_logo_success">Логото на трговски режим се додаде успешно.</string>
+
+    <string name="epos_position_adjustment">Приспособување на позицијата на E-Pos</string>
+    <string name="mall_logo_position_adjustment">Приспособување на позицијата на логото за Трговски центар и Промоција</string>
+    <string name="epos_update">Ажурирање на E-pos</string>
+    <string name="invalid_button_press_tips">Неважечко копче во режим за продавница</string>
+    <string name="video_update_title">Ажурирајте го видеото</string>
+
+    <string name="prompt_build_in_video_update">Ажурирање на вградено видео. Ве молиме причекајте.</string>
+    <string name="video_update_button_update">Ажурирај</string>
+    <string name="video_update_button_cancel">Откажи</string>
+    <string name="picture_update_title">Ажурирајте ја сликата</string>
+    <string name="prompt_build_in_picture_update">Ажурирање на вградена слика. Ве молиме причекајте.</string>
+    <string name="update_build_in_video_toast_tips">Ве молиме причекајте, видеото се ажурира.</string>
+    <string name="update_build_in_pic_toast_tips">Ве молиме причекајте, сликата се ажурира.</string>
+    <string name="updating_tips_text">Се ажурира. Ве молиме причекајте.</string>
+    <string name="dialog_btn_confirm_tip">Потврдете</string>
+    <string name="dialog_btn_delete_tip">Избриши</string>
+    <string name="dialog_btn_cancel_tip">Откажи</string>
+    <string name="build_in_picture_update">Ажурирајте вградена слика</string>
+    <string name="no_find_update_pic_file_tips">Датотеката за ажурирање на слика не се најде. Префиксот на името на сликата треба да биде [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Тековната датотека за ажурирање на видео има %1$d M. Максималната поддржана големина е: %2$d M.</string>
+
+
+    <string name="checkbox_usb_video_content">USB-видео</string>
+    <string name="checkbox_usb_pic_content">USB слика</string>
+    <string name="checkbox_signal_content">Сигнал</string>
+    <string name="checkbox_build_in_pic_content">Вградена слика</string>
+    <string name="checkbox_build_in_video_content">Вградено видео</string>
+
+    <string name="picture_ajust">Слика</string>
+    <string name="sound_ajust">Звук</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Максималната големина на лого на трговски центар е %1$d!</string>
+    <string name="mall_logo_pic_exist">Сликата веќе постои</string>
+    <string name="delete_picture_dialog_title">Избришете ја сликата</string>
+    <string name="delete_picture_dialog_content">Дали сте сигурни дека сакате да го избришете ова?</string>
+    <string name="delete_picture_succes_tips">Се избриша успешно</string>
+
+
+    <string name="position_left">Лево</string>
+    <string name="position_right">Десно</string>
+    <string name="position_top">Назад на почеток</string>
+    <string name="position_bottom">Долу</string>
+    <string name="epos_updating_tips">Ажурирање на E-Pos. Ве молиме причекајте.</string>
+    <string name="btn_done">Готово</string>
+    <string name="btn_edit">Уреди</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>ПРЕДУПРЕДУВАЊЕ</b></string>
+    <string name="energy_summary_one">Потрошувачката на енергија во тековниот режим на слика може да биде поголема од онаа наведена на етикетата за енергетска класа</string>
+    <string name="energy_summary_two">Користете го стандардниот режим за слика за нормална потрошувачка на енергија</string>
+</resources>

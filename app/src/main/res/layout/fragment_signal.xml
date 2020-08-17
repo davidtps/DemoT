@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.media.tv.TvView
+        android:id="@+id/tv_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.media.tv.TvView>
+
+    <!--<android.support.constraint.ConstraintLayout-->
+    <!--android:id="@+id/signal_titie"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="100dp"-->
+    <!--android:layout_marginLeft="50dp"-->
+    <!--android:layout_marginTop="50dp"-->
+    <!--android:background="@drawable/nav_sundry_bg">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/title_image"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:paddingLeft="5dp"-->
+    <!--android:paddingRight="5dp"-->
+    <!--android:textColor="@color/white"-->
+    <!--android:textSize="24sp"-->
+    <!--app:layout_constraintBottom_toTopOf="@id/title_time"-->
+    <!--app:layout_constraintLeft_toLeftOf="parent"-->
+    <!--app:layout_constraintRight_toRightOf="parent"-->
+    <!--app:layout_constraintTop_toTopOf="parent"-->
+    <!--tool:text="HDMI" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/title_time"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginBottom="10dp"-->
+    <!--android:gravity="bottom"-->
+    <!--android:paddingLeft="5dp"-->
+    <!--android:paddingRight="5dp"-->
+    <!--android:textColor="@color/white"-->
+    <!--android:textSize="16sp"-->
+    <!--app:layout_constraintBottom_toBottomOf="parent"-->
+    <!--app:layout_constraintLeft_toLeftOf="parent"-->
+    <!--app:layout_constraintRight_toRightOf="parent"-->
+    <!--tool:text="11LLLLLLLLLLLLLLLLLL123" />-->
+
+    <!--</android.support.constraint.ConstraintLayout>-->
+
+
+    <!--<LinearLayout-->
+    <!--android:id="@+id/simple_source_layout"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginLeft="21dp"-->
+    <!--app:layout_constraintLeft_toLeftOf="parent"-->
+    <!--android:background="@drawable/popup_info_bar"-->
+    <!--android:orientation="vertical"-->
+    <!--android:paddingStart="21dp"-->
+    <!--android:paddingEnd="21dp">-->
+    <!--android:visibility="visible">-->
+
+    <!--<RelativeLayout-->
+    <!--android:id="@+id/simple_source_layout_first_line"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="12dp"-->
+    <!--android:gravity="center|start">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/img_source"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--style="@style/TextAppearance.XLarge"-->
+    <!--android:layout_alignParentStart="true"-->
+    <!--android:textColor="@color/SELECTED"-->
+    <!--android:layout_centerInParent="true" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/txt_source_blank"-->
+    <!--style="@style/TextAppearance.XLarge"-->
+    <!--android:layout_width="100dp"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginStart="9dp"-->
+    <!--android:layout_toEndOf="@+id/img_source"-->
+    <!--android:ellipsize="marquee"-->
+    <!--android:focusable="true"-->
+    <!--android:marqueeRepeatLimit="marquee_forever"-->
+    <!--android:singleLine="true"-->
+    <!--android:textColor="@color/SELECTED"-->
+    <!--android:textDirection="locale" />-->
+    <!--<TextView-->
+    <!--android:id="@+id/txt_source_space"-->
+    <!--style="@style/TextAppearance.XLarge"-->
+    <!--android:layout_width="50dp"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginStart="9dp"-->
+    <!--android:layout_toEndOf="@+id/txt_source_blank"-->
+    <!--android:ellipsize="marquee"-->
+    <!--android:focusable="true"-->
+    <!--android:marqueeRepeatLimit="marquee_forever"-->
+    <!--android:singleLine="true"-->
+    <!--android:textColor="@color/SELECTED"-->
+    <!--android:textDirection="locale" />-->
+
+    <!--&lt;!&ndash;<ImageView&ndash;&gt;-->
+    <!--&lt;!&ndash;android:id="@+id/banner_source_lock_icon"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_width="24dp"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_height="24dp"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_marginStart="12dp"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_toEndOf="@id/txt_source_name"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:gravity="center"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:scaleType="fitXY"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:visibility="gone" />&ndash;&gt;-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/banner_tuner_mode"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_centerInParent="true"-->
+    <!--android:layout_marginStart="2dp"-->
+    <!--android:layout_toEndOf="@id/txt_source_blank"-->
+    <!--android:ellipsize="marquee"-->
+    <!--android:gravity="center"-->
+    <!--android:marqueeRepeatLimit="marquee_forever"-->
+    <!--android:singleLine="true"-->
+    <!--android:text="Antenna"-->
+    <!--android:textColor="@color/NORMAL"-->
+    <!--android:textDirection="locale"-->
+    <!--android:textSize="15sp"-->
+    <!--android:visibility="visible" />-->
+    <!--</RelativeLayout>-->
+    <!--<TextView-->
+    <!--android:id="@+id/banner_name"-->
+    <!--style="@style/TextAppearance.XLarge"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center|start"-->
+    <!--android:includeFontPadding="false"-->
+    <!--android:textColor="@color/SELECTED"-->
+    <!--android:textDirection="locale" />-->
+    <!--<TextView-->
+    <!--android:id="@+id/banner_simple_time"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center|start"-->
+    <!--android:layout_marginBottom="15dp"-->
+    <!--android:includeFontPadding="false"-->
+    <!--android:textColor="@color/NORMAL"-->
+    <!--android:textSize="15sp"-->
+    <!--android:textDirection="locale" />-->
+    <!--</LinearLayout>-->
+
+    <!-- channel number or source name -->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

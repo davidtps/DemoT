@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+
+    <string name="resume_storemode_title">استئناف وضع المتجر التجريبي</string>
+    <string name="resume_storemode_desc">جهاز التلفزيون سيعود إلى وضع المتجر التجريبي قريبا، يمكنك الضغط على أي زر من أزرار الريموت لتأجيل هذه العملية.</string>
+    <string name="fte_init_storemode_title">بدء وضع المتجر</string>
+    <string name="fte_init_storemode_desc">سيتم بدء وضعية المتجر، هل ترغب بالاستمرار؟</string>
+    <string name="fte_init_storemode_back">العودة إلى صفحة التصفح الرئيسية</string>
+    <string name="fte_init_storemode_enter">ادخل وضع المتجر</string>
+
+    <string name="seller_settings">إعدادات وضعية المتجر</string>
+    <string name="build_in_video_update">تحديث الفيديو المدمج</string>
+    <string name="aq_pq_adjust">ضبط جودة الصوت وجودة الصورة</string>
+    <string name="mall_logo">شعار المول والترويج</string>
+    <string name="auto_play_setup">ضبط التشغيل التلقائي</string>
+    <string name="epos_switch">مفتاح E-Pos</string>
+    <string name="usb_not_found">لم يتم العثور على أداة يو اس بي. تأكد من ان جهازك متصل.</string>
+    <string name="udate_success">تم التحديث بنجاح</string>
+    <string name="guide_poweron_title">يمكنك التبديل إلى وضع المنزل في الإعدادات.</string>
+    <string name="use_mode">وضع الاستخدام</string>
+    <string name="user_mode">وضع المنزل</string>
+    <string name="store_mode">وضع المتجر</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">اختر شعار المول</string>
+    <string name="seller_settings_toast">اضغط على القائمة لإعداد وضع المتجر</string>
+    <string name="mall_logo_limit">يرجى اختيار صورة PNG أو JPG</string>
+    <string name="enter_storemode">ادخل وضع المتجر</string>
+    <string name="init_storemode_countdown">إذا ضغطت باستمرار على الزر موافق ثم القائمة لـ  فسيقوم التلفزيون ببدأ تشغيل وضع المتجر.</string>
+    <string name="not_find_update_file_tips">لم يتم العثور على ملف الترقية تأكد من أن ملف %1$s موجود في دليل الجذر لجهاز الـUSB.</string>
+    <string name="not_find_update_file_tips2">لم يتم العثور على ملف الترقية تأكد من أن ملف %1$s أو %2$s موجود في دليل الجذر لجهاز الـUSB.</string>
+    <string name="not_find_update_file_tips3">لم يتم العثور على ملف ترقية.</string>
+    <string name="add_mall_logo_success">تم تحميل \"رفع\" شعار المول بنجاح.</string>
+
+    <string name="epos_position_adjustment">تعديل الموقع E-Pos</string>
+    <string name="mall_logo_position_adjustment">ضبط موقع شعار المنزل والمتجر</string>
+    <string name="epos_update">تحديث E-Pos</string>
+    <string name="invalid_button_press_tips">ضغطة زر غير صالح في وضع المتجر</string>
+    <string name="video_update_title">ترقية الفيديو</string>
+    <string name="prompt_build_in_video_update">جار ترقية الفيديو المدمج. الرجاء الانتظار.</string>
+    <string name="video_update_button_update">تحديث</string>
+    <string name="video_update_button_cancel">إلغاء</string>
+    <string name="picture_update_title">ترقية الصورة</string>
+    <string name="prompt_build_in_picture_update">جار ترقية الصورة المدمجة. الرجاء الانتظار.</string>
+    <string name="update_build_in_video_toast_tips">يرجى الانتظار، جار ترقية الفيديو.</string>
+    <string name="update_build_in_pic_toast_tips">يرجى الانتظار، جار ترقية الصورة.</string>
+    <string name="updating_tips_text">جار الترقية. الرجاء الانتظار.</string>
+    <string name="dialog_btn_confirm_tip">تأكيد</string>
+    <string name="dialog_btn_delete_tip">حذف</string>
+    <string name="dialog_btn_cancel_tip">إلغاء</string>
+    <string name="build_in_picture_update">ترقية الصور المدمجة</string>
+    <string name="no_find_update_pic_file_tips">لم يتم العثور على ملف ترقية الصورة. بادئة اسم الملف يجب أن تكون [%1$s]</string>
+    <string name="update_video_max_size_tips_text">ملف ترقية الفيديو الحالي %1$d M. أقصى حجم مدعوم: %2$d M.</string>
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">فيديو يو اس بي</string>
+    <string name="checkbox_usb_pic_content">صور USB</string>
+    <string name="checkbox_signal_content">الإشارة </string>
+    <string name="checkbox_build_in_pic_content">صور مدمجة</string>
+    <string name="checkbox_build_in_video_content">الفيديو المدمج</string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">الصورة</string>
+    <string name="sound_ajust">صوت</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">أقصى حجم لشعار المول يكون %1$d!</string>
+
+
+    <string name="mall_logo_pic_exist">الصورة موجودة بالفعل.</string>
+    <string name="delete_picture_dialog_title">حدف الصورة</string>
+    <string name="delete_picture_dialog_content">هل متأكد أنك تريد حذف هذا؟</string>
+    <string name="delete_picture_succes_tips">تم الحذف بنجاح</string>
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">يسار</string>
+    <string name="position_right">يمين</string>
+    <string name="position_top">العودة إلى الأعلى</string>
+    <string name="position_bottom">أسفل</string>
+    <string name="epos_updating_tips">جار تحديث الـ E-Pos. يرجى الانتظار.</string>
+    <string name="btn_done">تم</string>
+    <string name="btn_edit">تعديل</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>تحذير</b></string>
+    <string name="energy_summary_one">استهلاك الطاقة في وضع الصورة الحالي قد يكون أعلى من الموضح على ملصق تصنيف الطاقة.</string>
+    <string name="energy_summary_two">يرجى استخدام وضع الصورة القياسي من أجل استهلاك طاقة طبيعي.</string>
+</resources>

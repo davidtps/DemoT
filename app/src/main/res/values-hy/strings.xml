@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Store Mode\u2011 ի կարգավորումները</string>
+    <string name="build_in_video_update">Ներկառուցված վիդեո նորացում</string>
+    <string name="aq_pq_adjust">ՁՈ և ՏՈ Կարգավորում</string>
+    <string name="mall_logo">Մոլլ և գովազդի լոգո</string>
+    <string name="auto_play_setup">Auto Playback Setup\u2011 ը</string>
+    <string name="epos_switch">E-Pos անջատիչ</string>
+
+    <string name="resume_storemode_title">Վերսկսել Խանութի ռեժիմի ցուցադրությունը</string>
+    <string name="resume_storemode_desc">Հեռուստացույցը շուտով կվերադառնա խանութի ռեժիմի ցուցադրությանը, դուք կարող եք սեղմել հեռակառավարման վահանակի ցանկացած կոճակ այս գործընթացը հետաձգելու համար:</string>
+    <string name="fte_init_storemode_title">Ակտիվացրեք խանութի ռեժիմը</string>
+    <string name="fte_init_storemode_desc">Store Mode- ը կկատարվի, Ուզում եք շարունակել:</string>
+    <string name="fte_init_storemode_back">Վերադառնալ FTE\u2011 ին</string>
+    <string name="fte_init_storemode_enter">Մուտքագրեք Store </string>
+
+
+    <string name="usb_not_found">Ոչ մի USB սարք չի հայտնաբերվել: Համոզվեք, որ ձեր սարքը միացված է:</string>
+    <string name="udate_success">Թարմացնել հաջողությամբ</string>
+    <string name="guide_poweron_title">Կարգավորումներում Դուք կարող եք միանալ Ընտանեկան ռեժիմին</string>
+
+    <string name="use_mode">Օգտագործման եղանակը</string>
+    <string name="user_mode">Գլխավոր ռեժիմը</string>
+    <string name="store_mode">«Խանութի ռեժիմը»</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Ընտրեք A Mall Logo\u2011 ը</string>
+    <string name="seller_settings_toast">Սեղմեք Մենյու՝ Խանութի Ռեժիմը կարգավորելու համար</string>
+
+    <string name="mall_logo_limit">Խնդրում ենք ընտրել PNG կամ JPG ֆորմատի պատկեր</string>
+    <string name="enter_storemode">Մուտքագրեք Store </string>
+    <string name="init_storemode_countdown">Եթե շարունակեք սեղմել  Ok, ապա հեռուստացույցի մենյուն կմեկնարկի Խանութի ռեժիմը:</string>
+    <string name="not_find_update_file_tips">Թարմացման ֆայլ չի գտնվել։ Խնդրում ենք համոզվել, որ %1$s-ը տեղադրված է USB բնիկում։</string>
+    <string name="not_find_update_file_tips2">Թարմացման ֆայլ չի գտնվել։ Խնդրում ենք համոզվել, որ %1$s-ը կամ %2$s-ը տեղադրված է USB բնիկում։</string>
+    <string name="not_find_update_file_tips3">Թարմացման ոչ մի ֆայլ չի գտնվել։</string>
+    <string name="add_mall_logo_success">The Mall logo\u2011 ը հաջողությամբ վերբեռնվեց:</string>
+
+    <string name="epos_position_adjustment">E\u2011pos դիրքի հարմարեցում</string>
+    <string name="mall_logo_position_adjustment">Առևտրի և առաջխաղացման տարբերանշանի դիրքի ճշգրտում</string>
+    <string name="epos_update">E\u2011Pos թարմացում</string>
+    <string name="invalid_button_press_tips">Անվավեր կոճակի սեղմում Խանութի ռեժիմում</string>
+    <string name="video_update_title">Թարմացնել Տեսանյութը</string>
+
+    <string name="prompt_build_in_video_update">Ներկառուցված տեսանյութը թարմացվում է։ Խնդրում ենք սպասել։</string>
+    <string name="video_update_button_update">Թարմացնել</string>
+    <string name="video_update_button_cancel">Չեղարկել</string>
+    <string name="picture_update_title">Թարմացնել Նկարը։</string>
+    <string name="prompt_build_in_picture_update">Ներկառուցված նկարը թարմացվում է։ Խնդրում ենք սպասել։</string>
+    <string name="update_build_in_video_toast_tips">Խնդրում ենք սպասել, տեսանյութը թարմացվում է։</string>
+    <string name="update_build_in_pic_toast_tips">Խնդրում ենք սպասել, նկարը թարմացվում է։</string>
+    <string name="updating_tips_text">Թարմացվում է։ Խնդրում ենք սպասել։</string>
+    <string name="dialog_btn_confirm_tip">Հաստատեք</string>
+    <string name="dialog_btn_delete_tip">Ջնջել</string>
+    <string name="dialog_btn_cancel_tip">Չեղարկել</string>
+    <string name="build_in_picture_update">Ներկառուցված Նկարի Թարմացում</string>
+    <string name="no_find_update_pic_file_tips">Նկարի թարմացման ֆայլը չի գտնվել։ Ֆայլի անվան նախածանցը պետք է լինի [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Սույն տեսանյութի թարմացման ֆայլը %1$d M է։ Առավելագույն ընդունելի չափը՝ %2$d M։</string>
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">USB վիդեո</string>
+    <string name="checkbox_usb_pic_content">USB  Նկար</string>
+    <string name="checkbox_signal_content">Ազդանշան</string>
+    <string name="checkbox_build_in_pic_content">Ներկառուցված Նկար</string>
+    <string name="checkbox_build_in_video_content">Ներկառուցված վիդեո նորացում</string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">Նկար</string>
+    <string name="sound_ajust">Ձայն</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">Մոլ լոգոյի առավելագույն չափը %1$d է։</string>
+    <string name="mall_logo_pic_exist">Նկարը արդեն գոյություն ունի։</string>
+    <string name="delete_picture_dialog_title">Ջնջել Նկարը</string>
+    <string name="delete_picture_dialog_content">Դուք վստա՞հ եք, որ ուզում եք ջնջել սա։</string>
+    <string name="delete_picture_succes_tips">Հաջողությամբ ջնջված է։</string>
+
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">Ձախ</string>
+    <string name="position_right">Ճիշտ</string>
+    <string name="position_top">Գագաթ</string>
+    <string name="position_bottom">Հատակ </string>
+    <string name="epos_updating_tips"> E-Pos-ի նորացում: Խնդրում ենք սպասել:</string>
+    <string name="btn_done">Կատարած</string>
+    <string name="btn_edit">Խմբագրել</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>ԶԳՈՒՇԱՑՈՒՄ</b></string>
+    <string name="energy_summary_one">Էներգիայի սպառումը ներկա նկարների ռեժիմւոմ կարող է ավելի շատ լինել, քան էներգասպառման պիտակի վրա նշվածը</string>
+    <string name="energy_summary_two">Օգտագործեք Ստանդարտ նկարների ռեժիմը նորմալ էներգասպառման համար</string>
+</resources>

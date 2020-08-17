@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Postavke načina pohrane</string>
+    <string name="build_in_video_update">Ugrađeno video ažuriranje</string>
+    <string name="aq_pq_adjust">AQ&amp;PQ Podešavanje</string>
+    <string name="mall_logo">ogotip ya prodavnicu i promociju</string>
+    <string name="auto_play_setup">Podešavanje automatske reprodukcije</string>
+    <string name="epos_switch">Prekidač E-Pos</string>
+
+    <string name="resume_storemode_title">Nastavi Demo načina rada trgovine</string>
+    <string name="resume_storemode_desc">TV prijemnik će se uskoro vratiti u pohranu demo moda, možete pritisnuti bilo koji daljinski gumb da biste odgodili ovaj postupak.</string>
+    <string name="fte_init_storemode_title">Potaknite način rada trgovine</string>
+    <string name="fte_init_storemode_desc">Mod za skladištenje bit će pokrenut, želite li nastaviti?</string>
+    <string name="fte_init_storemode_back">Natrag na FTE</string>
+    <string name="fte_init_storemode_enter">Uđite u mod za Trgovinu</string>
+
+
+    <string name="usb_not_found">Nema pronađenog USB uređaja. Uvjerite se da je uređaj povezan.</string>
+    <string name="udate_success">Ažuriranje uspješno!</string>
+    <string name="guide_poweron_title">Možete se prebaciti na Početni način rada u Postavkama</string>
+
+    <string name="use_mode">Korisnički način rada</string>
+    <string name="user_mode">Početni mod</string>
+    <string name="store_mode">Način za trgovinu</string>
+    <string name="store_mode_with_video">Čuvajte način rada s 4K Video</string>
+    <string name="select_a_mall_logo">Odaberite A Mall Logo</string>
+    <string name="seller_settings_toast">Pritisnite Izbornik za postavljanje načina rada tržnice</string>
+
+    <string name="mall_logo_limit">Odaberite PNG ili JPG sliku</string>
+    <string name="enter_storemode">Uđite u mod za Trgovinu</string>
+    <string name="init_storemode_countdown">Ako nastavite pritiskati OK, izbornik za TV će uključiti način rada za pohranu.</string>
+    <string name="not_find_update_file_tips">Nije moguće pronaći nijednu datoteku za ažuriranje. Provjerite je li %1$s smješten u korijenskom direktoriju USB-a.</string>
+    <string name="not_find_update_file_tips2">Nije moguće pronaći nijednu datoteku za ažuriranje. Provjerite je li %1$s ili %2$s smješten u korijenskom direktoriju USB-a.</string>
+    <string name="not_find_update_file_tips3">Nije pronađena datoteka za nadogradnju.</string>
+    <string name="add_mall_logo_success">Mall logo je uspješno učitan.</string>
+
+    <string name="epos_position_adjustment">E-Pos podešavanje položaja</string>
+    <string name="mall_logo_position_adjustment">Podešavanje položaja logoa trgovačkog centra i promocije</string>
+    <string name="epos_update">Ažuriraj e-pos</string>
+    <string name="invalid_button_press_tips">Nevažeći pritisak na tipku u modu trgovine</string>
+    <string name="video_update_title">Ažurirajte videozapis</string>
+
+    <string name="prompt_build_in_video_update">Ažuriranje ugrađenog videozapisa. Pričekajte.</string>
+    <string name="video_update_button_update">Ažuriraj</string>
+    <string name="video_update_button_cancel">Otkaži</string>
+    <string name="picture_update_title">Ažuriraj sliku</string>
+    <string name="prompt_build_in_picture_update">Ažuriranje ugrađene slike. Pričekajte.</string>
+    <string name="update_build_in_video_toast_tips">Pričekajte, videozapis se ažurira.</string>
+    <string name="update_build_in_pic_toast_tips">Pričekajte, slika se ažurira.</string>
+    <string name="updating_tips_text">Ažuriranje. Pričekajte.</string>
+    <string name="dialog_btn_confirm_tip">Potvrda</string>
+    <string name="dialog_btn_delete_tip">Izbriši</string>
+    <string name="dialog_btn_cancel_tip">Otkaži</string>
+    <string name="build_in_picture_update">Ugrađeno ažuriranje slike</string>
+    <string name="no_find_update_pic_file_tips">Datoteka za ažuriranje slike nije pronađena. Prefiks naziva datoteke trebao bi biti [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Trenutna datoteka ažuriranja videozapisa je %1$d M. Maksimalna podržana veličina: %2$d M.</string>
+
+
+    <string name="checkbox_usb_video_content">USB video</string>
+    <string name="checkbox_usb_pic_content">USB Slika</string>
+    <string name="checkbox_signal_content">Signal</string>
+    <string name="checkbox_build_in_pic_content">Ugrađena slika</string>
+    <string name="checkbox_build_in_video_content">Ugrađeni video</string>
+
+    <string name="picture_ajust">Slika</string>
+    <string name="sound_ajust">Zvuk</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Maksimalna veličina logotipa tržnice je %1$d!</string>
+    <string name="mall_logo_pic_exist">Slika već postoji.</string>
+    <string name="delete_picture_dialog_title">Brisanje slike</string>
+    <string name="delete_picture_dialog_content">Jeste li sigurni da ovo želite izbrisati?</string>
+    <string name="delete_picture_succes_tips">Izbrisano je uspješno</string>
+
+
+    <string name="position_left">Lijevo</string>
+    <string name="position_right">Desno</string>
+    <string name="position_top">Povratak na vrh</string>
+    <string name="position_bottom">Dno</string>
+    <string name="epos_updating_tips">Ažuriranje E-Pos. Molimo pričekajte.</string>
+    <string name="btn_done">Gotovo</string>
+    <string name="btn_edit">Uredi.</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>UPOZORENJE</b></string>
+    <string name="energy_summary_one">Potrošnja energije u režimu trenutne slike može biti viša nego što je navedeno u oznaci energetske učinkovitosti</string>
+    <string name="energy_summary_two">Za normalnu potrošnju energije koristite standardni način slike</string>
+</resources>

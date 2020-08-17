@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">মোড সেটিংস সংরক্ষণ করুন</string>
+    <string name="build_in_video_update">বিল্ট ইন ভিডিও আপডেট</string>
+    <string name="aq_pq_adjust">AQ ও PQ সামঞ্জস্য</string>
+    <string name="mall_logo">মল ও প্রমোশন লোগো</string>
+    <string name="auto_play_setup">স্বয়ংক্রিয়ভাবে প্লেব্যাকের উপস্থাপনা</string>
+    <string name="epos_switch">ই-পিওএস সুইচ</string>
+
+    <string name="resume_storemode_title">স্টোর ডেমো মোড রিজিউম করুন</string>
+    <string name="resume_storemode_desc">টিভি সেট শীঘ্রই স্টোর মোড ডেমোতে ফিরে আসবে, আপনি এই প্রক্রিয়াটি স্থগিত করতে রিমোটের যেকোনো বোতাম টিপতে পারেন।</string>
+    <string name="fte_init_storemode_title">স্টোর মোড চালু করুন</string>
+    <string name="fte_init_storemode_desc">দোকানের অবস্থা initateডি করতে হবে। আপনি কি অগ্রসর করতে চান?</string>
+    <string name="fte_init_storemode_back">উত্সব করতে</string>
+    <string name="fte_init_storemode_enter">গুদাম মোডে প্রবেশ করান</string>
+
+
+    <string name="usb_not_found">কোন ইউএসবি ডিভাইস খুঁজে পাওয়া যায়নি। নিশ্চিত করুন যে আপনার ডিভাইস সংযুক্ত আছে।</string>
+    <string name="udate_success">সর্বশেষ সাফল্য</string>
+    <string name="guide_poweron_title">আপনি সেটিংস থেকে হোম মোডে স্যুইচ করতে পারেন</string>
+
+    <string name="use_mode">পরিমণ্ডল ব্যবহার করুন</string>
+    <string name="user_mode">বাড়ির অবস্থা</string>
+    <string name="store_mode">দোকান মোড</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">শপিং মলের লোগো নির্বাচন করুন</string>
+    <string name="seller_settings_toast">স্টোর মোড সেট আপ করতে মেনু টিপুন</string>
+
+    <string name="mall_logo_limit">অনুগ্রহ করে একটি PNG বা JPG, ছবি বেছে নিন</string>
+    <string name="enter_storemode">গুদাম মোডে প্রবেশ করান</string>
+    <string name="init_storemode_countdown">যদি আপনি ওকে টিপতে থাকেন তবে টিভির জন্য মেনুটি স্টোর মোড এর সূচনা করবে।</string>
+    <string name="not_find_update_file_tips">কোনও আপডেট ফাইল পাওয়া যায়নি। অনুগ্রহ করে নিশ্চিত করুন যে %1$s ইউএসবি রুট ডিরেক্টরিতে অবস্থিত রয়েছে।</string>
+    <string name="not_find_update_file_tips2">কোনও আপডেট ফাইল পাওয়া যায়নি। অনুগ্রহ করে নিশ্চিত করুন যে %1$s বা %2$s ইউএসবি রুট ডিরেক্টরিতে অবস্থিত রয়েছে।</string>
+    <string name="not_find_update_file_tips3">কোনও আপগ্রেড ফাইল পাওয়া যায়নি।</string>
+    <string name="add_mall_logo_success">টিতিনি মল লোগো হয়েছে আপলোড করেছে সফলভাবে।</string>
+
+    <string name="epos_position_adjustment">ই-পস পসিশন অ্যাডজাস্টমেন্ট</string>
+    <string name="mall_logo_position_adjustment">মল এবং প্রমোশন লোগো এর অবস্থান সামঞ্জস্য করুন</string>
+    <string name="epos_update">ই-পিওএস আপডেট</string>
+    <string name="invalid_button_press_tips">স্টোর মোডে অবৈধ বোতাম টেপা হয়েছে</string>
+    <string name="video_update_title">ভিডিও আপডেট করুন</string>
+
+    <string name="prompt_build_in_video_update">অন্তর্নির্মিত ভিডিও আপডেট করা হচ্ছে। অনুগ্রহপূর্বক অপেক্ষা করুন।</string>
+    <string name="video_update_button_update">আপডেট</string>
+    <string name="video_update_button_cancel">বাতিল</string>
+    <string name="picture_update_title">ছবি আপডেট করুন</string>
+    <string name="prompt_build_in_picture_update">অন্তর্নির্মিত ছবি আপডেট করা হচ্ছে। অনুগ্রহপূর্বক অপেক্ষা করুন।</string>
+    <string name="update_build_in_video_toast_tips">অনুগ্রহ করে অপেক্ষা করুন, ভিডিও আপডেট করা হচ্ছে।</string>
+    <string name="update_build_in_pic_toast_tips">ছবি আপডেট করা হচ্ছে, অনুগ্রহ করে অপেক্ষা করুন।</string>
+    <string name="updating_tips_text">আপডেট করা হচ্ছে। অনুগ্রহপূর্বক অপেক্ষা করুন।</string>
+    <string name="dialog_btn_confirm_tip">নিশ্চিত করুন</string>
+    <string name="dialog_btn_delete_tip">মুছে ফেলুন</string>
+    <string name="dialog_btn_cancel_tip">বাতিল</string>
+    <string name="build_in_picture_update">বিল্ট-ইন ছবি আপডেট করুন</string>
+    <string name="no_find_update_pic_file_tips">ছবি আপডেট করার ফাইল পাওয়া যায়নি। ফাইল নামের প্রিফিক্স [%1$s] হওয়া উচিত</string>
+    <string name="update_video_max_size_tips_text">বর্তমান ভিডিও আপডেট ফাইলটি %1$dএম। সর্বাধিক আকার সমর্থিত: %2$dএম।</string>
+
+
+    <string name="checkbox_usb_video_content">ইউএসবি ভিডিও</string>
+    <string name="checkbox_usb_pic_content">ইউএসবি ছবি</string>
+    <string name="checkbox_signal_content">সংকেত</string>
+    <string name="checkbox_build_in_pic_content">বিল্ট ইন ছবি</string>
+    <string name="checkbox_build_in_video_content">বিল্ট ইন ভিডিও</string>
+
+    <string name="picture_ajust">ছবি</string>
+    <string name="sound_ajust">শব্দ</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <string name="mall_logo_max_pic_size">সর্বাধিক মল লোগো এর আকার %1$d!</string>
+    <string name="mall_logo_pic_exist">ছবি আগে থেকেই রয়েছে।</string>
+    <string name="delete_picture_dialog_title">ছবি মুছে ফেলুন</string>
+    <string name="delete_picture_dialog_content">আপনি কি এটি মুছে ফেলার সম্পর্কে নিশ্চিত?</string>
+    <string name="delete_picture_succes_tips">সফলভাবে মুছে ফেলা হয়েছে</string>
+
+
+    <string name="position_left">বাম</string>
+    <string name="position_right">ঠিক আছে</string>
+    <string name="position_top">উপরে</string>
+    <string name="position_bottom">নীচ</string>
+    <string name="epos_updating_tips"> E-Pos আপডেট করা হচ্ছে। অনুগ্রহ করে অপেক্ষা করুন।</string>
+    <string name="btn_done">কাজ</string>
+    <string name="btn_edit">সম্পাদনা করুন</string>
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>সতর্কতা</b></string>
+    <string name="energy_summary_one">কারেন্ট পিকচার মোড এ শক্তি ব্যয় এনার্জি রেটিং লেবেলে নির্দেশিত তথ্যের থেকে বেশী হতে পারে</string>
+    <string name="energy_summary_two">স্বাভাবিক শক্তি খরচের জন্য স্ট্যান্ডার্ড ছবি মোড ব্যবহার করুন</string>
+</resources>

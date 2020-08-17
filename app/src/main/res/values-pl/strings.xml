@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Ustawienia trybu sklepowego</string>
+    <string name="build_in_video_update">Aktualizacja wbudowanego wideo</string>
+    <string name="aq_pq_adjust">Regulacja jakości dźwięku i obrazu</string>
+    <string name="mall_logo">Pasaż i logo promocyjne</string>
+    <string name="auto_play_setup">Ustawienia automatycznego odtwarzania</string>
+    <string name="epos_switch">Przełącznik E-Pos </string>
+
+    <string name="resume_storemode_title">Przywróć tryb sklep demo</string>
+    <string name="resume_storemode_desc">Odbiornik TV zostanie przywrócony do trybu sklep demo, naciśnij dowolny przycisk pilota by opóźnić ten proces.</string>
+    <string name="fte_init_storemode_title">Uruchom tryb sklepowy</string>
+    <string name="fte_init_storemode_desc">Zostanie uruchomiony tryb sklepowy. Czy chcesz kontynuować?</string>
+    <string name="fte_init_storemode_back">Powrót do FTE</string>
+    <string name="fte_init_storemode_enter">Uruchom tryb sklepowy</string>
+
+
+    <string name="usb_not_found">Nie wykryto urządzenia USB. Upewnij się, że urządzenie jest podłączone.</string>
+    <string name="udate_success">Aktualizacja powiodła się!</string>
+    <string name="guide_poweron_title">W Ustawieniach można przełączyć na tryb domowy</string>
+
+    <string name="use_mode">Tryb użytkowania</string>
+    <string name="user_mode">Tryb domowy</string>
+    <string name="store_mode">Tryb sklepowy</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Wybierz logo sklepu</string>
+    <string name="seller_settings_toast">Naciśnij Menu, aby skonfigurować tryb sklepowy</string>
+
+    <string name="mall_logo_limit">Wybierz obraz w formacie PNG lub JPG</string>
+    <string name="enter_storemode">Uruchom tryb sklepowy</string>
+    <string name="init_storemode_countdown">Jeśli będziesz przytrzymywał klawisz OK menu telewizora przejdzie w tryb sklepowy</string>
+    <string name="not_find_update_file_tips">Nie można znaleźć pliku aktualizacyjnego. Upewnij się, że %1$s znajduje się w głównym folderze pamięci USB.</string>
+    <string name="not_find_update_file_tips2">Nie można znaleźć pliku aktualizacyjnego. Upewnij się, że %1$s lub %2$s znajduje się w głównym folderze pamięci USB.</string>
+    <string name="not_find_update_file_tips3">Nie znaleziono pliku aktualizacyjnego.</string>
+    <string name="add_mall_logo_success">Logo sklepu zostało zaktualizowane pomyślnie.</string>
+
+    <string name="epos_position_adjustment">Regulacja pozycji E-Pos</string>
+    <string name="mall_logo_position_adjustment">Regulacja pozycji logo sklepu i logo promocyjnego</string>
+    <string name="epos_update">Aktualizacja E-Pos</string>
+    <string name="invalid_button_press_tips">Błędne naciśnięcie przycisku w trybie sklep</string>
+    <string name="video_update_title">Zaktualizuj wideo</string>
+
+    <string name="prompt_build_in_video_update">Aktualizowanie wbudowanego wideo. Proszę czekać.</string>
+    <string name="video_update_button_update">Aktualizacja</string>
+    <string name="video_update_button_cancel">Anuluj</string>
+    <string name="picture_update_title">Zaktualizuj obraz</string>
+    <string name="prompt_build_in_picture_update">Aktualizacja wbudowanego obrazu. Proszę czekać.</string>
+    <string name="update_build_in_video_toast_tips">Proszę czekać, aktualizowanie wideo.</string>
+    <string name="update_build_in_pic_toast_tips">Proszę czekać, aktualizowanie obrazu.</string>
+    <string name="updating_tips_text">Aktualizowanie. Proszę czekać.</string>
+    <string name="dialog_btn_confirm_tip">Zatwierdź</string>
+    <string name="dialog_btn_delete_tip">Usuń</string>
+    <string name="dialog_btn_cancel_tip">Anuluj</string>
+    <string name="build_in_picture_update">Aktualizacja wbudowanego obrazu</string>
+    <string name="no_find_update_pic_file_tips">Plik aktualizacji obrazu nie został znaleziony. Nazwa pliku powinna zaczynać się od [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Bieżący plik aktualizacji wideo ma %1$d MB. Maksymalny obsługiwany rozmiar: %2$d MB.</string>
+
+
+    <string name="checkbox_usb_video_content">Wideo USB</string>
+    <string name="checkbox_usb_pic_content">Obraz USB</string>
+    <string name="checkbox_signal_content">Sygnał</string>
+    <string name="checkbox_build_in_pic_content">Wbudowany obraz</string>
+    <string name="checkbox_build_in_video_content">Wbudowane wideo</string>
+
+    <string name="picture_ajust">Obraz</string>
+    <string name="sound_ajust">Dźwięk</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Maksymalny rozmiar logo sklepu to %1$d!</string>
+    <string name="mall_logo_pic_exist">Obraz już istnieje.</string>
+    <string name="delete_picture_dialog_title">Usuń obraz</string>
+    <string name="delete_picture_dialog_content">Czy na pewno chcesz usunąć?</string>
+    <string name="delete_picture_succes_tips">Usunięcie powiodło się</string>
+
+
+    <string name="position_left">Lewo</string>
+    <string name="position_right">Prawo</string>
+    <string name="position_top">Do góry</string>
+    <string name="position_bottom">Dół</string>
+
+    <string name="epos_updating_tips">Aktualizacja E-Pos. Proszę czekać.</string>
+    <string name="btn_done">Gotowe</string>
+    <string name="btn_edit">Edytuj</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>OSTRZEŻENIE</b></string>
+    <string name="energy_summary_one">Zużycie energii w bieżącym trybie obrazu może być wyższe od wskazanego na etykiecie energetycznej</string>
+    <string name="energy_summary_two">Korzystaj ze standardowego trybu obrazu, by zużycie energii było normalne</string>
+</resources>

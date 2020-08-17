@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Verslunarstillingar</string>
+    <string name="build_in_video_update">Innbyggð myndbandsuppfærsla</string>
+    <string name="aq_pq_adjust">Stilling hljóð- og myndgæða</string>
+    <string name="mall_logo">Verslunarmiðstöðvar og Kynningarmerki</string>
+    <string name="auto_play_setup">Uppsetning sjálfvirkrar stillingar</string>
+    <string name="epos_switch">Tölvupósts rofi </string>
+
+    <string name="resume_storemode_title">Halda áfram með Kynningu á Búðarham</string>
+    <string name="resume_storemode_desc">Sjónvarpsstilling mun fara aftur til kynningar búðarhams fljótlega, þú getur ýtt á hvaða hnapp sem er á fjarstýringunni til að fresta þessu ferli.</string>
+    <string name="fte_init_storemode_title">Byrja verslunarham</string>
+    <string name="fte_init_storemode_desc">Verslunarstilling verður skráð, Viltu halda áfram?</string>
+    <string name="fte_init_storemode_back">Til baka í FTE</string>
+    <string name="fte_init_storemode_enter">Fara í verslunarham</string>
+
+
+    <string name="usb_not_found">Ekkert USB tæki finnst. Vertu viss um að tæki þitt sé tengt.</string>
+    <string name="udate_success">Uppfærlsa Tókst</string>
+    <string name="guide_poweron_title">Þú getur skipt yfir í heimaham í stillingum</string>
+
+    <string name="use_mode">Notkunarstillingar</string>
+    <string name="user_mode">Heimastilling</string>
+    <string name="store_mode">Verslunarstilling</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Veldu lógó verslunarmiðstöðvar</string>
+    <string name="seller_settings_toast">Ýttu á Menu til að setja upp verslunarham</string>
+
+    <string name="mall_logo_limit">Vinsamlegast veldu PNG eða JPG mynd</string>
+    <string name="enter_storemode">Fara í verslunarham</string>
+    <string name="init_storemode_countdown">Ef þú heldur áfram að ýta á OK mun valmyndin fyrir sjónvarpið hefja Búðarham.</string>
+    <string name="not_find_update_file_tips">Engin uppfærsluskrá finnst. Vinsamlegast verið viss um að %1$s sé staðsett í USB rótarsafninu.</string>
+    <string name="not_find_update_file_tips2">Engin uppfærsluskrá finnst. Vinsamlegast verið viss um að %1$s eða %2$s sé staðsett í USB rótarsafninu.</string>
+    <string name="not_find_update_file_tips3">Engin uppfærsluskrá fannst.</string>
+    <string name="add_mall_logo_success">Það tókst að hlaða upp lógó verslunarmiðstöðvar.</string>
+
+    <string name="epos_position_adjustment">E-Pos Staðsetningarstillingar</string>
+    <string name="mall_logo_position_adjustment">Aðlaga staðsetningu myndmerkis fyrir verslunarmiðstöðvar og kynningar</string>
+    <string name="epos_update">Tölvupósts Uppfærsla</string>
+    <string name="invalid_button_press_tips">Ógild notkun takka í Búðarham</string>
+    <string name="video_update_title">Uppfæra myndband</string>
+
+    <string name="prompt_build_in_video_update">Uppfæri innbyggt myndband. Vinsamlegast bíðið.</string>
+    <string name="video_update_button_update">Uppfæra</string>
+    <string name="video_update_button_cancel">Hætta við</string>
+    <string name="picture_update_title">Uppfæra mynd</string>
+    <string name="prompt_build_in_picture_update">Uppfæri innbyggða mynd. Vinsamlegast bíðið.</string>
+    <string name="update_build_in_video_toast_tips">Vinsamlegast bíðið, myndband uppfærist.</string>
+    <string name="update_build_in_pic_toast_tips">Vinsamlegast bíðið, mynd uppfærist.</string>
+    <string name="updating_tips_text">Uppfæri. Vinsamlegast bíðið.</string>
+    <string name="dialog_btn_confirm_tip">Staðfesta</string>
+    <string name="dialog_btn_delete_tip">Eyða</string>
+    <string name="dialog_btn_cancel_tip">Hætta við</string>
+    <string name="build_in_picture_update">Uppfærsla innbyggðrar myndar</string>
+    <string name="no_find_update_pic_file_tips">Uppfærsluskrá myndar finnst ekki. Forskeyti skráarnafnsins ætti að vera [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Núverandi myndbandsuppfærsluskrá er %1$d M. Hámarksstærð sem studd er: %2$d M.</string>
+
+
+    <string name="checkbox_usb_video_content">USB Myndband</string>
+    <string name="checkbox_usb_pic_content">USB mynd</string>
+    <string name="checkbox_signal_content">Merki</string>
+    <string name="checkbox_build_in_pic_content">Innbyggð mynd</string>
+    <string name="checkbox_build_in_video_content">Innbyggt myndband</string>
+
+    <string name="picture_ajust">Mynd</string>
+    <string name="sound_ajust">Hljóð</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Hámarksstærð verslanamiðstöðvarlógós er %1$d!</string>
+    <string name="mall_logo_pic_exist">Mynd er þegar til.</string>
+    <string name="delete_picture_dialog_title">Eyða mynd</string>
+    <string name="delete_picture_dialog_content">Ertu viss um að þú viljir eyða þessu?</string>
+    <string name="delete_picture_succes_tips">Eyðing tókst</string>
+
+
+    <string name="position_left">Vinstri</string>
+    <string name="position_right">Hægri</string>
+    <string name="position_top">Efst</string>
+    <string name="position_bottom">Botn</string>
+
+    <string name="epos_updating_tips">Uppfæri E-Pos. Vinsamlegast hinkraðu.</string>
+    <string name="btn_done">Klárað</string>
+    <string name="btn_edit">Breyta</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>VIÐVÖRUN</b></string>
+    <string name="energy_summary_one">Orkunotkun í núverandi myndaham getur verið meiri en gefið er til kynna í orkuhlutfallsmerkingu</string>
+    <string name="energy_summary_two">Vinsamlegast notaðu Staðlaðan myndaham fyrir eðlilega orkunotkun</string>
+</resources>

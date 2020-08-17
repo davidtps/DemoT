@@ -1,0 +1,1252 @@
+{
+  "duration": "77100",
+  "elements": [
+    {
+      "name": "Box L1",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_hisense"
+        },
+        {
+          "name": "h",
+          "value": "360"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "1000",
+              "end": "1500",
+              "value": "(-360,0)"
+            },
+            {
+              "start": "71000",
+              "end": "71500",
+              "value": "(0,-360)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "1000",
+              "end": "71500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_250_360"
+        }
+      ]
+    },
+    {
+      "name": "Box L2",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_hisense_bg"
+        },
+        {
+          "name": "h",
+          "value": "745"
+        },
+        {
+          "name": "layoutorder",
+          "value": "2"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "2500",
+              "end": "3500",
+              "value": "(-745,335)"
+            },
+            {
+              "start": "70000",
+              "end": "70500",
+              "value": "(335,-745)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "2500",
+              "end": "70500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_250_745"
+        }
+      ]
+    },
+    {
+      "name": "Box android_tv",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_android_tv"
+        },
+        {
+          "name": "h",
+          "value": "87"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "4500",
+              "end": "5000",
+              "value": "(360,447)"
+            },
+            {
+              "start": "36000",
+              "end": "36500",
+              "value": "(447,360)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "4500",
+              "end": "36500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "10200",
+              "end": "10300",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "11100",
+              "end": "11200",
+              "value": "(0.8,1)"
+            },
+            {
+              "start": "12700",
+              "end": "12800",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "13600",
+              "end": "13700",
+              "value": "(0.8,1)"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_250_87"
+        }
+      ]
+    },
+    {
+      "name": "Box 4k_ultra_hd",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_4k_ultra_hd"
+        },
+        {
+          "name": "h",
+          "value": "87"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "5500",
+              "end": "6000",
+              "value": "(534,621)"
+            },
+            {
+              "start": "35000",
+              "end": "35500",
+              "value": "(621,534)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "5500",
+              "end": "35500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "16400",
+              "end": "16500",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "17300",
+              "end": "17400",
+              "value": "(0.8,1)"
+            },
+            {
+              "start": "18900",
+              "end": "19000",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "19800",
+              "end": "19900",
+              "value": "(0.8,1)"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_250_87"
+        }
+      ]
+    },
+    {
+      "name": "Box hdr",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_hdr"
+        },
+        {
+          "name": "h",
+          "value": "87"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "6500",
+              "end": "7000",
+              "value": "(708,795)"
+            },
+            {
+              "start": "34000",
+              "end": "34500",
+              "value": "(795,708)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "6500",
+              "end": "34500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "22600",
+              "end": "22700",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "23500",
+              "end": "23600",
+              "value": "(0.8,1)"
+            },
+            {
+              "start": "25100",
+              "end": "25200",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "26000",
+              "end": "26100",
+              "value": "(0.8,1)"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_250_87"
+        }
+      ]
+    },
+    {
+      "name": "Box 4kuhd",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_4kuhd"
+        },
+        {
+          "name": "h",
+          "value": "87"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "7500",
+              "end": "8000",
+              "value": "(882,969)"
+            },
+            {
+              "start": "33000",
+              "end": "33500",
+              "value": "(969,882)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "7500",
+              "end": "33500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "28800",
+              "end": "28900",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "29700",
+              "end": "29800",
+              "value": "(0.8,1)"
+            },
+            {
+              "start": "31300",
+              "end": "31400",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "32200",
+              "end": "32300",
+              "value": "(0.8,1)"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_250_87"
+        }
+      ]
+    },
+    ////////////////////////////////////////
+    {
+      "name": "Box depthenhancer",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_depthenhancer"
+        },
+        {
+          "name": "h",
+          "value": "87"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "37500",
+              "end": "38000",
+              "value": "(360,447)"
+            },
+            {
+              "start": "69000",
+              "end": "69500",
+              "value": "(447,360)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "37500",
+              "end": "69500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "43200",
+              "end": "43300",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "44100",
+              "end": "44200",
+              "value": "(0.8,1)"
+            },
+            {
+              "start": "45700",
+              "end": "45800",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "46600",
+              "end": "46700",
+              "value": "(0.8,1)"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_250_87"
+        }
+      ]
+    },
+    {
+      "name": "Box precisioncolour",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_precisioncolour"
+        },
+        {
+          "name": "h",
+          "value": "87"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "38500",
+              "end": "39000",
+              "value": "(534,621)"
+            },
+            {
+              "start": "68000",
+              "end": "68500",
+              "value": "(621,534)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "38500",
+              "end": "68500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "49400",
+              "end": "49500",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "50300",
+              "end": "50400",
+              "value": "(0.8,1)"
+            },
+            {
+              "start": "51900",
+              "end": "52000",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "52800",
+              "end": "52900",
+              "value": "(0.8,1)"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_250_87"
+        }
+      ]
+    },
+    {
+      "name": "Box voice",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_voice"
+        },
+        {
+          "name": "h",
+          "value": "87"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "39500",
+              "end": "40000",
+              "value": "(708,795)"
+            },
+            {
+              "start": "67000",
+              "end": "67500",
+              "value": "(795,708)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "39500",
+              "end": "67500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "55600",
+              "end": "55700",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "56500",
+              "end": "56600",
+              "value": "(0.8,1)"
+            },
+            {
+              "start": "58100",
+              "end": "58200",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "59000",
+              "end": "59100",
+              "value": "(0.8,1)"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_250_87"
+        }
+      ]
+    },
+    {
+      "name": "Box dts_virtual",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_dts_virtual"
+        },
+        {
+          "name": "h",
+          "value": "87"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "40500",
+              "end": "41000",
+              "value": "(882,969)"
+            },
+            {
+              "start": "66000",
+              "end": "66500",
+              "value": "(969,882)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "40500",
+              "end": "66500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "61800",
+              "end": "61900",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "62700",
+              "end": "62800",
+              "value": "(0.8,1)"
+            },
+            {
+              "start": "64300",
+              "end": "64400",
+              "value": "(1,0.8)"
+            },
+            {
+              "start": "65200",
+              "end": "65300",
+              "value": "(0.8,1)"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_250_87"
+        }
+      ]
+    },
+    /////////////////////////////////////////
+    {
+      "name": "android_tv_pic",
+      "propertys": [
+        {
+          "name": "y",
+          "value": "275"
+        },
+        {
+          "name": "h",
+          "value": "173"
+        },
+        {
+          "name": "content",
+          "value": "epos_android_tv_pic"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "9000",
+              "end": "14200",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "9000",
+              "end": "9200",
+              "value": "(0,1)"
+            },
+            {
+              "start": "14000",
+              "end": "14200",
+              "value": "(1,0)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "4k_ultra_hd_pic",
+      "propertys": [
+        {
+          "name": "y",
+          "value": "275"
+        },
+        {
+          "name": "h",
+          "value": "173"
+        },
+        {
+          "name": "content",
+          "value": "epos_4k_ultra_hd_pic"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "15200",
+              "end": "20400",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "15200",
+              "end": "15400",
+              "value": "(0,1)"
+            },
+            {
+              "start": "20200",
+              "end": "20400",
+              "value": "(1,0)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hdr_pic",
+      "propertys": [
+        {
+          "name": "y",
+          "value": "275"
+        },
+        {
+          "name": "h",
+          "value": "173"
+        },
+        {
+          "name": "content",
+          "value": "epos_hdr_pic"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "21400",
+              "end": "26600",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "21400",
+              "end": "21600",
+              "value": "(0,1)"
+            },
+            {
+              "start": "26400",
+              "end": "26600",
+              "value": "(1,0)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "4kuhd_pic",
+      "propertys": [
+        {
+          "name": "y",
+          "value": "275"
+        },
+        {
+          "name": "h",
+          "value": "173"
+        },
+        {
+          "name": "content",
+          "value": "epos_4kuhd_pic"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "27600",
+              "end": "32800",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "27600",
+              "end": "27800",
+              "value": "(0,1)"
+            },
+            {
+              "start": "32600",
+              "end": "32800",
+              "value": "(1,0)"
+            }
+          ]
+        }
+      ]
+    },
+    /////////////////////////////////////////
+    {
+      "name": "depthenhancer_pic",
+      "propertys": [
+        {
+          "name": "y",
+          "value": "275"
+        },
+        {
+          "name": "h",
+          "value": "173"
+        },
+        {
+          "name": "content",
+          "value": "epos_depthenhancer_pic"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "42000",
+              "end": "47200",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "42000",
+              "end": "42200",
+              "value": "(0,1)"
+            },
+            {
+              "start": "47000",
+              "end": "47200",
+              "value": "(1,0)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "precisioncolour_pic",
+      "propertys": [
+        {
+          "name": "y",
+          "value": "275"
+        },
+        {
+          "name": "h",
+          "value": "173"
+        },
+        {
+          "name": "content",
+          "value": "epos_precisioncolour_pic"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "48200",
+              "end": "53400",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "48200",
+              "end": "48400",
+              "value": "(0,1)"
+            },
+            {
+              "start": "53200",
+              "end": "53400",
+              "value": "(1,0)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "voice_pic",
+      "propertys": [
+        {
+          "name": "y",
+          "value": "275"
+        },
+        {
+          "name": "h",
+          "value": "173"
+        },
+        {
+          "name": "content",
+          "value": "epos_voice_pic"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "54400",
+              "end": "59600",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "54400",
+              "end": "54600",
+              "value": "(0,1)"
+            },
+            {
+              "start": "59400",
+              "end": "59600",
+              "value": "(1,0)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dts_virtual_pic",
+      "propertys": [
+        {
+          "name": "y",
+          "value": "275"
+        },
+        {
+          "name": "h",
+          "value": "173"
+        },
+        {
+          "name": "content",
+          "value": "epos_dts_virtual_pic"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "250"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "60600",
+              "end": "65800",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "60600",
+              "end": "60800",
+              "value": "(0,1)"
+            },
+            {
+              "start": "65600",
+              "end": "65800",
+              "value": "(1,0)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

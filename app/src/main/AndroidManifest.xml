@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hisense.storemode"
+    android:sharedUserId="android.uid.system">
+
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="true" />
+    <uses-feature
+        android:name="android.software.live_tv"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <!-- Epos show need -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <!-- 接收开机广播权限 -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.BIND_TV_INPUT" />
+
+    <!--set process limit -->
+    <uses-permission android:name="android.permission.SET_PROCESS_LIMIT" />
+    <!-- disable com.google.android.gms need -->
+    <uses-permission android:name="android.permission.CHANGE_COMPONENT_ENABLED_STATE" />
+
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.hisense.permission.monitorkeys" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <!--<uses-permission android:name="com.hisense.storemode.START_RECEIVER" />-->
+
+    <!--<permission-->
+    <!--android:name="com.hisense.storemode.START_RECEIVER"-->
+    <!--android:protectionLevel="normal" />-->
+
+    <application
+        android:name=".StoreModeApplication"
+        android:allowBackup="true"
+        android:banner="@drawable/ic_launcher"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/StoreMode_Theme">
+        <receiver
+            android:name=".receiver.InstallResultReceiver"
+            android:enabled="true"></receiver>
+        <receiver
+            android:name=".receiver.StoreModeReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter android:priority="990">
+                <action android:name="com.hisense.storemode.start_4k" />
+                <action android:name="com.hisense.storemode.start" />
+                <action android:name="com.hisense.storemode.finish" />
+                <action android:name="com.hisense.storemode.init_countdown" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".receiver.StoreModeSystemReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter android:priority="990">
+                <data android:scheme="file" />
+
+                <action android:name="android.intent.action.MEDIA_UNMOUNTED" />
+                <action android:name="android.intent.action.MEDIA_EJECT" />
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+            </intent-filter>
+            <intent-filter android:priority="999">
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+
+            <!--<intent-filter android:priority="980">-->
+
+            <!--<action android:name="com.hisense.storemode.start_4k" />-->
+            <!--<action android:name="com.hisense.missionComplete" />-->
+            <!--<action android:name="com.hisense.storemode.start" />-->
+            <!--<action android:name="com.hisense.storemode.finish" />-->
+            <!--<action android:name="android.hardware.usb.action.USB_ACCESSORY_DETACHED" />-->
+            <!--<action android:name="android.hardware.usb.action.USB_DEVICE_DETACHED" />-->
+            <!--<action android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED" />-->
+            <!--<action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />-->
+            <!--</intent-filter>-->
+        </receiver>
+
+        <service
+            android:name=".service.StoreModeService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.hisense.storemode.init_countdown" />
+                <action android:name="com.hisense.storemode.start" />
+                <action android:name="com.hisense.storemode.start_4k" />
+                <action android:name="com.hisense.storemode.finish" />
+            </intent-filter>
+        </service>
+        <service android:name=".service.BackgroundService"></service>
+        <service android:name=".service.BackgroundService$GrayInnerService"></service>
+        <service android:name=".service.EmptyService"></service>
+        <service android:name=".service.EmptyService$GrayInnerService"></service>
+
+        <activity
+            android:name=".ui.activity.MainActivity"
+            android:configChanges="locale|layoutDirection"
+            android:launchMode="singleTask"
+            android:theme="@style/StoreMode_Theme">
+            <intent-filter>
+                <action android:name="com.hisense.storemode.main" />
+
+                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.activity.UpdateVideoActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme.Leanback" />
+        <activity
+            android:name=".ui.activity.ModeSelectActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".ui.activity.UpdatePictureActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme.Leanback" />
+        <activity
+            android:name=".ui.activity.OperationConfirmActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme.Leanback" />
+
+        <activity
+            android:name=".ui.activity.SellerSettingActivity"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:theme="@style/TranTheme">
+            <intent-filter>
+                <action android:name="com.hisense.storemode.sellersettings" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ui.activity.PicListActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme.Leanback" />
+    </application>
+
+</manifest>

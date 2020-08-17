@@ -1,0 +1,256 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        applicationId "com.hisense.storemode"
+        minSdkVersion 26
+        targetSdkVersion 28
+        versionCode 100000580
+        versionName "1.00.00.058.0"
+    }
+    signingConfigs {
+        debug {
+            storeFile file("platform.keystore")
+            keyAlias = 'platform'
+            keyPassword = 'android'
+            storePassword = 'android'
+        }
+        release {
+            storeFile file("platform.keystore")
+            keyAlias = 'platform'
+            keyPassword = 'android'
+            storePassword = 'android'
+        }
+
+
+    }
+    buildTypes {
+        release {
+//            // 混淆
+//            minifyEnabled true
+//            // Zipalign优化
+//            zipAlignEnabled true
+//            // 移除无用的resource文件
+//            shrinkResources true
+//            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+
+            // rename the apk with the version name
+            applicationVariants.all { variant ->
+                variant.outputs.each { output ->
+                    def outputFile = output.outputFile
+                    def flavorName = variant.productFlavors[0].name
+//                    def createTime = new Date().format("YYYY-MM-dd", TimeZone.getTimeZone("GMT+08:00"))
+                    variant.getPackageApplication().outputDirectory = new File(project.rootDir.absolutePath, "/apk")
+                    variant.outputs.all {
+                        outputFileName = "StoreMode_" + flavorName + "_release.apk"
+                    }
+                    if (outputFile != null) {
+                        println "======outputFile.name======" + outputFile.name
+                    }
+                }
+            }
+        }
+        debug {
+            minifyEnabled false
+        }
+    }
+
+    sourceSets {
+//        main {
+//            manifest.srcFile 'src/main/AndroidManifest.xml'
+//            java.srcDirs = ['src/main/java']
+//            res.srcDirs = ['src/main/res']
+//            assets.srcDirs = ['src/main/assets']
+//        }
+        saha6150fs {
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            java.srcDirs = ['src/saha6150fs/java']
+            res.srcDirs = ['src/main/res-saha6150fs']
+            assets.srcDirs = ['src/saha6150fs/assets']
+        }
+
+        sara6150fs {
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            java.srcDirs = ['src/sara6150fs/java']
+            res.srcDirs = ['src/main/res-sara6150fs']
+            assets.srcDirs = ['src/sara6150fs/assets']
+        }
+
+        emusa6109fuwa {
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            java.srcDirs = ['src/emusa6109fuwa/java']
+            res.srcDirs = ['src/main/res-emusa6109fuwa']
+            assets.srcDirs = ['src/emusa6109fuwa/assets']
+        }
+
+        usa6101eu {
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            java.srcDirs = ['src/usa6101eu/java']
+            res.srcDirs = ['src/main/res-usa6101eu']
+            assets.srcDirs = ['src/usa6101eu/assets']
+        }
+
+        ema8020ex {
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            java.srcDirs = ['src/ema8020ex/java']
+            res.srcDirs = ['src/main/res-ema8020ex']
+            assets.srcDirs = ['src/ema8020ex/assets']
+        }
+
+        emvuxa6100f {
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            java.srcDirs = ['src/emvuxa6100f/java']
+            res.srcDirs = ['src/main/res-emvuxa6100f']
+            assets.srcDirs = ['src/emvuxa6100f/assets']
+        }
+
+        ema6106ex {
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            java.srcDirs = ['src/ema6106ex/java']
+            res.srcDirs = ['src/main/res-ema6106ex']
+            assets.srcDirs = ['src/ema6106ex/assets']
+        }
+
+        emusa6800fuw {
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            java.srcDirs = ['src/emusa6800fuw/java']
+            res.srcDirs = ['src/main/res-emusa6800fuw']
+            assets.srcDirs = ['src/emusa6800fuw/assets']
+        }
+        emusu6fuw {
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            java.srcDirs = ['src/emusu6fuw/java']
+            res.srcDirs = ['src/main/res-emusu6fuw']
+            assets.srcDirs = ['src/emusu6fuw/assets']
+        }
+
+        emoemxa6152f {
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            java.srcDirs = ['src/emoemxa6152f/java']
+            res.srcDirs = ['src/main/res-emoemxa6152f']
+            assets.srcDirs = ['src/emoemxa6152f/assets']
+        }
+        emau9f6uwtg {
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            java.srcDirs = ['src/emau9f6uwtg/java']
+            res.srcDirs = ['src/main/res-emau9f6uwtg']
+            assets.srcDirs = ['src/emau9f6uwtg/assets']
+        }
+    }
+
+
+    flavorDimensions("storemode")
+
+    productFlavors {
+//        main {
+//            dimension "storemode"
+//            buildConfigField('String', 'CURR_PLATFORM', '"6886us"')
+//        }
+        saha6150fs {
+            dimension "storemode"
+            buildConfigField('String', 'CURR_PLATFORM', '"6886saha6150fs"')
+        }
+        sara6150fs {
+            dimension "storemode"
+            buildConfigField('String', 'CURR_PLATFORM', '"6886sara6150fs"')
+        }
+        emusa6109fuwa {
+            dimension "storemode"
+            buildConfigField('String', 'CURR_PLATFORM', '"6886emusa6109fuwa"')
+        }
+        usa6101eu {
+            dimension "storemode"
+            buildConfigField('String', 'CURR_PLATFORM', '"6886usa6101eu"')
+        }
+        emvuxa6100f {
+            dimension "storemode"
+            buildConfigField('String', 'CURR_PLATFORM', '"6886emvuxa6100f"')
+        }
+        ema6106ex {
+            dimension "storemode"
+            buildConfigField('String', 'CURR_PLATFORM', '"6886ema6106ex"')
+        }
+
+        ema8020ex {
+            dimension "storemode"
+            buildConfigField('String', 'CURR_PLATFORM', '"6886ema8020ex"')
+        }
+
+        emusa6800fuw {
+            dimension "storemode"
+            buildConfigField('String', 'CURR_PLATFORM', '"6886emusa6800fuw"')
+        }
+
+        emusu6fuw {
+            dimension "storemode"
+            buildConfigField('String', 'CURR_PLATFORM', '"6886emusu6fuw"')
+        }
+
+        emoemxa6152f {
+            dimension "storemode"
+            buildConfigField('String', 'CURR_PLATFORM', '"6886emoemxa6152f"')
+        }
+        emau9f6uwtg {
+            dimension "storemode"
+            buildConfigField('String', 'CURR_PLATFORM', '"9980emau9f6uwtg"')
+        }
+    }
+
+
+}
+
+dependencies {
+    compileOnly files('libs/framework.jar')
+    //    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.leanback:leanback:1.1.0-alpha02'
+    implementation 'androidx.leanback:leanback-preference:1.1.0-alpha02'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.0-beta3'
+    implementation 'me.yokeyword:fragmentationx:1.0.2'
+    implementation 'org.greenrobot:eventbus:3.1.1'
+    //gson
+    implementation 'com.google.code.gson:gson:2.2.4'
+    //bugly
+    //    api 'com.tencent.bugly:crashreport:INotificationSideChannellatest.release'
+    //leakcanary
+    //    debugImplementation 'com.squareup.leakcanary:leakcanary-android:1.6.3'
+    //    releaseImplementation 'com.squareup.leakcanary:leakcanary-android:1.6.3'
+    //    releaseImplementation 'com.squareup.leakcanary:leakcanary-android-no-op:1.6.3'
+    //butterknife
+    implementation 'com.jakewharton:butterknife:10.0.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.0.0'
+    //glide
+    implementation 'com.github.bumptech.glide:glide:4.10.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.10.0'
+    //WorkManager
+    implementation 'androidx.work:work-runtime:2.2.0'
+    implementation files('libs/mtk_audio.jar')
+    implementation files('libs/mtk_mtkmediaplayer.jar')
+//    implementation files('libs/mtk_tvinput.jar')
+//    implementation files('libs/mtk_exomediaplayer.jar')
+
+
+    gradle.startParameter.getTaskNames().each { task ->
+        println "task content:======" + task
+        if (task.contains("Usa6101euRelease")) {
+            implementation files('libs/newaqpq_set.jar')
+            implementation files('libs/mtk_tvinput.jar')
+            implementation files('libs/mtk_exomediaplayer.jar')
+
+        } else if (task.contains("Emau9f6uwtgRelease")) {
+            implementation files('libs-em/mtk_tvinput_9980.jar')
+            implementation files('libs-em/mtk_exomediaplayer_9980.jar')
+
+        } else {
+            implementation files('libs-em/mtk_tvinput.jar')
+            implementation files('libs-em/mtk_exomediaplayer.jar')
+        }
+    }
+}

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:background="#FFF7F3F3">
+
+    <TextView
+        android:id="@+id/tv_open_log_left"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:background="@drawable/tv_debug_bg_selector"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="OpenLogOnLeft"
+        android:textAllCaps="false"
+        app:layout_constraintHorizontal_weight="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/tv_open_log_right"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_open_log_right"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:background="@drawable/tv_debug_bg_selector"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="OpenLogOnRight"
+        android:textAllCaps="false"
+        app:layout_constraintHorizontal_weight="1"
+        app:layout_constraintLeft_toRightOf="@id/tv_open_log_left"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_close_log"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/tv_debug_bg_selector"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="CloseLog"
+        android:textAllCaps="false"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_open_log_left" />
+
+    <TextView
+        android:id="@+id/tv_reset_aqpq"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/tv_debug_bg_selector"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="ResetAqPq"
+        android:textAllCaps="false"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_close_log" />
+
+    <TextView
+        android:id="@+id/tv_play_next"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/tv_debug_bg_selector"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="PlayNext"
+        android:textAllCaps="false"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_reset_aqpq" />
+
+    <LinearLayout
+        android:id="@+id/ll_signal_content"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tv_debug_bg_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_play_next">
+
+        <EditText
+            android:id="@+id/et_input_signal_time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:layout_weight="1"
+            android:digits="0123456789"
+            android:hint="input signal time seconds"
+            android:inputType="phone"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_video_content"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tv_debug_bg_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ll_signal_content">
+
+        <EditText
+            android:id="@+id/et_input_video_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:digits="0123456789"
+            android:hint="input each pic time seconds"
+            android:inputType="phone"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_epos_content"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tv_debug_bg_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ll_video_content">
+
+        <EditText
+            android:id="@+id/et_input_epos_location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:digits="0123456789"
+            android:hint="input location 0 1 2 3"
+            android:inputType="phone"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/tv_set_time"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/tv_debug_bg_selector"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="SetTime"
+        app:layout_constraintHorizontal_weight="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/tv_set_epos_location"
+        app:layout_constraintTop_toBottomOf="@id/ll_epos_content" />
+
+    <TextView
+        android:id="@+id/tv_set_epos_location"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/tv_debug_bg_selector"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="SetEposPosition"
+        app:layout_constraintHorizontal_weight="1"
+        app:layout_constraintLeft_toRightOf="@id/tv_set_time"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ll_epos_content" />
+
+    <TextView
+        android:id="@+id/tv_close"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/tv_debug_bg_selector"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="Close"
+        android:textAllCaps="false"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_set_time" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

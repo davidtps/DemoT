@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Store Mode Settings</string>
+    <string name="build_in_video_update">Built-in Video Update</string>
+    <string name="aq_pq_adjust">AQ&amp;PQ Adjust</string>
+    <string name="mall_logo">Mall &amp; Promotion Logo</string>
+    <string name="auto_play_setup">Auto Playback Setup</string>
+    <string name="epos_switch">E-Pos Switch </string>
+
+    <string name="resume_storemode_title">Resume Store Mode Demo</string>
+    <string name="resume_storemode_desc">TV set will back to store mode demo soon, you can press any remote button to postpone this process.</string>
+    <string name="fte_init_storemode_title">Initate Store Mode</string>
+    <string name="fte_init_storemode_desc">Store Mode will be initiated, Do you want to Continue?</string>
+    <string name="fte_init_storemode_back">Back to FTE</string>
+    <string name="fte_init_storemode_enter">Enter Store Mode</string>
+
+
+    <string name="usb_not_found">No USB device is found. Make sure your device is connected.</string>
+    <string name="udate_success">Update Success</string>
+    <string name="guide_poweron_title">You can switch to Home Mode in Settings</string>
+
+    <string name="use_mode">Use Mode</string>
+    <string name="user_mode">Home Mode</string>
+    <string name="store_mode">Store Mode</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Select A Mall Logo</string>
+    <string name="seller_settings_toast">Press Menu to set up Store Mode</string>
+
+    <string name="mall_logo_limit">Please choose a PNG or JPG Image</string>
+    <string name="enter_storemode">Enter Store Mode</string>
+    <string name="init_storemode_countdown">If you keep pressing Ok then the menu for the TV will initate Store Mode</string>
+    <string name="not_find_update_file_tips">No update file can be found. Please make sure %1$s is located in the USB root directory.</string>
+    <string name="not_find_update_file_tips2">No update file can be found. Please make sure %1$s or %2$s is located in the USB root directory.</string>
+    <string name="add_mall_logo_success">The mall logo has been uploaded successfully.</string>
+    <string name="not_find_update_file_tips3">No update file can be found.</string>
+
+
+    <string name="epos_position_adjustment">E-Pos Position Adjustment</string>
+    <string name="mall_logo_position_adjustment">Mall &amp; Promotion Logo Position Adjustment</string>
+    <string name="epos_update">E-Pos Update</string>
+    <string name="invalid_button_press_tips">Invalid button press in Store Mode</string>
+    <string name="video_update_title">Update Video</string>
+
+    <string name="prompt_build_in_video_update">Updating built-in video. Please wait.</string>
+    <string name="video_update_button_update">Update</string>
+    <string name="video_update_button_cancel">Cancel</string>
+    <string name="picture_update_title">Update Picture</string>
+    <string name="prompt_build_in_picture_update">Updating built-in picture. Please wait.</string>
+    <string name="update_build_in_video_toast_tips">Please wait, video is updating.</string>
+    <string name="update_build_in_pic_toast_tips">Please wait, picture is updating.</string>
+    <string name="updating_tips_text">Updating. Please wait.</string>
+    <string name="dialog_btn_confirm_tip">Confirm</string>
+    <string name="dialog_btn_delete_tip">Delete</string>
+    <string name="dialog_btn_cancel_tip">Cancel</string>
+    <string name="build_in_picture_update">Built-in Picture Update</string>
+    <string name="no_find_update_pic_file_tips">Picture update file is not found. File name prefix should be [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Current video update file is %1$d M. Maximum size supported: %2$d M.</string>
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">USB Video</string>
+    <string name="checkbox_usb_pic_content">USB Picture</string>
+    <string name="checkbox_signal_content">Signal</string>
+    <string name="checkbox_build_in_pic_content">Built-in Picture</string>
+    <string name="checkbox_build_in_video_content">Built-in Video</string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">Picture</string>
+    <string name="sound_ajust">Sound</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">Maximum mall logo size is %1$d!</string>
+    <string name="mall_logo_pic_exist">Picture already exists.</string>
+    <string name="delete_picture_dialog_title">Delete Picture</string>
+    <string name="delete_picture_dialog_content">Are you sure you want to delete this?</string>
+    <string name="delete_picture_succes_tips">Deleted successfully</string>
+
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">Left</string>
+    <string name="position_right">Right</string>
+    <string name="position_top">Top</string>
+    <string name="position_bottom">Bottom</string>
+    <string name="epos_updating_tips">Updating E-Pos. Please wait.</string>
+    <string name="btn_done">Done</string>
+    <string name="btn_edit">Edit</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>WARNING</b></string>
+    <string name="energy_summary_one">Energy consumption in the current picture mode may be higher than indicated in the energy rating label</string>
+    <string name="energy_summary_two">Please use <b>Standard</b> picture mode for normal energy consumption</string>
+</resources>

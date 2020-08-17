@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="150dp"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/picture_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#DEFFFFFF"
+            android:textSize="36sp"
+            tools:text="UpdateView" />
+
+        <TextView
+            android:id="@+id/picture_summary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/picture_title"
+            android:layout_marginTop="12dp"
+            android:textColor="#8AFFFFFF"
+            android:textSize="18sp"
+            tools:text="description" />
+
+        <TextView
+            android:id="@+id/picture_progress"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_below="@+id/picture_summary"
+            android:layout_marginTop="18dp"
+            android:textColor="#DEFFFFFF"
+            android:textSize="24sp"
+            android:gravity="center"
+            tools:text="0/5" />
+
+    </RelativeLayout>
+</LinearLayout>

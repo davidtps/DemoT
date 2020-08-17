@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Cilësimet e modalitetit të dyqanit</string>
+    <string name="build_in_video_update">Përditësim i videos së integruar</string>
+    <string name="aq_pq_adjust">Rregullim i  AQ&amp;PQ</string>
+    <string name="mall_logo">Logo për qendrën tregtare dhe ofertën</string>
+    <string name="auto_play_setup">Konfigurimi i luajtjes automatike</string>
+    <string name="epos_switch">Çelësi E-Pos </string>
+
+    <string name="resume_storemode_title">Vazhdo demonstrimin Modaliteti Dyqan</string>
+    <string name="resume_storemode_desc">Televizori do të rikthehet në demonstrimin e modalitetit dyqan së shpejti. Mund të shtypni çfarëdo butoni në telekomandë për ta shtyrë këtë proces.</string>
+    <string name="fte_init_storemode_title">Fillo modalitetin Dyqan</string>
+    <string name="fte_init_storemode_desc">Metoda Dyqan do të fillojë. Doni të vazhdoni?</string>
+    <string name="fte_init_storemode_back">Përsëri në FTE</string>
+    <string name="fte_init_storemode_enter">Hyr në modalitetin Dyqan</string>
+
+
+    <string name="usb_not_found">Nuk u gjet pajisje USB. Sigurohuni që pajisja juaj është e lidhur.</string>
+    <string name="udate_success">Azhornimi i suksesshëm!</string>
+    <string name="guide_poweron_title">Mund të kaloni në modalitetin Shtëpi te Cilësimet</string>
+
+    <string name="use_mode">Mënyra e përdorimit</string>
+    <string name="user_mode">Mënyra fillestare</string>
+    <string name="store_mode">Modalitetin Dyqan</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Zgjidh një logo qendre tregtare</string>
+    <string name="seller_settings_toast">Shtypni Menu për të aktivizuar Modaliteti i Shitblerjes</string>
+
+    <string name="mall_logo_limit">Ju lutem zgjidhni një imazh PNG ose JPG</string>
+    <string name="enter_storemode">Hyr në modalitetin Dyqan</string>
+    <string name="init_storemode_countdown">Nëse vazhdoni të shtypni Ok, atëherë menuja për televizorin do të nisë Modalitetin Dyqan.</string>
+    <string name="not_find_update_file_tips">Nuk mund të gjendet skedar përditësimi. Ju lutemi sigurohuni që %1$s gjendet në direktorinë rrënjë USB.</string>
+    <string name="not_find_update_file_tips2">Nuk mund të gjendet skedar përditësimi. Ju lutemi sigurohuni që %1$s ose %2$s gjendet në direktorinë rrënjë USB.</string>
+    <string name="not_find_update_file_tips3">Nuk është gjetur asnjë skedar përditësimi.</string>
+    <string name="add_mall_logo_success">Logoja e qendrës tregtare u përditësua me sukses.</string>
+
+    <string name="epos_position_adjustment">Rregullimi i pozicionit E-Pos</string>
+    <string name="mall_logo_position_adjustment">Rregullimi i pozicionit Qendër tregtare &amp; Promocion</string>
+    <string name="epos_update">Përditësim E-Pos</string>
+    <string name="invalid_button_press_tips">Shtypje butoni të pavlefshëm në Modalitetin Dyqan</string>
+    <string name="video_update_title">Përditësoni Videon</string>
+
+    <string name="prompt_build_in_video_update">Duke përditësuar videon e integruar. Ju lutem prisni.</string>
+    <string name="video_update_button_update">Azhorno</string>
+    <string name="video_update_button_cancel">Anullo</string>
+    <string name="picture_update_title">Përditësoni Foton</string>
+    <string name="prompt_build_in_picture_update">Duke përditësuar foton e integruar. Ju lutem prisni.</string>
+    <string name="update_build_in_video_toast_tips">Ju lutem prisni. Videoja është duke u përditësuar.</string>
+    <string name="update_build_in_pic_toast_tips">Ju lutem prisni. Fotoja është duke u përditësuar.</string>
+    <string name="updating_tips_text">Duke u përditësuar. Ju lutem prisni.</string>
+    <string name="dialog_btn_confirm_tip">Konfirmo</string>
+    <string name="dialog_btn_delete_tip">Fshi</string>
+    <string name="dialog_btn_cancel_tip">Anullo</string>
+    <string name="build_in_picture_update">Përditësim i  fotos së integruat </string>
+    <string name="no_find_update_pic_file_tips">Përditësimi  i fotos nuk mund të gjendet. Parashtesa e dokumentit duhet të jetë [%1$s].</string>
+    <string name="update_video_max_size_tips_text">Përditësimi aktual i videos është %1$d M. Madhësia maksimale e suportuar: %2$d M.</string>
+
+
+    <string name="checkbox_usb_video_content">Video USB</string>
+    <string name="checkbox_usb_pic_content">Foto USB</string>
+    <string name="checkbox_signal_content">Sinjali</string>
+    <string name="checkbox_build_in_pic_content">Foto e integruar</string>
+    <string name="checkbox_build_in_video_content">Video e integruar</string>
+
+    <string name="picture_ajust">Figura</string>
+    <string name="sound_ajust">Tingulli</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Madhësia maksimale e logos tregtare është %1$d!</string>
+    <string name="mall_logo_pic_exist">Fotoja tashmë ekziston</string>
+    <string name="delete_picture_dialog_title">Foto e fshirë</string>
+    <string name="delete_picture_dialog_content">A jeni i sigurtë se dëshironi ta fshini këtë?</string>
+    <string name="delete_picture_succes_tips">U fshi me sukses</string>
+
+
+    <string name="position_left">Majtas</string>
+    <string name="position_right">Djathtas</string>
+    <string name="position_top">Kthehu në krye</string>
+    <string name="position_bottom">Fundi</string>
+
+    <string name="epos_updating_tips">Duke përditësuar E-Pos. Ju lutemi prisni.</string>
+    <string name="btn_done">Përfundoi</string>
+    <string name="btn_edit">Modifiko</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>PARALAJMËRIM</b></string>
+    <string name="energy_summary_one">Konsumi i energjisë në modalitetin aktual të figurës mund të jetë më i lartë nga sa tregohet në etiketën e vlerave të energjisë.</string>
+    <string name="energy_summary_two">Ju lutem përdorni modalitetin standard të figurës për konsum normal të energjisë.</string>
+</resources>

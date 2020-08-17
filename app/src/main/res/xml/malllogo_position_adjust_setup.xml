@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/mall_logo_position_adjustment">
+    <com.hisense.storemode.widget.RadioButtonPreference
+        android:key="@string/key_malllogo_position_left"
+        android:title="@string/position_left" />
+    <com.hisense.storemode.widget.RadioButtonPreference
+        android:key="@string/key_malllogo_position_top"
+        android:title="@string/position_top" />
+    <com.hisense.storemode.widget.RadioButtonPreference
+        android:key="@string/key_malllogo_position_right"
+        android:title="@string/position_right" />
+
+    <com.hisense.storemode.widget.RadioButtonPreference
+        android:key="@string/key_malllogo_position_bottom"
+        android:title="@string/position_bottom" />
+</PreferenceScreen>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">स्टोर मोड सेटिंग</string>
+    <string name="build_in_video_update">बिल्ट\u2011इन विडियो अपडेट</string>
+    <string name="aq_pq_adjust">एक्यू&amp;पीक्यू एडजस्ट</string>
+    <string name="mall_logo">मॉल और प्रोमोशन लोगो</string>
+    <string name="auto_play_setup">ऑटो प्लेबैक सेटअप</string>
+    <string name="epos_switch">E-Pos स्विच</string>
+
+    <string name="resume_storemode_title">स्टोर मोड डेमो बहाल करें</string>
+    <string name="resume_storemode_desc">टीवी सेट स्टोर मोड डेमो में वापस चला जाएगा, इस प्रक्रिया को रोकेने के लिए रिमोट पर कोई बटन दबाएं.</string>
+    <string name="fte_init_storemode_title">स्टोर मोड शुरू करें</string>
+    <string name="fte_init_storemode_desc">स्टोर मोड शुरू होगा, क्या आप करना चाहते हैं?</string>
+    <string name="fte_init_storemode_back">एफ़टीई पर वापस जाएं</string>
+    <string name="fte_init_storemode_enter">स्टोर मोड में जाएं</string>
+
+
+    <string name="usb_not_found"> कोई यूएसबी डिवाईस नहीं मिला. सुनिश्चित करें कि आपकी डिवाईस कनेक्टेड है.</string>
+    <string name="udate_success">अपडेट हो गया</string>
+    <string name="guide_poweron_title">सेटिंग्स में आप होम मोड में जा सकते हैं.</string>
+
+    <string name="use_mode">यूज़ मोड </string>
+    <string name="user_mode">होम मोड</string>
+    <string name="store_mode">स्टोर मोडे</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">मॉल लोगो चुनें</string>
+    <string name="seller_settings_toast">स्टोर मोड सेट अफ करने के लिए मीनू दबाएं</string>
+
+    <string name="mall_logo_limit">कृप्या पीएनजी या जेपीजी इमेज को चुनें</string>
+    <string name="enter_storemode">स्टोर मोड में जाएं</string>
+    <string name="init_storemode_countdown">अगर आप ओके दबाए रखें तो टीवी का मीनू स्टोर मोड शुरू कर देगा</string>
+    <string name="not_find_update_file_tips">कोई अपडेट फ़ाईल नहीं मिली. कृप्या सुनिश्चित करें %1$s यूएसबी रूट डाईरेक्ट्री में स्थित है.</string>
+    <string name="not_find_update_file_tips2">कोई अपडेट फ़ाईल नहीं मिली. कृप्या सुनिश्चित करें %1$s या %2$s यूएसबी रूट डाईरेक्ट्री में स्थित है.</string>
+    <string name="not_find_update_file_tips3">कोई अपग्रेड फ़ाईल नहीं मिली.</string>
+    <string name="add_mall_logo_success">मॉल लोगो अपलोड हो गया.</string>
+
+    <string name="epos_position_adjustment">ई\u2011पीओएस पोज़ीशन एडजस्टमेंट</string>
+    <string name="mall_logo_position_adjustment">मॉल और प्रोमोशन लोगो पोज़ीशन एडजस्टमेंट</string>
+    <string name="epos_update">E\u2011Pos अपडेट</string>
+    <string name="invalid_button_press_tips">स्टोर मोड में गलत बटन दबा </string>
+    <string name="video_update_title">अपडेट विडियो</string>
+
+    <string name="prompt_build_in_video_update">बिल्ट\u2011इन विडियो अपडेट हो रहा. कृप्या वेट करें.</string>
+    <string name="video_update_button_update">अपडेट</string>
+    <string name="video_update_button_cancel">रद्द</string>
+    <string name="picture_update_title">अपडेट पिक्चर</string>
+    <string name="prompt_build_in_picture_update">बिल्ट\u2011इन पिक्चर अपडेट हो रही.   कृप्या वेट करें.</string>
+    <string name="update_build_in_video_toast_tips">कृप्या वेट करें, विडियो अपडेट हो रहा. </string>
+    <string name="update_build_in_pic_toast_tips"> कृप्या वेट करें, पिक्चर अपडेट हो रही.  </string>
+    <string name="updating_tips_text">अपडेट हो रहा.  कृप्या वेट करें.</string>
+    <string name="dialog_btn_confirm_tip">पुष्टि</string>
+    <string name="dialog_btn_delete_tip">हटाएं</string>
+    <string name="dialog_btn_cancel_tip">रद्द</string>
+    <string name="build_in_picture_update">बिल्ट\u2011इन पिक्चर अपडेट </string>
+    <string name="no_find_update_pic_file_tips">पिक्चर अपडेट फ़ाईल नहीं मिली. फ़ाईल के नाम का प्रीफ़िक्स [%1$s] होना चाहिए.</string>
+    <string name="update_video_max_size_tips_text">मौजूदा विडियो अपडेट फ़ाईल  %1$d M है. अधिक्तम साईज़ जो सपोर्टेड है वह : %2$d M है</string>
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">यूएसबी वीडियो</string>
+    <string name="checkbox_usb_pic_content">यूएसबी पिक्चर</string>
+    <string name="checkbox_signal_content">सिगनल</string>
+    <string name="checkbox_build_in_pic_content">बिल्ट\u2011इन पिक्चर</string>
+    <string name="checkbox_build_in_video_content">बिल्ट\u2011इन विडियो </string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">चित्र</string>
+    <string name="sound_ajust">आवाज़</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">अधिक्तम मॉल लोगो साईज़ %1$d! है</string>
+    <string name="mall_logo_pic_exist">पिक्चर पहले से मौजूद है.</string>
+    <string name="delete_picture_dialog_title">डिलीट पिक्चर </string>
+    <string name="delete_picture_dialog_content">क्या आप यह डिलीट करना चाहते हैं?</string>
+    <string name="delete_picture_succes_tips">डिलीट कामयाब</string>
+
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">बांया</string>
+    <string name="position_right">दांया</string>
+    <string name="position_top">वापस उपर</string>
+    <string name="position_bottom">निचले</string>
+    <string name="epos_updating_tips">E-Pos अपडेट हो रहा. कृप्या इंतेज़ार करें.</string>
+    <string name="btn_done">पूरा हो गया</string>
+    <string name="btn_edit">एडिट</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>चेतावनी</b></string>
+    <string name="energy_summary_one">मौजूदा पिक्चर मोड में रेटिंग लेबल में दिखने वाले स्तर से अधिक उर्जा खपत हो सकती है.</string>
+    <string name="energy_summary_two">आम उर्जा खपत के लिए कृप्या स्टैंडर्ड पिक्चर मोड का प्रयोग करें.</string>
+</resources>

@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Veikala režīma iestatījumi</string>
+    <string name="build_in_video_update">Iebūvēta video atjaunināšana</string>
+    <string name="aq_pq_adjust">Audio kvalitātes un attēlu kvalitātes regulēšana</string>
+    <string name="mall_logo">Tirdzniecības centra un akcijas logotips</string>
+    <string name="auto_play_setup">Automātiskās atskaņošanas iestatīšana</string>
+    <string name="epos_switch">E-Pos slēdzis</string>
+
+    <string name="resume_storemode_title">Atsākt veikala režīma demonstrāciju</string>
+    <string name="resume_storemode_desc">TV drīz atkal saglabās demonstrācijas režīmu, jūs varat nospiest jebkuru tālvadības pults pogu, lai atliktu šo procesu.</string>
+    <string name="fte_init_storemode_title">Inicējiet uzglabāšanas režīmu</string>
+    <string name="fte_init_storemode_desc">Tiks uzsākts režīms Store (Veikals), Vai vēlaties turpināt?</string>
+    <string name="fte_init_storemode_back">Atpakaļ uz FTE</string>
+    <string name="fte_init_storemode_enter">Ievadiet Veikala režīmu</string>
+
+
+    <string name="usb_not_found">USB ierīce nav atrasta. Pārliecinieties, vai ierīce ir savienota.</string>
+    <string name="udate_success">Ataunināšana veiksmīga!</string>
+    <string name="guide_poweron_title">Iestatījumos varat pārslēgties uz mājas režīmu</string>
+
+    <string name="use_mode">Lietotāja režīms</string>
+    <string name="user_mode">Mājas režīms</string>
+    <string name="store_mode">Veikala režīms</string>
+    <string name="store_mode_with_video">Veikala režīms ar 4K video</string>
+    <string name="select_a_mall_logo">Atlasiet tirdzniecības centra logotipu</string>
+    <string name="seller_settings_toast">Nospiediet Izvēlne, lai iestatītu veikala režīmu</string>
+
+    <string name="mall_logo_limit">Lūdzu, izvēlieties PNG vai JPG attēlu</string>
+    <string name="enter_storemode">Ievadiet Veikala režīmu</string>
+    <string name="init_storemode_countdown">Ja turpināsiet nospiest Ok (Labi), tad izvēlne TV uzsāks veikala režīmu.</string>
+    <string name="not_find_update_file_tips">Nevar atrast atjaunināšanas failu. Lūdzu, pārliecinieties, vai %1$s atrodas USB saknes direktorijā.</string>
+    <string name="not_find_update_file_tips2">Nevar atrast atjaunināšanas failu. Lūdzu, pārliecinieties, vai %1$s vai %2$s atrodas USB saknes direktorijā.</string>
+    <string name="not_find_update_file_tips3">Netika atrasts neviens jaunināšanas fails.</string>
+    <string name="add_mall_logo_success">Tirdzniecības centra logotips ir veiksmīgi augšupielādēts.</string>
+
+    <string name="epos_position_adjustment">E-Pos pozīcijas pielāgošana</string>
+    <string name="mall_logo_position_adjustment">Mall &amp; Promotion logotipa pozīcijas pielāgošana</string>
+    <string name="epos_update">E-pos atjauninājums</string>
+    <string name="invalid_button_press_tips">Nederīga poga, nospiežot veikala režīmā</string>
+    <string name="video_update_title">Video atjaunināšana</string>
+
+    <string name="prompt_build_in_video_update">Atjaunina iebūvēto video. Lūdzu, uzgaidiet.</string>
+    <string name="video_update_button_update">Atjaunināšana</string>
+    <string name="video_update_button_cancel">Atcelt</string>
+    <string name="picture_update_title">Atjaunināt attēlu</string>
+    <string name="prompt_build_in_picture_update">Atjaunina iebūvēto attēlu. Lūdzu, uzgaidiet.</string>
+    <string name="update_build_in_video_toast_tips">Lūdzu, uzgaidiet, videoklips tiek atjaunināts.</string>
+    <string name="update_build_in_pic_toast_tips">Lūdzu, uzgaidiet, attēls tiek atjaunināts.</string>
+    <string name="updating_tips_text">Atjaunināšana. Lūdzu, uzgaidiet.</string>
+    <string name="dialog_btn_confirm_tip">Apstiprināt</string>
+    <string name="dialog_btn_delete_tip">Dzēst</string>
+    <string name="dialog_btn_cancel_tip">Atcelt</string>
+    <string name="build_in_picture_update">Iebūvētā attēla atjauninājums</string>
+    <string name="no_find_update_pic_file_tips">Attēla atjauninājumu fails nav atrasts. Faila nosaukuma prefiksam jābūt [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Pašreizējais video atjaunināšanas fails ir %1$d M. Atbalstītais maksimālais lielums: %2$d M.</string>
+
+
+    <string name="checkbox_usb_video_content">USB video</string>
+    <string name="checkbox_usb_pic_content">USB attēls</string>
+    <string name="checkbox_signal_content">Signāls</string>
+    <string name="checkbox_build_in_pic_content">Iebūvēts attēls</string>
+    <string name="checkbox_build_in_video_content">Iebūvēts video</string>
+
+    <string name="picture_ajust">Attēls</string>
+    <string name="sound_ajust">Skaņa</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Maksimālais tirdzniecības centra logotipa izmērs ir %1$d!</string>
+    <string name="mall_logo_pic_exist">Attēls jau eksistē.</string>
+    <string name="delete_picture_dialog_title">Dzēst attēlu</string>
+    <string name="delete_picture_dialog_content">Vai tiešām vēlaties to dzēst?</string>
+    <string name="delete_picture_succes_tips">Veiksmīgi izdzēsts</string>
+
+
+    <string name="position_left">Pa kreisi</string>
+    <string name="position_right">Pa labi</string>
+    <string name="position_top">Atpakaļ uz sākumu</string>
+    <string name="position_bottom">Apakšā</string>
+    <string name="epos_updating_tips">Notiek E-Pos atjaunināšana. Lūdzu, uzgaidiet.</string>
+    <string name="btn_done">Gatavs</string>
+    <string name="btn_edit">Rediģēt</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>BRĪDINĀJUMS</b></string>
+    <string name="energy_summary_one">Enerģijas patēriņš pašreizējā attēla režīmā var būt augstāks, nekā norādīts energoefektivitātes marķējumā</string>
+    <string name="energy_summary_two">Izmantojiet standarta attēla režīmu, lai nodrošinātu normālu enerģijas patēriņu.</string>
+</resources>

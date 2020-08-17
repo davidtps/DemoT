@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">اسٹور موڈ کی ترتیبات</string>
+    <string name="build_in_video_update">اندرونی طور پر ساخت شدہ ویڈیو تازہ کاری</string>
+    <string name="aq_pq_adjust">آواز کا معیار &amp; تصویر کا معیار ایڈجیسٹ کریں</string>
+    <string name="mall_logo">مال اور تشہیری لوگو</string>
+    <string name="auto_play_setup">خودبخود پلے بیک مقرر سای کریں</string>
+    <string name="epos_switch">۔E-Pos سوئچ</string>
+
+    <string name="resume_storemode_title">سٹور موڈ ڈیمو کو بحال کریں</string>
+    <string name="resume_storemode_desc">ٹی وی سیٹ جلد ہی سٹور موڈ پر واپس مقرر ہو جائے گا، اس عمل کو ملتوی کرنے کیلئے آپ ریمورٹ کا کوئی بھی بٹن دبا سکتے ہیں۔</string>
+    <string name="fte_init_storemode_title">سٹور موڈ کا آغاز کریں</string>
+    <string name="fte_init_storemode_desc">اسٹور موڈ شروع کیا جائے گا، کیا آپ جاری رکھنا چاہتے ہیں؟</string>
+    <string name="fte_init_storemode_back">ایف ٹی ای کو واپس جائیں</string>
+    <string name="fte_init_storemode_enter">سٹور موڈ میں داخل ہوں</string>
+
+
+    <string name="usb_not_found">کوئی یو ایس بی آلہ کھوج نہیں لگا۔ یقینی بنائیں کی آپ کا آلہ منسلک ہے۔</string>
+    <string name="udate_success">تازہ کاری کامیاب</string>
+    <string name="guide_poweron_title">آپ ترتیبات میں ہوم موڈ پر تبدیل کرسکتے ہیں</string>
+
+    <string name="use_mode">استعمال کا موڈ</string>
+    <string name="user_mode">ہوم موڈ</string>
+    <string name="store_mode">سٹور موڈ</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">ایک مال لوگو منتخب کریں</string>
+    <string name="seller_settings_toast">دکان موڈ مقرر کرنے کیلئے مینیو بٹن دبائیں</string>
+    <string name="mall_logo_limit">براہ مہربانی ایک پی این جی یا جے پی جی تصویر منتخب فرمائیں</string>
+    <string name="enter_storemode">سٹور موڈ میں داخل ہوں</string>
+    <string name="init_storemode_countdown">اگر آپ ٹھیک ہے کو دبانا جارہ رکھیں تو ٹی وی سٹور موڈ کا آغاز کر دے گا۔</string>
+    <string name="not_find_update_file_tips">کوئی تازہ کردہ فائل نہیں کھوجی جاسکی۔ یقینی بنائیں کہ  %1$s  یو ایس بی کی روٹ ڈائیریکٹری میں واقع ہے۔</string>
+    <string name="not_find_update_file_tips2">کوئی تازہ کردہ فائل نہیں کھوجی جاسکی۔ یقینی بنائیں کہ  %1$s یا  %2$s یو ایس بی کی روٹ ڈائیریکٹری میں واقع ہے۔</string>
+    <string name="not_find_update_file_tips3">کوئی اپ گریڈ فائل نہیں ملی</string>
+
+    <string name="add_mall_logo_success">مال لوگو کو کامیابی کیساتھ اپ لوڈ کیا گیا۔</string>
+
+    <string name="epos_position_adjustment">ای-پوس مقام ایڈجسٹمنٹ</string>
+    <string name="mall_logo_position_adjustment">مال اور پروموشن لوگو مقام کی ایڈجیسٹمنٹ</string>
+    <string name="epos_update">۔E-Pos کی تازہ کاری</string>
+    <string name="invalid_button_press_tips">سٹور موڈ میں غیردرست بٹن کی داب</string>
+    <string name="video_update_title">ویڈیو جدید ترین کریں</string>
+
+    <string name="prompt_build_in_video_update">پہلے سے موجود ویڈیو کو جدید کیا جا کررہاہے ۔
+براہ مہربانی انتظار کریں۔</string>
+    <string name="video_update_button_update">تازہ کریں</string>
+    <string name="video_update_button_cancel">منسوخ کریں</string>
+    <string name="picture_update_title">تصویر جدید کریں</string>
+    <string name="prompt_build_in_picture_update">پہلے سے موجود تصویر کو جدید کیا جا رہاہے۔
+براہ مہربانی انتظار کریں۔</string>
+    <string name="update_build_in_video_toast_tips">براہ مہربانی انتظار کریں، ویڈیو جدید ہو رہی ہے۔</string>
+    <string name="update_build_in_pic_toast_tips">براہ مہربانی انتظار کریں، تصویر جدید ہو رہی ہے۔</string>
+    <string name="updating_tips_text">جدید کیا جا رہا ہے۔ براہ مہربانی انتظار کریں۔</string>
+    <string name="dialog_btn_confirm_tip">تصدیق کریں</string>
+    <string name="dialog_btn_delete_tip">حذف کریں</string>
+    <string name="dialog_btn_cancel_tip">منسوخ کریں</string>
+    <string name="build_in_picture_update">پہلے سے موجود تصویر کو جدید کریں</string>
+    <string name="no_find_update_pic_file_tips">تصویر کی جدید فائل نہیں ملی۔ فائل نام کا سابقہ [%1$s] ہونا چاہئے</string>
+    <string name="update_video_max_size_tips_text">موجودہ ویڈیو کی جدید فائل %1$M d ہے۔ زیادہ سے زیادہ حمایت کردہ سائز: %2$M d.</string>
+
+
+    <string name="checkbox_usb_video_content">یو ایس بی ویڈیو</string>
+    <string name="checkbox_usb_pic_content">یو ایس بی تصویر</string>
+    <string name="checkbox_signal_content">اشارہ</string>
+    <string name="checkbox_build_in_pic_content">پہلے سے موجود تصویر</string>
+    <string name="checkbox_build_in_video_content">اندرونی طور پر ساخت شدہ ویڈیو</string>
+
+    <string name="picture_ajust">تصویر</string>
+    <string name="sound_ajust">آواز</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <string name="mall_logo_max_pic_size">زیادہ سے زیادہ مال لوگو کا سائز ہے %1$d!</string>
+    <string name="mall_logo_pic_exist">تصویر پہلے سے موجود ہے.</string>
+    <string name="delete_picture_dialog_title">تصویر حذف کریں</string>
+    <string name="delete_picture_dialog_content">کیا آپ واقعی اسے حذف کرنا چاہتے ہیں؟</string>
+    <string name="delete_picture_succes_tips">کامیابی سے حذف کر دیا گیا</string>
+
+
+    <string name="position_left">بائیں</string>
+    <string name="position_right">دائیں</string>
+    <string name="position_top">اوپر</string>
+    <string name="position_bottom">نیچے</string>
+    <string name="epos_updating_tips">E-Pos کی تازہ کاری جا ری ہے۔ براہ مہربانی انتظار فرمائیں۔</string>
+    <string name="btn_done">ہوگیا</string>
+    <string name="btn_edit">ترمیم کریں</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title">انتباہ</string>
+    <string name="energy_summary_one">موجودہ تصویر موڈ میں انرجی کھپت بتائے گئے انرجی ریٹنگ لیبل سے قدرے زیادہ ہو </string>
+    <string name="energy_summary_two">براہ مہربانی معمول کے مطابق انرجی کھپت کیلئے میعاری تصویر موڈ استعال کریں</string>
+</resources>

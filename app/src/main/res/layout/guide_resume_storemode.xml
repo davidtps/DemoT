@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:layout_width="720dp"
+        android:layout_height="150dp"
+        android:background="@drawable/guide_poweron_bg"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/ic_resume_ll"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@color/ic_resume_bg"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/ic_resume_storemode" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toEndOf="@+id/ic_resume_ll"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/guide_restart_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:singleLine="true"
+                android:text="@string/resume_storemode_title"
+                android:textColor="#DEFFFFFF"
+                android:textSize="30sp" />
+
+            <TextView
+                android:id="@+id/guide_restart_desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:text="@string/resume_storemode_desc"
+                android:textColor="#DEFFFFFF"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+
+
+        <ProgressBar
+            android:id="@+id/resume_progressbar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="6dp"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="bottom"
+            android:layout_marginStart="150dp"
+            android:layout_marginTop="15dp"
+            android:max="100"
+            android:progressDrawable="@drawable/progress_horizontal" />
+    </RelativeLayout>
+</LinearLayout>

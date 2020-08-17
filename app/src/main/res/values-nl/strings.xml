@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Winkel modus instellingen</string>
+    <string name="build_in_video_update">Update van de interne video</string>
+    <string name="aq_pq_adjust">AQ&amp;PQ Aanpassen</string>
+    <string name="mall_logo">Winkelcentrum &amp; Promotie Logo</string>
+    <string name="auto_play_setup">Automatische weergave instelling</string>
+    <string name="epos_switch">E-Pos schakelaar </string>
+
+    <string name="resume_storemode_title">Hervat Winkel Modus Demo</string>
+    <string name="resume_storemode_desc">De TV keert binnenkort terug naar de winkel modus demo. U kunt op een willekeurige knop op de afstandsbediening drukken om dit proces uit te stellen.</string>
+    <string name="fte_init_storemode_title">Activeer de Winkel modus</string>
+    <string name="fte_init_storemode_desc">Winkel modus wordt gestart, wilt u doorgaan?</string>
+    <string name="fte_init_storemode_back">Terug naar FTE</string>
+    <string name="fte_init_storemode_enter">Open de winkelmodus</string>
+
+
+    <string name="usb_not_found">Er werd geen USB-apparaat gevonden. Zorg ervoor dat uw apparaat verbonden is</string>
+    <string name="udate_success">Update succesvol</string>
+    <string name="guide_poweron_title">U kunt overschakelen naar de Thuis modus in Instellingen</string>
+
+    <string name="use_mode">Gebruiksmodus</string>
+    <string name="user_mode">Thuis-modus</string>
+    <string name="store_mode">Winkel-modus</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Selecteer een Mall-logo</string>
+    <string name="seller_settings_toast">Druk op Menu om de winkelmodus in te stellen</string>
+
+    <string name="mall_logo_limit">Kies een PNG- of JPG-afbeelding</string>
+    <string name="enter_storemode">Open de winkelmodus</string>
+    <string name="init_storemode_countdown">Als u op Ok blijft drukken, start het menu voor de tv de winkel modus.</string>
+    <string name="not_find_update_file_tips">Er kan geen updatebestand worden gevonden. Zorg ervoor dat %1$s zich in de USB-rootmap bevindt.</string>
+    <string name="not_find_update_file_tips2">Er kan geen updatebestand worden gevonden. Zorg ervoor dat %1$s of %2$s zich in de USB-rootmap bevindt.</string>
+    <string name="not_find_update_file_tips3">Geen upgrade bestand gevonden.</string>
+    <string name="add_mall_logo_success">Het mall-logo werd succesvol geüpload</string>
+
+    <string name="epos_position_adjustment">E-Pos Positie Aanpassing</string>
+    <string name="mall_logo_position_adjustment">Winkelcentrum &amp; Promotie Logo Positie Aanpassing</string>
+    <string name="epos_update">E-pos Update</string>
+    <string name="invalid_button_press_tips">Ongeldige knop ingedrukt in de winkel modus</string>
+    <string name="video_update_title">Update video</string>
+
+    <string name="prompt_build_in_video_update">Updaten van ingebouwde video. Even geduld aub.</string>
+    <string name="video_update_button_update">Update</string>
+    <string name="video_update_button_cancel">Annuleer</string>
+    <string name="picture_update_title">Update afbeelding</string>
+    <string name="prompt_build_in_picture_update">Updaten van ingebouwde afbeelding. Even geduld aub.</string>
+    <string name="update_build_in_video_toast_tips">Even geduld, de video wordt bijgewerkt.</string>
+    <string name="update_build_in_pic_toast_tips">Even geduld de afbeelding wordt bijgewerkt</string>
+    <string name="updating_tips_text">Updaten. Even geduld.</string>
+    <string name="dialog_btn_confirm_tip">Bevestigen</string>
+    <string name="dialog_btn_delete_tip">Verwijder</string>
+    <string name="dialog_btn_cancel_tip">Annuleer</string>
+    <string name="build_in_picture_update">Ingebouwde afbeelding update</string>
+    <string name="no_find_update_pic_file_tips">Afbeelding updatebestand is niet gevonden. Bestandsnaam prefix moet [%1$s] zijn</string>
+    <string name="update_video_max_size_tips_text">Het huidige video-updatebestand is %1$d M. Maximale ondersteunde grootte:  %2$d M.</string>
+
+
+    <string name="checkbox_usb_video_content">USB-video</string>
+    <string name="checkbox_usb_pic_content">USB afbeelding</string>
+    <string name="checkbox_signal_content">Signaal</string>
+    <string name="checkbox_build_in_pic_content">Ingebouwde afbeelding</string>
+    <string name="checkbox_build_in_video_content">Ingebouwde video</string>
+
+    <string name="picture_ajust">Beeld</string>
+    <string name="sound_ajust">Geluid</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">De maximale winkelcentrumlogo grootte is %1$d!</string>
+    <string name="mall_logo_pic_exist">Afbeelding bestaad reeds.</string>
+    <string name="delete_picture_dialog_title">Verwijder afbeelding</string>
+    <string name="delete_picture_dialog_content">Weet je zeker dat je dit wilt verwijderen?</string>
+    <string name="delete_picture_succes_tips">Succesvol verwijderd</string>
+
+
+    <string name="position_left">Links</string>
+    <string name="position_right">Rechts</string>
+    <string name="position_top">Top</string>
+    <string name="position_bottom">Bodem</string>
+
+    <string name="epos_updating_tips">E-Pos updaten. Even geduld.</string>
+    <string name="btn_done">Klaar</string>
+    <string name="btn_edit">Bewerk</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>WAARSCHUWING</b></string>
+    <string name="energy_summary_one">Het energieverbruik in de huidige beeldmodus kan hoger zijn dan aangegeven op het energielabel</string>
+    <string name="energy_summary_two">Gebruik a.u.bg. de standaard beeldmodus voor een normaal energieverbruik</string>
+</resources>

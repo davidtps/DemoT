@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Bolti üzemmód beállítása</string>
+    <string name="build_in_video_update">Beépített videó frissítés</string>
+    <string name="aq_pq_adjust">Hangminőség és képminőség szabályozása</string>
+    <string name="mall_logo">Kérenyő logó</string>
+    <string name="auto_play_setup">Automatikus lejátszás beállítás</string>
+    <string name="epos_switch">E-Pos kapcsoló</string>
+
+    <string name="resume_storemode_title">Bolti demo mód visszaállítása</string>
+    <string name="resume_storemode_desc">A TV-készülék hamarosan visszaáll Bolti demo módba, a távirányító bármely gombját megnyomva elhalaszthatja ezt a folyamatot.</string>
+    <string name="fte_init_storemode_title">Tárolás mód indítása</string>
+    <string name="fte_init_storemode_desc">A Bolti mód elindul, folytatni szeretné?</string>
+    <string name="fte_init_storemode_back">Vissza az FTE-hez.</string>
+    <string name="fte_init_storemode_enter">Belépés a Bolti módba</string>
+
+
+    <string name="usb_not_found">Nem található USB eszköz. Győződjön meg arról, hogy az eszköz csatlakoztatva van.</string>
+    <string name="udate_success">Frissítés sikeres!</string>
+    <string name="guide_poweron_title">A Beállításokban Családi módba kapcsolhat.</string>
+
+    <string name="use_mode">Felhasználási mód</string>
+    <string name="user_mode">Home mód</string>
+    <string name="store_mode">Bolti üzemmód</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Válasszon Mall logót</string>
+    <string name="seller_settings_toast">Nyomja meg a Menü gombot a Tárolási Mód beállításához</string>
+
+    <string name="mall_logo_limit">Válasszon ki egy PNG vagy JPG képet</string>
+    <string name="enter_storemode">Belépés a Bolti módba</string>
+    <string name="init_storemode_countdown">Ha továbbra is nyomva tartja az OK gombot, akkor a TV menüje elindítja a Bolti módot.</string>
+
+    <string name="not_find_update_file_tips">Nem található frissítés. Ellenőrizze, hogy az %1$s az USB gyökérkönyvtárban van-e.</string>
+    <string name="not_find_update_file_tips2">Nem található frissítés. Ellenőrizze, hogy az %1$s vagy az %2$s az USB gyökérkönyvtárban van-e.</string>
+    <string name="not_find_update_file_tips3">Nem található frissítési fájl.</string>
+    <string name="add_mall_logo_success">A képernyő logó feltöltése sikeresen megtörtént</string>
+
+    <string name="epos_position_adjustment">E-Pos pozíció beállítása</string>
+    <string name="mall_logo_position_adjustment">Áruház és promóció logó helyzetének beállítása</string>
+    <string name="epos_update">E-pos frissítése</string>
+    <string name="invalid_button_press_tips">Érvénytelen gomb megnyomása a Bolt módban</string>
+    <string name="video_update_title">Videó frissítése</string>
+
+    <string name="prompt_build_in_video_update">Beépített videó frissítése. Kérjük, várjon.</string>
+    <string name="video_update_button_update">Frissítés</string>
+    <string name="video_update_button_cancel">Mégsem</string>
+    <string name="picture_update_title">Kép frissítése.</string>
+    <string name="prompt_build_in_picture_update">Beépített kép frissítése. Kérjük, várjon.</string>
+    <string name="update_build_in_video_toast_tips">Kérjük, várjon, a videó frissítése folyamatban van.</string>
+    <string name="update_build_in_pic_toast_tips">Kérjük, várjon, a kép frissítése folyamatban van.</string>
+    <string name="updating_tips_text">Frissítés folyamatban. Kérjük, várjon.</string>
+    <string name="dialog_btn_confirm_tip">Megerősítés</string>
+    <string name="dialog_btn_delete_tip">Törlés</string>
+    <string name="dialog_btn_cancel_tip">Mégsem</string>
+    <string name="build_in_picture_update">Beépített kép frissítése</string>
+
+    <string name="no_find_update_pic_file_tips">Kép frissítési fájl nem található. A keresett fájl neve: [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Az aktuális videó frissítési fájl %1$d M. A maximális támogatott méret: %2$d M.</string>
+
+    <string name="checkbox_usb_video_content">USB videó</string>
+    <string name="checkbox_usb_pic_content">USB kép</string>
+    <string name="checkbox_signal_content">Jel</string>
+    <string name="checkbox_build_in_pic_content">Beépített kép</string>
+    <string name="checkbox_build_in_video_content">Beépített videó</string>
+
+    <string name="picture_ajust">Kép</string>
+    <string name="sound_ajust">Hang</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <string name="mall_logo_max_pic_size">Maximális mall logó méret: %1$d!</string>
+    <string name="mall_logo_pic_exist">A kép már létezik.</string>
+    <string name="delete_picture_dialog_title">Kér törlése</string>
+    <string name="delete_picture_dialog_content">Biztos benne, hogy törölni akarja?</string>
+    <string name="delete_picture_succes_tips">Sikeresen törölve</string>
+
+
+    <string name="position_left">Bal</string>
+    <string name="position_right">Jobb</string>
+    <string name="position_top">Vissza a tetejére</string>
+    <string name="position_bottom">Lent</string>
+    <string name="epos_updating_tips">Az E-Pos frissítése. Kérlek várj.</string>
+    <string name="btn_done">Kész</string>
+    <string name="btn_edit">Szerkesztés</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>FIGYELMEZTETÉS!</b></string>
+    <string name="energy_summary_one">Az energiafogyasztás az aktuális képmódban magasabb lehet, mint az energiacímkén feltüntetett érték.</string>
+    <string name="energy_summary_two">A normál energiafogyasztáshoz használja a standard képmódot.</string>
+</resources>

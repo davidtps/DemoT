@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">การตั้งค่าโหมดร้านค้า</string>
+    <string name="build_in_video_update">อัพเดทวิดีโอในตัว</string>
+    <string name="aq_pq_adjust">ปรับคุณภาพเสียง/ภาพ</string>
+    <string name="mall_logo">โลโก้ร้านค้า#และการส่งเสริมการขาย</string>
+    <string name="auto_play_setup">การตั้งค่า#เล่นอัตโนมัติ</string>
+    <string name="epos_switch">สวิตช์ E-Pos</string>
+
+    <string name="resume_storemode_title">กลับสู่การสาธิต#โหมดร้านค้า</string>
+    <string name="resume_storemode_desc">อุปกรณ์ทีวี#จะกลับไปสู่การสาธิต#โหมดร้านค้าในอีกไม่นาน#คุณสามารถกดปุ่มใดๆ#ของรีโมท#เพื่อเลื่อนกระบวนการนี้</string>
+    <string name="fte_init_storemode_title">เริ่มโหมดร้านค้า</string>
+    <string name="fte_init_storemode_desc">โหมดร้านค้า#กำลังเริ่มต้น #คุณต้องการ#ดำเนินการต่อหรือไม่</string>
+    <string name="fte_init_storemode_back">กลับไปที่ FTE</string>
+    <string name="fte_init_storemode_enter">เข้าสู่โหมด Store</string>
+
+
+    <string name="usb_not_found">ไม่พบอุปกรณ์ USB #แน่ใจว่าอุปกรณ์ของคุณ#ได้ทำการ#เชื่อมต่อแล้ว</string>
+    <string name="udate_success">อัปเดตสำเร็จ!</string>
+    <string name="guide_poweron_title">คุณสามารถเปลี่ยนไปยังโหมดบ้านได้ในการตั้วค่า</string>
+
+    <string name="use_mode">โหมดการใช้</string>
+    <string name="user_mode">โหมดหน้าหลัก</string>
+    <string name="store_mode">โหมดในร้านค้า</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">เลือกโหมด#การใส่โลโก้</string>
+    <string name="seller_settings_toast">กดปุ่ม MENU เพื่อตั้งค่าโหมดร้านค้า</string>
+
+    <string name="mall_logo_limit">โปรดเลือกภาพ#ในรูปแบบ PNG #หรือ JPG</string>
+    <string name="enter_storemode">เข้าสู่โหมด Store</string>
+    <string name="init_storemode_countdown">กดตกลงที่เมนู#สำหรับเริ่ม#โหมดร้านค้า</string>
+    <string name="not_find_update_file_tips">ไม่พบไฟล์การอัปเดต โปรดตรวจสอบว่า %1$s อยู่ในไดเรกทอรีรากของ USB</string>
+    <string name="not_find_update_file_tips2">ไม่พบไฟล์การอัปเดต โปรดตรวจสอบว่า %1$s หรือ %2$s อยู่ในไดเรกทอรีรากของ USB</string>
+    <string name="not_find_update_file_tips3">ไม่พบไฟล์อัปเกรด</string>
+    <string name="add_mall_logo_success">การอัพโหลด#โลโก้#ประสบ#ความสำเร็จ</string>
+
+    <string name="epos_position_adjustment">การปรับตำแหน่ง #E\u2011Pos</string>
+    <string name="mall_logo_position_adjustment">การปรับตำแหน่งโลโก้ร้านค้าและการส่งเสริมการขาย</string>
+    <string name="epos_update">อัปเดตตำแหน่งอิเล็กทรอนิกส์</string>
+    <string name="invalid_button_press_tips">กดปุ่มไม่ถูกต้อง#ในโหมดร้านค้า</string>
+    <string name="video_update_title">อัปเดตวิดีโอ</string>
+
+    <string name="prompt_build_in_video_update">กำลังอัปเดตวิดีโอในตัว โปรดรอ</string>
+    <string name="video_update_button_update">อัปเดท</string>
+    <string name="video_update_button_cancel">ยกเลิก</string>
+    <string name="picture_update_title">อัปเดตรูปภาพ</string>
+    <string name="prompt_build_in_picture_update">กำลังอัปเดตรูปภาพในตัว โปรดรอ</string>
+    <string name="update_build_in_video_toast_tips">โปรดรอ กำลังอัปเดตวิดีโอ</string>
+    <string name="update_build_in_pic_toast_tips">โปรดรอ กำลังอัปเดตรูปภาพ</string>
+    <string name="updating_tips_text">กำลังอัปเดต โปรดรอ</string>
+    <string name="dialog_btn_confirm_tip">ยืนยัน</string>
+    <string name="dialog_btn_delete_tip">ลบ</string>
+    <string name="dialog_btn_cancel_tip">ยกเลิก</string>
+    <string name="build_in_picture_update">อัปเดตรูปภาพในตัว</string>
+    <string name="no_find_update_pic_file_tips">ไม่พบไฟล์อัปเดตรูปภาพ คำนำหน้าชื่อไฟล์ต้องเป็น [%1$s]</string>
+    <string name="update_video_max_size_tips_text">ไฟล์อัปเดตวิดีโอปัจจุบันมีขนาด %1$d M ขนาดสูงสุดที่รองรับ: %2$d M</string>
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">วิดีโอจากUSB</string>
+    <string name="checkbox_usb_pic_content">รูปภาพจาก ีUSB</string>
+    <string name="checkbox_signal_content">สัญญาณ</string>
+    <string name="checkbox_build_in_pic_content">รูปภาพในตัว</string>
+    <string name="checkbox_build_in_video_content">วิดีโอในตัว</string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">รูปภาพ</string>
+    <string name="sound_ajust">เสียง</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">ขนาดโลโก้ร้านค้าสูงสุดคือ %1$d</string>
+    <string name="mall_logo_pic_exist">รูปภาพมีอยู่แล้ว</string>
+    <string name="delete_picture_dialog_title">ลบรูปภาพ</string>
+    <string name="delete_picture_dialog_content">คุณแน่ใจหรือว่าต้องการลบสิ่งนี้</string>
+    <string name="delete_picture_succes_tips">ลบสำเร็จ</string>
+
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">ด้านซ้าย</string>
+    <string name="position_right">ด้านขวา</string>
+    <string name="position_top">กลับไปด้านบน</string>
+    <string name="position_bottom">ด้านล่าง</string>
+    <string name="epos_updating_tips">กำลังอัปเดต E-Pos โปรดรอ</string>
+
+    <string name="btn_done">ทำสำเร็จ</string>
+    <string name="btn_edit">แก้ไข</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>คำเตือน</b></string>
+    <string name="energy_summary_one">การใช้พลังงานในโหมดภาพปัจจุบันอาจสูงกว่าที่บ่งชี้ไว้ในป้ายกำกับพิกัดพลังงาน</string>
+    <string name="energy_summary_two">โปรดใช้โหมดภาพมาตรฐานสำหรับการใช้พลังงานปกติ</string>
+</resources>

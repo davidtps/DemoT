@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Store-Modus-Einstellungen</string>
+    <string name="build_in_video_update">Video-Update integrieren</string>
+    <string name="aq_pq_adjust">AQ &amp; BQ einstellen</string>
+    <string name="mall_logo">Logo für Geschäfte &amp; Werbeaktionen</string>
+    <string name="auto_play_setup">Setup autom. Wiedergabe</string>
+    <string name="epos_switch">E-Pos Schalter </string>
+
+    <string name="resume_storemode_title">Demo-Modus wiederherstellen</string>
+    <string name="resume_storemode_desc">Der Fernseher wird in Kürze den Demo-Modus aktivieren; Sie können diesen Vorgang durch Drücken einer beliebigen Taste auf der Fernbedienung verzögern.</string>
+    <string name="fte_init_storemode_title">Geschäftsmodus aktivieren</string>
+    <string name="fte_init_storemode_desc">Geschäftsmodus wird initialisiert, fortfahren?</string>
+    <string name="fte_init_storemode_back">Zurück zu FTE</string>
+    <string name="fte_init_storemode_enter">Geschäftmodus öffnen</string>
+
+
+    <string name="usb_not_found">Es wurde kein USB-Gerät gefunden. Vergewissern Sie sich, dass Ihr Gerät angeschlossen ist.</string>
+    <string name="udate_success">Erfolgreich aktualisiert!</string>
+    <string name="guide_poweron_title">Schalten Sie via Einstellungen den Home-Modus ein.</string>
+
+    <string name="use_mode">Benutzermodus</string>
+    <string name="user_mode">Home-Modus</string>
+    <string name="store_mode">Händler Modus</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Wählen Sie ein Logo eines Einkaufzentrums aus</string>
+    <string name="seller_settings_toast">Drücken Sie Menü zum Einrichten des Shop-Modus.</string>
+
+    <string name="mall_logo_limit">Wählen Sie ein PNG- oder JPG-Bild</string>
+    <string name="enter_storemode">Geschäftmodus öffnen</string>
+    <string name="init_storemode_countdown">Wenn Sie "OK" gedrückt halten, wird der "Shop-Modus" eingestellt</string>
+    <string name="not_find_update_file_tips">Es wurde keine Aktualisierungsdatei gefunden. Vergewissern Sie sich, dass sich %1$s im USB-Hauptverzeichnis befinden.</string>
+    <string name="not_find_update_file_tips2">Es wurde keine Aktualisierungsdatei gefunden. Vergewissern Sie sich, dass sich %1$s bzw. %2$s im USB-Hauptverzeichnis befinden.</string>
+    <string name="add_mall_logo_success">Das Logo des Einkaufzentrums wurde erfolgreich hochgeladen.</string>
+    <string name="not_find_update_file_tips3">Keine Update-Datei gefunden.</string>
+
+    <string name="epos_position_adjustment">E-Pos Position einstellen</string>
+    <string name="mall_logo_position_adjustment">Position für Laden- &amp; Werbelogo einstellen</string>
+    <string name="epos_update">E-pos Aktualisierung</string>
+    <string name="invalid_button_press_tips">Ungültige Taste im Geschäftsmodus gedrückt</string>
+    <string name="video_update_title">Video aktualisieren</string>
+
+    <string name="prompt_build_in_video_update">Integriertes Video wird aktualisiert, bitte warten Sie.</string>
+    <string name="video_update_button_update">Aktualisieren</string>
+    <string name="video_update_button_cancel">Abbrechen</string>
+    <string name="picture_update_title">Bild aktualisieren</string>
+    <string name="prompt_build_in_picture_update">Integriertes Bild wird aktualisiert, bitte warten Sie.</string>
+    <string name="update_build_in_video_toast_tips">Bitte warten Sie, das Video wird aktualisiert.</string>
+    <string name="update_build_in_pic_toast_tips">Bitte warten Sie, das Bild wird aktualisiert.</string>
+    <string name="updating_tips_text">Wird aktualisiert, bitte warten Sie.</string>
+    <string name="dialog_btn_confirm_tip">Bestätigen</string>
+    <string name="dialog_btn_delete_tip">Löschen</string>
+    <string name="dialog_btn_cancel_tip">Abbrechen</string>
+    <string name="build_in_picture_update">Aktualisierung integriertes Bild</string>
+    <string name="no_find_update_pic_file_tips">Die Aktualisierungsdatei für das Bild wurde nicht gefunden. Die Datei muss das Präfix [%1$s] enthalten.</string>
+    <string name="update_video_max_size_tips_text">%1$d M ist die aktuelle Aktualisierungsdatei des Videos. Maximal unterstütze Größe: %2$d M.</string>
+
+
+    <string name="checkbox_usb_video_content">USB-Video</string>
+    <string name="checkbox_usb_pic_content">USB-Bild</string>
+    <string name="checkbox_signal_content">Signal</string>
+    <string name="checkbox_build_in_pic_content">Integriertes Bild</string>
+    <string name="checkbox_build_in_video_content">Video integrieren</string>
+
+    <string name="picture_ajust">Bild</string>
+    <string name="sound_ajust">Ton</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Maximale Größe Geschäftslogo %1$d!</string>
+    <string name="mall_logo_pic_exist">Bild existiert bereits.</string>
+    <string name="delete_picture_dialog_title">Bild löschen</string>
+    <string name="delete_picture_dialog_content">Soll das Bild wirklisch gelöscht werden?</string>
+    <string name="delete_picture_succes_tips">Erfolgreich gelöscht</string>
+
+
+    <string name="position_left">Links</string>
+    <string name="position_right">Rechts</string>
+    <string name="position_top">Oben</string>
+    <string name="position_bottom">Unterseite</string>
+
+    <string name="epos_updating_tips">E-Pos wird aktualisiert. Bitte warten.</string>
+    <string name="btn_done">Fertig</string>
+    <string name="btn_edit">Bearbeiten</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>WARNHINWEIS</b></string>
+    <string name="energy_summary_one">Der Energieverbrauch im aktuellen Bildmodus ist evtl. höher als der Wert auf dem Energielabel</string>
+    <string name="energy_summary_two">Verwenden Sie für einen normalen Energieverbrauch den Standardbildmodus</string>
+</resources>

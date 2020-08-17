@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Cài đặt Chế Độ Cửa Hàng</string>
+    <string name="build_in_video_update">Cập nhật video tích hợp sẵn </string>
+    <string name="aq_pq_adjust">Điều chỉnh AQ&amp;PQ</string>
+    <string name="mall_logo">Logo Trung tâm mua sắm &amp; Khuyến mãi</string>
+    <string name="auto_play_setup">Cài đặt Tự động Phát lại</string>
+    <string name="epos_switch">Chuyển đổi E-Pos</string>
+
+    <string name="resume_storemode_title">Tiếp tục bản demo chế độ cửa hàng</string>
+    <string name="resume_storemode_desc">TV được cài đặt sẽ sớm quay lại bản demo chế độ cửa hàng, bạn có thể nhấn nút bất kỳ trên điều khiển từ xa để hoãn quá trình này.</string>
+    <string name="fte_init_storemode_title">Bắt đầu Chế độ cửa hàng</string>
+    <string name="fte_init_storemode_desc">Chế độ lưu trữ sẽ được bắt đầu, Bạn có muốn tiếp tục không?</string>
+    <string name="fte_init_storemode_back">Trở lại FTE</string>
+    <string name="fte_init_storemode_enter">Nhập Chế Độ Cửa Hàng</string>
+
+
+    <string name="usb_not_found">Không tìm thấy thiết bị USB. Đảm bảo thiết bị của quý vị đã được kết nối.</string>
+    <string name="udate_success"> Cập Nhật Thành Công!</string>
+    <string name="guide_poweron_title">Bạn có thể chuyển sang Chế độ nhà trong Cài đặt</string>
+
+    <string name="use_mode">Chế Độ Sử Dụng</string>
+    <string name="user_mode">Chế Độ Gia Đình</string>
+    <string name="store_mode">Chế Độ Cửa Hàng</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Chọn Một Logo Trung Tâm Thương Mại</string>
+    <string name="seller_settings_toast">Nhấn Menu để thiết lập Chế độ lưu trữ</string>
+
+    <string name="mall_logo_limit">Vui lòng chọn hình ảnh PNG hoặc JPG</string>
+    <string name="enter_storemode">Nhập Chế Độ Cửa Hàng</string>
+    <string name="init_storemode_countdown">Nếu bạn nhấn OK liên tục thì menu của TV sẽ bắt đầu Chế độ cửa hàng.</string>
+    <string name="not_find_update_file_tips">Không tìm thấy tập tin cập nhật nào. Vui lòng đảm bảo %1$s nằm trong thư mục gốc của USB.</string>
+    <string name="not_find_update_file_tips2">Không tìm thấy tập tin cập nhật nào. Vui lòng đảm bảo %1$s hoặc %2$s nằm trong thư mục gốc của USB.</string>
+    <string name="not_find_update_file_tips3">Không tìm thấy tập tin nâng cấp.</string>
+    <string name="add_mall_logo_success">Logo của trung tâm thương mại đã được tải lên thành công.</string>
+
+    <string name="epos_position_adjustment">Điều chỉnh vị trí E\u2011Pos</string>
+    <string name="mall_logo_position_adjustment">Điều chỉnh vị trí Logo trung tâm mua sắm &amp; quảng cáo</string>
+    <string name="epos_update">Cập nhật E\u2011pos</string>
+    <string name="invalid_button_press_tips">Nhấn nút vô hiệu trong Chế độ của hàng</string>
+    <string name="video_update_title">Cập nhật video</string>
+
+    <string name="prompt_build_in_video_update">Cập nhật video tích hợp. Vui lòng chờ.</string>
+    <string name="video_update_button_update">cập nhật</string>
+    <string name="video_update_button_cancel">Hủy</string>
+    <string name="picture_update_title">Cập nhật hình ảnh</string>
+    <string name="prompt_build_in_picture_update">Cập nhật hình ảnh tích hợp. Xin vui lòng chờ.</string>
+    <string name="update_build_in_video_toast_tips">Vui lòng chờ, video đang cập nhật.</string>
+    <string name="update_build_in_pic_toast_tips">Vui lòng chờ, hình ảnh đang cập nhật.</string>
+    <string name="updating_tips_text">Đang cập nhật. Vui lòng chờ.</string>
+    <string name="dialog_btn_confirm_tip">Xác nhận</string>
+    <string name="dialog_btn_delete_tip">Xóa</string>
+    <string name="dialog_btn_cancel_tip">Hủy</string>
+    <string name="build_in_picture_update">Cập nhật hình ảnh tích hợp</string>
+    <string name="no_find_update_pic_file_tips">Tập tin cập nhật hình ảnh không được tìm thấy. Tiền tố tên tập tin phải là [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Tậ tin cập nhật video hiện tại là %1$d M. Kích thước tối đa được hỗ trợ: %2$d M.</string>
+
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">USB Video</string>
+    <string name="checkbox_usb_pic_content">Hình ảnh USB</string>
+    <string name="checkbox_signal_content">Tín hiệu</string>
+    <string name="checkbox_build_in_pic_content">Hình ảnh Tích hợp</string>
+    <string name="checkbox_build_in_video_content">Video được tích hợp sẵn</string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">Hình ảnh</string>
+    <string name="sound_ajust">Âm thanh</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">Kích thước logo trung tâm tối đa là %1$d!</string>
+    <string name="mall_logo_pic_exist">Hình ảnh đã tồn tại.</string>
+    <string name="delete_picture_dialog_title">Xóa ảnh</string>
+    <string name="delete_picture_dialog_content">Bạn có chắc chắn muốn xóa ảnh này không?</string>
+    <string name="delete_picture_succes_tips">Đã xoá thành công</string>
+
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">Trái</string>
+    <string name="position_right">Phải</string>
+    <string name="position_top">Trở lại đầu trang</string>
+    <string name="position_bottom">Dưới cùng</string>
+    <string name="epos_updating_tips">Đang cập nhật E-Pos. Xin vui lòng chờ.</string>
+    <string name="btn_done">Đã làm</string>
+    <string name="btn_edit">Sửa</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>CẢNH BÁO</b></string>
+    <string name="energy_summary_one">Tiêu thụ năng lượng trong chế độ hình ảnh hiện tại có thể cao hơn so với mức chỉ định trong nhãn đánh giá năng lượng</string>
+    <string name="energy_summary_two">Hãy sử dụng chế độ hình ảnh Tiêu chuẩn để tiêu thụ năng lượng thông thường</string>
+</resources>

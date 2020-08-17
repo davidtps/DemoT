@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Pengaturan Store Mode</string>
+    <string name="build_in_video_update">Pembaruan Video Internal</string>
+    <string name="aq_pq_adjust">Penyesuaian AQ&amp;PQ</string>
+    <string name="mall_logo">Mal &amp; Logo Promosi</string>
+    <string name="auto_play_setup">Persiapan Pemutaran Otomatis</string>
+    <string name="epos_switch">Switch E-Pos</string>
+
+    <string name="resume_storemode_title">Lanjutkan Mode Demo Toko</string>
+    <string name="resume_storemode_desc">Perangkat TV akan segera kembali ke mode demo toko, tekan sembarang tombol remote untuk menunda proses ini.</string>
+    <string name="fte_init_storemode_title">Mulai Mode Toko</string>
+    <string name="fte_init_storemode_desc">Mode Toko akan dimulai, Lanjutkan?</string>
+    <string name="fte_init_storemode_back">Kembali ke FTE</string>
+    <string name="fte_init_storemode_enter">Aktifkan Mode Toko</string>
+
+    <string name="usb_not_found">Tidak menemukan perangkat USB. Pastikan perangkat Anda tersambung.</string>
+    <string name="udate_success">Berhasil Memperbarui!</string>
+    <string name="guide_poweron_title">Anda dapat mengubah ke Mode Rumah di Pengaturan</string>
+
+    <string name="use_mode">Mode Penggunaan</string>
+    <string name="user_mode">Mode Rumah</string>
+    <string name="store_mode">Mode Toko</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Pilih Logo Mall</string>
+    <string name="seller_settings_toast">Tekan Menu untuk mengatur Mode Toko</string>
+
+    <string name="mall_logo_limit">Pilih Gambar PNG atau JPG</string>
+    <string name="enter_storemode">Aktifkan Mode Toko</string>
+    <string name="init_storemode_countdown">Jika Anda terus menekan Ok, maka menu untuk TV akan memulai Mode Toko</string>
+    <string name="not_find_update_file_tips">File update tidak ditemukan. Pastikan %1$s disimpan di direktori root USB.</string>
+    <string name="not_find_update_file_tips2">File update tidak ditemukan. Pastikan %1$s atau %2$s disimpan di direktori root USB.</string>
+    <string name="not_find_update_file_tips3">Tidak menemukan file upgrade.</string>
+    <string name="add_mall_logo_success">Logo mall berhasil diunggah.</string>
+
+    <string name="epos_position_adjustment">Penyetelan Posisi E\u2011Pos</string>
+    <string name="mall_logo_position_adjustment">Penyesuaian Posisi Logo Mall &amp; Promosi</string>
+    <string name="epos_update">Pembaruan E\u2011Pos</string>
+    <string name="invalid_button_press_tips">Tombol yang tidak valid ditekan dalam Mode Toko</string>
+    <string name="video_update_title">Perbarui Video</string>
+
+    <string name="prompt_build_in_video_update">Memperbarui Video Bawaan. Silakan tunggu.</string>
+    <string name="video_update_button_update">perbarui</string>
+    <string name="video_update_button_cancel">Batal</string>
+    <string name="picture_update_title">Perbarui Gambar</string>
+    <string name="prompt_build_in_picture_update">Memperbarui gambar bawaan. Silakan tunggu.</string>
+    <string name="update_build_in_video_toast_tips">Video sedang diperbarui, silakan tunggu.</string>
+    <string name="update_build_in_pic_toast_tips">Gambar sedang diperbarui, silakan tunggu.</string>
+    <string name="updating_tips_text">Memperbarui. Silakan tunggu.</string>
+    <string name="dialog_btn_confirm_tip">Setuju</string>
+    <string name="dialog_btn_delete_tip">Hapus</string>
+    <string name="dialog_btn_cancel_tip">Batal</string>
+    <string name="build_in_picture_update">Pembaruan Gambar Bawaan</string>
+    <string name="no_find_update_pic_file_tips">File pembaruan gambar tidak ditemukan. Pastikan prefiks nama file berupa [%1$s].</string>
+    <string name="update_video_max_size_tips_text">Pembaruan video saat ini berukuran %1$d M. Ukuran maksimal yang didukung: %2$d M.</string>
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">Video USB</string>
+    <string name="checkbox_usb_pic_content">Gambar USB</string>
+    <string name="checkbox_signal_content">Sinyal</string>
+    <string name="checkbox_build_in_pic_content">Gambar Bawaan</string>
+    <string name="checkbox_build_in_video_content">Video Internal</string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">Gambar</string>
+    <string name="sound_ajust">Suara</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">Ukuran logo mall maksimum mencapai %1$d!</string>
+    <string name="mall_logo_pic_exist">Gambar sudah ada.</string>
+    <string name="delete_picture_dialog_title">Hapus Gambar</string>
+    <string name="delete_picture_dialog_content">Yakin ingin menghapusnya?</string>
+    <string name="delete_picture_succes_tips">Berhasil dihapus</string>
+
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">Kiri</string>
+    <string name="position_right">Kanan</string>
+    <string name="position_top">Kembali ke atas</string>
+    <string name="position_bottom">Bawah</string>
+    <string name="epos_updating_tips">Memperbarui E-Pos. silakan tunggu.</string>
+    <string name="btn_done">Selesai</string>
+    <string name="btn_edit">Edit</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>PERINGATAN</b></string>
+    <string name="energy_summary_one">Konsumsi energi dalam mode gambar saat ini mungkin lebih tinggi daripada yang ditunjukkan dalam label rating listrik</string>
+    <string name="energy_summary_two">Silakan gunakan mode gambar standar untuk konsumsi energi normal</string>
+</resources>

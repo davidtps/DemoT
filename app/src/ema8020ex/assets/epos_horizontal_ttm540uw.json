@@ -1,0 +1,469 @@
+{
+  "duration": "77100",
+  "elements": [
+    {
+      "name": "Box L1",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "0"
+        },
+        {
+          "name": "content",
+          "value": "epos_ic_one_ttm540uw"
+        },
+        {
+          "name": "h",
+          "value": "149"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "1920"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "3000",
+              "end": "3500",
+              "value": "(-149,0)"
+            },
+            {
+              "start": "9500",
+              "end": "10000",
+              "value": "(0,-149)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "3000",
+              "end": "10000",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_1920_149"
+        }
+      ]
+    },
+    {
+      "name": "Box L2",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "0"
+        },
+        {
+          "name": "content",
+          "value": "epos_ic_two_ttm540uw"
+        },
+        {
+          "name": "h",
+          "value": "149"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "1920"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "11000",
+              "end": "11500",
+              "value": "(-149,0)"
+            },
+            {
+              "start": "17500",
+              "end": "18000",
+              "value": "(0,-149)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "11000",
+              "end": "18000",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_1920_149"
+        }
+      ]
+    },
+    {
+      "name": "Box L3",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "0"
+        },
+        {
+          "name": "content",
+          "value": "epos_ic_one_ttm540uw"
+        },
+        {
+          "name": "h",
+          "value": "149"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "1920"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "20000",
+              "end": "20500",
+              "value": "(-149,0)"
+            },
+            {
+              "start": "26500",
+              "end": "27000",
+              "value": "(0,-149)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "20000",
+              "end": "27000",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_1920_149"
+        }
+      ]
+    },
+    {
+      "name": "Box L4",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "0"
+        },
+        {
+          "name": "content",
+          "value": "epos_ic_two_ttm540uw"
+        },
+        {
+          "name": "h",
+          "value": "149"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "1920"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "28000",
+              "end": "28500",
+              "value": "(-149,0)"
+            },
+            {
+              "start": "34500",
+              "end": "35000",
+              "value": "(0,-149)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "28000",
+              "end": "35000",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_1920_149"
+        }
+      ]
+    },
+    {
+      "name": "Box L5",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "0"
+        },
+        {
+          "name": "content",
+          "value": "epos_ic_one_ttm540uw"
+        },
+        {
+          "name": "h",
+          "value": "149"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "1920"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "37000",
+              "end": "37500",
+              "value": "(-149,0)"
+            },
+            {
+              "start": "43500",
+              "end": "44000",
+              "value": "(0,-149)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "37000",
+              "end": "44000",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_1920_149"
+        }
+      ]
+    },
+    {
+      "name": "Box L6",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "0"
+        },
+        {
+          "name": "content",
+          "value": "epos_ic_two_ttm540uw"
+        },
+        {
+          "name": "h",
+          "value": "149"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "1920"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "45000",
+              "end": "45500",
+              "value": "(-149,0)"
+            },
+            {
+              "start": "51500",
+              "end": "52000",
+              "value": "(0,-149)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "45000",
+              "end": "52000",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_1920_149"
+        }
+      ]
+    },
+    {
+      "name": "Box L7",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "0"
+        },
+        {
+          "name": "content",
+          "value": "epos_ic_one_ttm540uw"
+        },
+        {
+          "name": "h",
+          "value": "149"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "1920"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "54000",
+              "end": "54500",
+              "value": "(-149,0)"
+            },
+            {
+              "start": "60500",
+              "end": "61000",
+              "value": "(0,-149)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "54000",
+              "end": "61000",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_1920_149"
+        }
+      ]
+    },
+    {
+      "name": "Box L8",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "0"
+        },
+        {
+          "name": "content",
+          "value": "epos_ic_two_ttm540uw"
+        },
+        {
+          "name": "h",
+          "value": "149"
+        },
+        {
+          "name": "layoutorder",
+          "value": "0"
+        },
+        {
+          "name": "w",
+          "value": "1920"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "stages": [
+            {
+              "start": "62000",
+              "end": "62500",
+              "value": "(-149,0)"
+            },
+            {
+              "start": "68500",
+              "end": "69000",
+              "value": "(0,-149)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "62000",
+              "end": "69000",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_1920_149"
+        }
+      ]
+    }
+  ]
+}

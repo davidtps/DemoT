@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Parduotuvės režimo nustatymai</string>
+    <string name="build_in_video_update">Įmontuotas vaizdo atnaujinimas</string>
+    <string name="aq_pq_adjust">GK ir VK reguliavimas</string>
+    <string name="mall_logo">Prekybos ir reklamos logotipas</string>
+    <string name="auto_play_setup">Automatinis atkūrimo nustatymas</string>
+    <string name="epos_switch">E-Pos jungtis</string>
+
+    <string name="resume_storemode_title">Atkurti Parduotuvės būsenos parodomąją programėlę</string>
+    <string name="resume_storemode_desc">Netrukus TV grįš atgal į Parduotuvės būseną, šį procesą galite pavėlinti, paspaudę bet kurį mygtuką nuotolinio valdymo pulte.</string>
+    <string name="fte_init_storemode_title">Įjungti Parduotuvės būseną</string>
+    <string name="fte_init_storemode_desc">Bus įjungtas parduotuvės režimas. Norite tęsti?</string>
+    <string name="fte_init_storemode_back">Atgal į FTE</string>
+    <string name="fte_init_storemode_enter">Įjungti saugojimo būseną</string>
+
+
+    <string name="usb_not_found">USB įrenginys nerastas. Įsitikinkite, kad jis prijungtas.</string>
+    <string name="udate_success">Atnaujinimas sėkmingas</string>
+    <string name="guide_poweron_title">Nustatymuose galite persijungti į Namų būseną</string>
+
+    <string name="use_mode">Naudojimo režimas</string>
+    <string name="user_mode">Namų režimas</string>
+    <string name="store_mode">Parduotuvės režimas</string>
+    <string name="store_mode_with_video">Parduotuvės režimas su 4K demonstraciniu vaizdu</string>
+    <string name="select_a_mall_logo">Pasirinkite parduotuvės logotipą</string>
+    <string name="seller_settings_toast">Paspauskite Meniu, kad nustatytumėte Pirkimo rėžimą.</string>
+
+    <string name="mall_logo_limit">Pasirinkite PNG arba JPG paveikslėlį</string>
+    <string name="enter_storemode">Įjungti saugojimo būseną</string>
+    <string name="init_storemode_countdown">Jei vis spausite „Gerai“, tuomet TV meniu inicijuos Saugyklos būseną.</string>
+    <string name="not_find_update_file_tips">Naujinimo failas nerastas. Įsitikinkite, kad %1$s yra USB šakniniame kataloge.</string>
+    <string name="not_find_update_file_tips2">Naujinimo failas nerastas. Įsitikinkite, kad %1$s arba %2$s yra USB šakniniame kataloge.</string>
+    <string name="not_find_update_file_tips3">Atnaujinimo failas nerastas.</string>
+    <string name="add_mall_logo_success">Parduotuvės logotipas sėkmingai įkeltas.</string>
+
+    <string name="epos_position_adjustment">El. poz. pozicijos reguliavimas</string>
+    <string name="mall_logo_position_adjustment">Prekybos centro ir reklamos logotipo pozicijos reguliavimas</string>
+    <string name="epos_update">E-Pos atnaujinimas</string>
+    <string name="invalid_button_press_tips">Parduotuvės būsenoje paspaustas netinkamas mygtukas</string>
+    <string name="video_update_title">Atnaujinti vaizdo įrašą</string>
+
+    <string name="prompt_build_in_video_update">Atnaujinamas įmontuotas vaizdo įrašas. Prašau palaukti.</string>
+    <string name="video_update_button_update">Atnaujinimas</string>
+    <string name="video_update_button_cancel">Atšaukti</string>
+    <string name="picture_update_title">Atnaujinti paveikslėlį.</string>
+    <string name="prompt_build_in_picture_update">Atnaujinama įmontuota nuotrauka. Prašau palaukti.</string>
+    <string name="update_build_in_video_toast_tips">Palaukite, vaizdo įrašas atnaujinamas.</string>
+    <string name="update_build_in_pic_toast_tips">Palaukite, vaizdas atnaujinamas.</string>
+    <string name="updating_tips_text">Vyksta atnaujinimas. Prašau palaukti.</string>
+    <string name="dialog_btn_confirm_tip">Patvirtinti</string>
+    <string name="dialog_btn_delete_tip">Ištrinti</string>
+    <string name="dialog_btn_cancel_tip">Atšaukti</string>
+    <string name="build_in_picture_update">Įmontuotas vaizdo atnaujinimas</string>
+    <string name="no_find_update_pic_file_tips">Vaizdo atnaujinimo failas nerastas. Failo vardo prefiksas turėtų būti [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Dabartinis vaizdo įrašo atnaujintas failas yra %1$d M. Maksimalus palaikomas dydis: %2$d M.</string>
+
+
+    <string name="checkbox_usb_video_content">USB vaizdo įrašas</string>
+    <string name="checkbox_usb_pic_content">USB paveikslėlis</string>
+    <string name="checkbox_signal_content">Signalas</string>
+    <string name="checkbox_build_in_pic_content">Įmontuotas vaizdas</string>
+    <string name="checkbox_build_in_video_content">Integruotas vaizdas</string>
+
+    <string name="picture_ajust">Nuotrauka</string>
+    <string name="sound_ajust">Garsas</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Didžiausias prekybos centro logotipo dydis yra %1$d!</string>
+    <string name="mall_logo_pic_exist">Paveikslėlis jau yra.</string>
+    <string name="delete_picture_dialog_title">Ištrinti paveikslėlį</string>
+    <string name="delete_picture_dialog_content">Ar tikrai norite tai ištrinti?</string>
+    <string name="delete_picture_succes_tips">Ištrinta sėkmingai</string>
+
+
+    <string name="position_left">Į kairę</string>
+    <string name="position_right">Į dešinę</string>
+    <string name="position_top">Į viršų</string>
+    <string name="position_bottom">Apačia</string>
+    <string name="epos_updating_tips">Atnaujinamas „E-Pos“. Palaukite.</string>
+    <string name="btn_done">Atlikta</string>
+    <string name="btn_edit">Redaguoti</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>ĮSPĖJIMAS</b></string>
+    <string name="energy_summary_one">Energijos suvartojimas esamame režime gali būti didesnis nei rodoma energijos vertinimo etiketėje</string>
+    <string name="energy_summary_two">Norėdami užtikrinti normalų energijos sunaudojimą, naudokite standartinę vaizdo būseną</string>
+</resources>

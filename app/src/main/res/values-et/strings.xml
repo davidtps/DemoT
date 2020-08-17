@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Poerežiimi seaded</string>
+    <string name="build_in_video_update">Integreeritud video värskendamine</string>
+    <string name="aq_pq_adjust">Heli&amp;Pildi kvaliteedi muutmine</string>
+    <string name="mall_logo">Kaubamaja ja kampaania logo</string>
+    <string name="auto_play_setup">Automaatse taasesituse häälestus</string>
+    <string name="epos_switch">E-Pos lüliti </string>
+
+    <string name="resume_storemode_title">Poerežiimi demoga jätkamine</string>
+    <string name="resume_storemode_desc">Teler lülitub varsti tagasi poerežiimi demole, edasi lükkamiseks vajutage ükskõik millist nuppu.</string>
+    <string name="fte_init_storemode_title">Algatada poerežiimi</string>
+    <string name="fte_init_storemode_desc">Poerežiim käivitatakse. Kas soovite jätkata?</string>
+    <string name="fte_init_storemode_back">Tagasi FTE juurde</string>
+    <string name="fte_init_storemode_enter">Poerežiimi käivitamine</string>
+
+
+    <string name="usb_not_found">USB-seadet ei leitud. Veenduge, et seade on ühendatud.</string>
+    <string name="udate_success">Uuendamine oli edukas!</string>
+    <string name="guide_poweron_title">Kodurežiimile saate lülituda Seadetest.</string>
+
+    <string name="use_mode">Kasutusrežiim</string>
+    <string name="user_mode">Kodurežiim</string>
+    <string name="store_mode">Poerežiim</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Valige kaubamaja logo</string>
+    <string name="seller_settings_toast">Vajuta Menüüd seadistamaks Poe režiim</string>
+
+    <string name="mall_logo_limit">Valige PNG või JPG kujutis</string>
+    <string name="enter_storemode">Poerežiimi käivitamine</string>
+    <string name="init_storemode_countdown">Kui jätkate OK vajutamist, siis käivitate poerežiimi</string>
+    <string name="not_find_update_file_tips">Värskendamise faili ei leitud. Veenduge, et USB juurkaustas on %1$s.</string>
+    <string name="not_find_update_file_tips2">Värskendamise faili ei leitud. Veenduge, et USB juurkaustas on %1$s või %2$s.</string>
+    <string name="not_find_update_file_tips3">Uuenduse faili ei leitud.</string>
+    <string name="add_mall_logo_success">Kaubamaja logo edukalt üles laetud.</string>
+
+    <string name="epos_position_adjustment">E-Pos asendi reguleerimine</string>
+    <string name="mall_logo_position_adjustment">Kaubamaja ja kampaania logo paigutuse reguleerimine</string>
+    <string name="epos_update">E-Pos värskendamine</string>
+    <string name="invalid_button_press_tips">Poerežiimis kehtetu nupuvajutus</string>
+    <string name="video_update_title">Uuenda videot</string>
+
+    <string name="prompt_build_in_video_update">Uuendab sissepandud videot. Palun oota.</string>
+    <string name="video_update_button_update">Uuendus</string>
+    <string name="video_update_button_cancel">Tühista</string>
+    <string name="picture_update_title">Uuenda pilti</string>
+    <string name="prompt_build_in_picture_update">Uuendab sissepandud pilti. Palun oota.</string>
+    <string name="update_build_in_video_toast_tips">Palun oota, video uueneb.</string>
+    <string name="update_build_in_pic_toast_tips">Palun oota, pilt uueneb.</string>
+    <string name="updating_tips_text">Uuendab. Palun oota.</string>
+    <string name="dialog_btn_confirm_tip">Kinnita</string>
+    <string name="dialog_btn_delete_tip">Kustuta</string>
+    <string name="dialog_btn_cancel_tip">Tühista</string>
+    <string name="build_in_picture_update">Sissepandud pildi </string>
+    <string name="no_find_update_pic_file_tips">Uuendus faili ei leitud. Veenud, et video nimega [%1$s] asub USB asukohas.</string>
+    <string name="update_video_max_size_tips_text">Hetke video uuendusfaili suurus on %1$d M. Maksimaalne toetatud suurus: %2$d M.</string>
+
+
+    <string name="checkbox_usb_video_content">USB-video</string>
+    <string name="checkbox_usb_pic_content">USB pilt</string>
+    <string name="checkbox_signal_content">Signaal</string>
+    <string name="checkbox_build_in_pic_content">Sissepandud pilt</string>
+    <string name="checkbox_build_in_video_content">Integreeritud video</string>
+
+    <string name="picture_ajust">Pilt</string>
+    <string name="sound_ajust">Heli</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Maksimaalne faili logo suurus on %1$d!</string>
+    <string name="mall_logo_pic_exist">Pilt on juba olemas.</string>
+    <string name="delete_picture_dialog_title">Kustuta pilt</string>
+    <string name="delete_picture_dialog_content">Oled kindel, et soovid selle kustutada?</string>
+    <string name="delete_picture_succes_tips">Edukalt kustutatud</string>
+
+
+    <string name="position_left">Vasak</string>
+    <string name="position_right">Parem</string>
+    <string name="position_top">Tagasi üles</string>
+    <string name="position_bottom">Alaosa</string>
+
+    <string name="epos_updating_tips">E-Pos uuendamine. Palun oodake.</string>
+    <string name="btn_done">Valmis</string>
+    <string name="btn_edit">Muuda</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>HOIATUS</b></string>
+    <string name="energy_summary_one">Aktiivse pildirežiimi energiatarbimine võib olla energiamärgisel näidatust suurem.</string>
+    <string name="energy_summary_two">Tavapärase energiatarbimise saavutamiseks kasutage standardset pildirežiimi.</string>
+</resources>

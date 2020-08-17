@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Setări Mod Magazin</string>
+    <string name="build_in_video_update">Actualizare video încorporată</string>
+    <string name="aq_pq_adjust">Reglare AQ&amp;PQ</string>
+    <string name="mall_logo">Mall &amp; Logo de promovare</string>
+    <string name="auto_play_setup">Setare redare automată</string>
+    <string name="epos_switch">Comutator E-Pos</string>
+
+    <string name="resume_storemode_title">Reluați modul de stocare Demo</string>
+    <string name="resume_storemode_desc">Televizorul va reveni la modul de stocare în curând, puteți apăsa oricare buton de pe telecomandă pentru a amâna acest proces.</string>
+    <string name="fte_init_storemode_title">Inițiați Modul Magazin</string>
+    <string name="fte_init_storemode_desc">Modul Stocare va fi inițiat, dorești să continui?</string>
+    <string name="fte_init_storemode_back">Înapoi la FTE</string>
+    <string name="fte_init_storemode_enter">Intrați în modul Magazin</string>
+
+
+    <string name="usb_not_found">Nu este găsit niciun dispozitiv USB. Asigurați-vă că dispozitivul dvs. este conectat.</string>
+    <string name="udate_success">Actualizare cu succes</string>
+    <string name="guide_poweron_title">Puteți comuta la modul Acasă în Setări</string>
+
+    <string name="use_mode">Utilizați modul</string>
+    <string name="user_mode">Mod acasă</string>
+    <string name="store_mode">Modul Magazin</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Selectați o Siglă Mall</string>
+    <string name="seller_settings_toast">Apăsați Meniu pentru a configura Modul Magazin</string>
+
+    <string name="mall_logo_limit">Alegeți o imagine PNG sau JPG</string>
+    <string name="enter_storemode">Intrați în modul Magazin</string>
+    <string name="init_storemode_countdown">Dacă mențineți apăsată tasta Ok, atunci meniul pentru televizor va iniția modul Stocare.</string>
+    <string name="not_find_update_file_tips">Nu este găsit niciun fișier de actualizare. Vă rugăm să vă asigurați că %1$s se află în directorul rădăcină USB.</string>
+    <string name="not_find_update_file_tips2">Nu este găsit niciun fișier de actualizare. Vă rugăm să vă asigurați că %1$s sau %2$s se află în directorul rădăcină USB.</string>
+    <string name="not_find_update_file_tips3">Nu a fost găsit niciun fișier de actualizare.</string>
+    <string name="add_mall_logo_success">Sigla mall-ului a fost încărcată cu succes.</string>
+
+    <string name="epos_position_adjustment">Reglarea poziției E-Pos</string>
+    <string name="mall_logo_position_adjustment">Mall si Ajustare Poziție logo Promotie</string>
+    <string name="epos_update">Actualizare E-pos</string>
+    <string name="invalid_button_press_tips">Apăsare buton nevalidă în modul Store</string>
+    <string name="video_update_title">Actualizați video</string>
+
+    <string name="prompt_build_in_video_update">Actualizare video încorporat. Vă rugăm să așteptați.</string>
+    <string name="video_update_button_update">Actualizare</string>
+    <string name="video_update_button_cancel">Anulare</string>
+    <string name="picture_update_title">Actualizare imagine</string>
+    <string name="prompt_build_in_picture_update">Se actualizează imaginea încorporată. Vă rugăm să așteptați</string>
+    <string name="update_build_in_video_toast_tips">Vă rugăm să așteptați, videoclipul se actualizează.</string>
+    <string name="update_build_in_pic_toast_tips">Vă rugăm să așteptați , imaginea se actualizează.</string>
+    <string name="updating_tips_text">Se actualizează. Vă rugăm să așteptați.</string>
+    <string name="dialog_btn_confirm_tip">A confirma</string>
+    <string name="dialog_btn_delete_tip">Șterge</string>
+    <string name="dialog_btn_cancel_tip">Anulare</string>
+    <string name="build_in_picture_update">Actualizare imagine încorporată</string>
+    <string name="no_find_update_pic_file_tips">Fișierul de actualizare imagine nu a fost găsit. Prefix nume fișier ar trebui să fie [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Actualul fișier de actualizare video este %1$d M. Dimensiunea maximă acceptată: %2$d M.</string>
+
+
+    <string name="checkbox_usb_video_content">Video USB</string>
+    <string name="checkbox_usb_pic_content">Imagine USB</string>
+    <string name="checkbox_signal_content">Semnal</string>
+    <string name="checkbox_build_in_pic_content">Imagine încorporată</string>
+    <string name="checkbox_build_in_video_content">Video încorporat</string>
+
+    <string name="picture_ajust">Imagine</string>
+    <string name="sound_ajust">Sunet</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Dimensiunea maximă a logo-ului este %1$d!</string>
+    <string name="mall_logo_pic_exist">Imaginea există deja.</string>
+    <string name="delete_picture_dialog_title">Ștergere imagine</string>
+    <string name="delete_picture_dialog_content">Sunteti sigur că doriți să ștergeți această opțiune?</string>
+    <string name="delete_picture_succes_tips">S-a șters cu succes</string>
+
+
+    <string name="position_left">Stânga</string>
+    <string name="position_right">Dreapta</string>
+    <string name="position_top">Top</string>
+    <string name="position_bottom">Fund</string>
+    <string name="epos_updating_tips">Actualizare E-Pos. Vă rugăm  asteptati.</string>
+    <string name="btn_done">Terminat</string>
+    <string name="btn_edit">Editați</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>AVERTIZARE</b></string>
+    <string name="energy_summary_one">Consumul de energie în modul imagine curent poate fi mai mare decât cel indicat în eticheta de evaluare a puterii</string>
+    <string name="energy_summary_two">Utilizați modul imagine standard pentru consumul normal de energie</string>
+</resources>

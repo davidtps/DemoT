@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">商場模式設置</string>
+    <string name="build_in_video_update">內建視頻更新</string>
+    <string name="aq_pq_adjust">畫質&amp;音質調整</string>
+    <string name="mall_logo">賣場與促銷標誌</string>
+    <string name="auto_play_setup">自動播放設置</string>
+    <string name="epos_switch">電子 POS 開關 </string>
+
+    <string name="resume_storemode_title">恢復商場模式演示</string>
+    <string name="resume_storemode_desc">電視將回到商場模式演示，您可按遙控器上任一按鈕延遲此程序。</string>
+    <string name="fte_init_storemode_title">開啟商店模式</string>
+    <string name="fte_init_storemode_desc">將啟動商店模式，您要繼續嗎？</string>
+    <string name="fte_init_storemode_back">回到 FTE</string>
+    <string name="fte_init_storemode_enter">進入商場模式</string>
+
+
+    <string name="usb_not_found">找不到 USB 裝置。請確認您的裝置已連接。</string>
+    <string name="udate_success">更新成功</string>
+    <string name="guide_poweron_title">您可在設定選單切換至家用模式</string>
+
+    <string name="use_mode">使用模式</string>
+    <string name="user_mode">家庭模式</string>
+    <string name="store_mode">商場模式</string>
+    <string name="store_mode_with_video">含 4K 示範影片的商場模式。</string>
+    <string name="select_a_mall_logo">選取一個商城標誌</string>
+    <string name="seller_settings_toast">按目錄設置商場模式</string>
+
+    <string name="mall_logo_limit">請選擇PNG或JPG圖像</string>
+    <string name="enter_storemode">進入商場模式</string>
+    <string name="init_storemode_countdown">若繼續按確定，電視選單將進入商場模式。</string>
+    <string name="not_find_update_file_tips">未找到升級檔，請確保 %1$s 檔案位於USB根目錄下。</string>
+    <string name="not_find_update_file_tips2">未找到升級檔，請確保 %1$s 或 %2$s 檔案位於USB根目錄下。</string>
+    <string name="not_find_update_file_tips3">無可用更新文件。</string>
+    <string name="add_mall_logo_success">商城標誌已成功上傳。</string>
+
+    <string name="epos_position_adjustment">電子 POS 位置調整</string>
+    <string name="mall_logo_position_adjustment">商場及促銷活動標誌位置調整</string>
+    <string name="epos_update">電子 POS 更新</string>
+    <string name="invalid_button_press_tips">商場模式中按鈕無效</string>
+    <string name="video_update_title">影片更新</string>
+
+    <string name="prompt_build_in_video_update">內建影片更新中，請稍候。</string>
+    <string name="video_update_button_update">更新</string>
+    <string name="video_update_button_cancel">取消</string>
+    <string name="picture_update_title">圖片更新</string>
+    <string name="prompt_build_in_picture_update">正在更新內置圖片，請稍候。</string>
+    <string name="update_build_in_video_toast_tips">請稍候，正在更新影片。</string>
+    <string name="update_build_in_pic_toast_tips">請稍候，正在更新圖片。</string>
+    <string name="updating_tips_text">正在更新，請稍候。</string>
+    <string name="dialog_btn_confirm_tip">確定</string>
+    <string name="dialog_btn_delete_tip">刪除</string>
+    <string name="dialog_btn_cancel_tip">取消</string>
+    <string name="build_in_picture_update">內置圖片更新</string>
+    <string name="no_find_update_pic_file_tips">未找到圖片升級檔，檔案開頭應為【%1$s】</string>
+    <string name="update_video_max_size_tips_text">目前影片更新檔為 %1$d M。最大可支援 %2$d M的檔案。</string>
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">USB 視頻</string>
+    <string name="checkbox_usb_pic_content">USB 圖片</string>
+    <string name="checkbox_signal_content">訊號</string>
+    <string name="checkbox_build_in_pic_content">內置圖片</string>
+    <string name="checkbox_build_in_video_content">內建影片</string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">圖片</string>
+    <string name="sound_ajust">聲音</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB 優先</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">購物中心標誌最大儲存數量為 %1$d！</string>
+    <string name="mall_logo_pic_exist">圖片已存在。</string>
+    <string name="delete_picture_dialog_title">刪除圖片</string>
+    <string name="delete_picture_dialog_content">確定要刪除？</string>
+    <string name="delete_picture_succes_tips">刪除成功</string>
+
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">左邊</string>
+    <string name="position_right">右邊</string>
+    <string name="position_top">頂部</string>
+    <string name="position_bottom">底部</string>
+    <string name="epos_updating_tips">正在更新E-Pos，請稍候。</string>
+    <string name="btn_edit">編輯</string>
+    <string name="btn_done">完成</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>警告</b></string>
+    <string name="energy_summary_one">目前圖片模式的用電量可能比能源標示標籤所示更高。</string>
+    <string name="energy_summary_two">請使用標準圖片模式，維持正常用電量</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true">
+        <shape>
+            <solid android:color="@color/tv_debug_focused" />
+            <stroke android:color="#00A9C2" android:width="1dp" />
+        </shape>
+    </item>
+    <item android:drawable="@color/tv_debug_normal" />
+</selector>

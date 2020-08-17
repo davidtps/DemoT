@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/aq_pq_adjust">
+    <Preference
+        android:icon="@drawable/ic_picture"
+        android:key="@string/key_picture_ajust"
+        android:title="@string/picture_ajust" />
+    <Preference
+        android:icon="@drawable/ic_sound"
+        android:key="@string/key_sound_ajust"
+        android:title="@string/sound_ajust" />
+
+</PreferenceScreen>

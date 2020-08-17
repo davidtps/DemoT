@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Настройки режима \"В магазине\"</string>
+    <string name="build_in_video_update">Обновление встроенного видео</string>
+    <string name="aq_pq_adjust">Настройка AQ и PQ</string>
+    <string name="mall_logo">Торговый и рекламный логотип</string>
+    <string name="auto_play_setup">Настройка автовоспроизведения</string>
+    <string name="epos_switch">Переключатель E-Pos</string>
+
+    <string name="resume_storemode_title">Возобновить демо\u2011ролик режима \"В магазине\"</string>
+    <string name="resume_storemode_desc">Сейчас ТВ начнет воспроизводить демо\u2011ролик режима  \"В магазине\", чтобы остановить его, нажмите любую кнопку на пульте ДУ.</string>
+    <string name="fte_init_storemode_title">Включить режим магазина</string>
+    <string name="fte_init_storemode_desc">Будет включен режим "В магазине", продолжить?</string>
+    <string name="fte_init_storemode_back">Вернуться к FTE</string>
+    <string name="fte_init_storemode_enter">Войдите в режим \"В магазине\"</string>
+
+
+    <string name="usb_not_found">USB\u2011устройство не найдено. Убедитесь, что устройство подключено.</string>
+    <string name="udate_success">Обновление прошло успешно</string>
+    <string name="guide_poweron_title">Переключиться в домашний режим можно в настройках</string>
+
+    <string name="use_mode">Пользовательский режим</string>
+    <string name="user_mode">Режим \"Домашний\"</string>
+    <string name="store_mode">Режим \"В магазине\"</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Выберите торговый логотип</string>
+    <string name="seller_settings_toast">Нажмите Меню, чтобы настроить Режим магазина</string>
+
+    <string name="mall_logo_limit">Выберите изображение PNG или JPG</string>
+    <string name="enter_storemode">Войдите в режим \"В магазине\"</string>
+    <string name="init_storemode_countdown">Если продолжить нажимать Ok, ТВ активирует режим \"В магазине\".</string>
+    <string name="not_find_update_file_tips">Файл с обновлениями не найден. Проверьте, чтобы %1$s находился в корневой директории USB.</string>
+    <string name="not_find_update_file_tips2">Файл с обновлениями не найден. Проверьте, чтобы %1$s или %2$s находился в корневой директории USB.</string>
+    <string name="not_find_update_file_tips3">Файл обновления не найден.</string>
+    <string name="add_mall_logo_success">Торговый логотип выгружен успешно.</string>
+
+    <string name="epos_position_adjustment">Настройка позиции E\u2011Pos</string>
+    <string name="mall_logo_position_adjustment">Подстройка позиции Торгового и рекламного логотипа</string>
+    <string name="epos_update">Обновление E\u2011pos</string>
+    <string name="invalid_button_press_tips">В режиме \"В магазине\" нажата неверная кнопка</string>
+    <string name="video_update_title">Обновить видео</string>
+
+    <string name="prompt_build_in_video_update">Обновляется встроенное видео. Подождите.</string>
+    <string name="video_update_button_update">Обновить</string>
+    <string name="video_update_button_cancel">Отменить</string>
+    <string name="picture_update_title">Обновить изображение</string>
+    <string name="prompt_build_in_picture_update">Обновляется встроенное изображение. Подождите.</string>
+    <string name="update_build_in_video_toast_tips">Подождите, видео обновляется.</string>
+    <string name="update_build_in_pic_toast_tips">Подождите, изображение обновляется.</string>
+    <string name="updating_tips_text">Обновление. Подождите.</string>
+    <string name="dialog_btn_confirm_tip">Подтвердить</string>
+    <string name="dialog_btn_delete_tip">Удалить</string>
+    <string name="dialog_btn_cancel_tip">Отменить</string>
+    <string name="build_in_picture_update">Обновление встроенного изображения</string>
+    <string name="no_find_update_pic_file_tips">Файл с обновлением изображения не найден. Имя файла должно начинаться с [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Файл с текущим обновлением видео - %1$d M. Максимальный поддерживаемый размер: %2$d M.</string>
+
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">USB\u2011видео</string>
+    <string name="checkbox_usb_pic_content">Изображение USB</string>
+    <string name="checkbox_signal_content">Сигнал</string>
+    <string name="checkbox_build_in_pic_content">Встроенное изображение</string>
+    <string name="checkbox_build_in_video_content">Встроенное видео</string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">Изображение</string>
+    <string name="sound_ajust">Звук</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">Максимальный размер торгового логотипа \u2011 %1$d!</string>
+    <string name="mall_logo_pic_exist">Изображение уже существует.</string>
+    <string name="delete_picture_dialog_title">Удалить изображение</string>
+    <string name="delete_picture_dialog_content">Уверены, что хотите удалить его?</string>
+    <string name="delete_picture_succes_tips">Успешно удалено</string>
+
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">Левый</string>
+    <string name="position_right">Правый</string>
+    <string name="position_top">Вернуться вверх</string>
+    <string name="position_bottom">Низ</string>
+    <string name="epos_updating_tips">Обновление E-Pos. Подождите.</string>
+    <string name="btn_done">Готово</string>
+    <string name="btn_edit">Редактировать</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>ПРЕДУПРЕЖДЕНИЕ</b></string>
+    <string name="energy_summary_one">Потребление энергии в текущем режиме изображения может быть выше, чем указано в заводской табличке.</string>
+    <string name="energy_summary_two">Для нормального энергопотребления, используйте стандартный режим изображения.</string>
+</resources>

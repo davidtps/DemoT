@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Tetapan Mod Kedai</string>
+    <string name="build_in_video_update">Kemas Kini Video Bina Dalam</string>
+    <string name="aq_pq_adjust">Laraskan Kualiti Audio &amp; Gambar</string>
+    <string name="mall_logo">Logo Gedung &amp; Promosi</string>
+    <string name="auto_play_setup">Tetapan Main balik Automatik</string>
+    <string name="epos_switch">Suis E-Pos</string>
+
+    <string name="resume_storemode_title">Teruskan Demo Mod Kedai</string>
+    <string name="resume_storemode_desc">Set TV akan kembali ke demo mod kedai tidak lama lagi, anda boleh menekan sebarang butang untuk menangguhkan proses ini.</string>
+    <string name="fte_init_storemode_title">Mulakan Mod Kedai</string>
+    <string name="fte_init_storemode_desc">Mod Kedai akan dimulakan, adakah anda mahu Meneruskan?</string>
+    <string name="fte_init_storemode_back">Kembali ke FTE</string>
+    <string name="fte_init_storemode_enter">Masuk Mod Kedai</string>
+
+
+    <string name="usb_not_found">Tiada peranti USB dijumpai. Pastikan peranti anda disambungkan.</string>
+    <string name="udate_success">Berjaya Kemas Kini!</string>
+    <string name="guide_poweron_title">Anda boleh bertukar ke Mod Kediaman dalam Tetapan</string>
+
+    <string name="use_mode">Mod Penggunaan</string>
+    <string name="user_mode">Mod rumah</string>
+    <string name="store_mode">Mod Kedai</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Pilih Satu Logo Kedai</string>
+    <string name="seller_settings_toast">Tekan Menu untuk meyediakan Mod Kedai</string>
+
+    <string name="mall_logo_limit">Sila pilih Imej PNG atau JPG</string>
+    <string name="enter_storemode">Masuk Mod Kedai</string>
+    <string name="init_storemode_countdown">Jika anda terus menekan Ok maka menu untuk TV akan memulakan Mod Kedai.</string>
+    <string name="not_find_update_file_tips">Tiada fail terkini dijumpai. Sila pastikan %1$s terletak di direktori akar USB.</string>
+    <string name="not_find_update_file_tips2">Tiada fail terkini dijumpai. Sila pastikan %1$s atau %2$s terletak di direktori akar USB.</string>
+    <string name="not_find_update_file_tips3">Fail peningkatan tidak dijumpai.</string>
+
+
+    <string name="add_mall_logo_success">Logo kedai telah berjaya dimuat naik.</string>
+
+    <string name="epos_position_adjustment">Pelarasan Kedudukan E\u2011Pos</string>
+    <string name="mall_logo_position_adjustment">Pelarasan Kedudukan Logo Gedung &amp; Promosi</string>
+    <string name="epos_update">Kemas kini E\u2011pos</string>
+    <string name="invalid_button_press_tips">Butang yang ditekan dalam Mod Kedai tidak sah</string>
+    <string name="video_update_title">Kemas kini Video</string>
+
+    <string name="prompt_build_in_video_update">Sedang mengemas kini video yang terbina dalam. Sila tunggu.</string>
+    <string name="video_update_button_update">Kemas kini</string>
+    <string name="video_update_button_cancel">Batal</string>
+    <string name="picture_update_title">Kemas kini Gambar</string>
+    <string name="prompt_build_in_picture_update">Sedang mengemas kini gambar yang terbina dalam. Sila tunggu.</string>
+    <string name="update_build_in_video_toast_tips">Sila tunggu, video sedang dikemas kini.</string>
+    <string name="update_build_in_pic_toast_tips">Sila tunggu, gambar sedang dikemas kini.</string>
+    <string name="updating_tips_text">Sedang mengemas kini. Sila tunggu.</string>
+    <string name="dialog_btn_confirm_tip">Sahkan</string>
+    <string name="dialog_btn_delete_tip">Padam</string>
+    <string name="dialog_btn_cancel_tip">Batal</string>
+    <string name="build_in_picture_update">Pengemaskinian Gambar Terbina Dalam</string>
+    <string name="no_find_update_pic_file_tips">Fail kemas kini gambar tidak dijumpai. Awalan nama fail harus bermula dengan [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Fail kemas kini video semasa ialah %1$d M. Saiz maksimum yang disokong ialah: %2$d M.</string>
+
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">Video USB</string>
+    <string name="checkbox_usb_pic_content">Gambar USB</string>
+    <string name="checkbox_signal_content">Isyarat</string>
+    <string name="checkbox_build_in_pic_content">Gambar Terbina Dalam</string>
+    <string name="checkbox_build_in_video_content">Video Bina Dalam</string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">Gambar</string>
+    <string name="sound_ajust">Bunyi</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">Saiz maksimum logo gedung ialah %1$d!</string>
+    <string name="mall_logo_pic_exist">Gambar sudah wujud.</string>
+    <string name="delete_picture_dialog_title">Padam Gambar</string>
+    <string name="delete_picture_dialog_content">Adakah anda pasti mahu memadamnya?</string>
+    <string name="delete_picture_succes_tips">Berjaya dipadam</string>
+
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">Kiri</string>
+    <string name="position_right">Hak</string>
+    <string name="position_top">Kembali ke atas</string>
+    <string name="position_bottom">Bawah</string>
+    <string name="epos_updating_tips">Mengemaskini E-Pos. Sila tunggu.</string>
+    <string name="btn_done">Selesai</string>
+    <string name="btn_edit">Edit</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>AMARAN</b></string>
+    <string name="energy_summary_one">Penggunaan tenaga dalam mod gambar semasa mungkin lebih tinggi daripada yang ditunjukkan dalam label penarafan tenaga</string>
+    <string name="energy_summary_two">Sila gunakan mod gambar piawai untuk penggunaan tenaga biasa</string>
+</resources>

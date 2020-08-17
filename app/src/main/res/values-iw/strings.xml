@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">הגדרות מצב חנות</string>
+    <string name="build_in_video_update">עידכוני ווידאו מובנים מראש</string>
+    <string name="aq_pq_adjust">התאמת איכות שמע ואיכות תמונה</string>
+    <string name="mall_logo">לוגו קניון ומבצעים</string>
+    <string name="auto_play_setup">הגדרות הפעלה אוטומטית</string>
+    <string name="epos_switch">מתג E-Pos</string>
+
+    <string name="resume_storemode_title">חדש הדגמת מצב חנות</string>
+    <string name="resume_storemode_desc">ערכת הטלוויזיה תוחזר להדגמת מצב חנות בקרוב, ניתן ללחוץ על כל לחצן בשלט הרחוק כדי לדחות תהליך זה.</string>
+    <string name="fte_init_storemode_title">הפעל מצב חנות</string>
+    <string name="fte_init_storemode_desc">מצב חנות יופעל. האם ברצונך להמשיך?</string>
+    <string name="fte_init_storemode_back">חזרה ל\u2011FTE</string>
+    <string name="fte_init_storemode_enter">היכנס למצב חנות</string>
+
+
+    <string name="usb_not_found">לא נמצא התקן USB. ודא שמכשירך מחובר</string>
+    <string name="udate_success">עדכון עבר בהצלחה!</string>
+    <string name="guide_poweron_title">ניתן לעבור למצב בית בהגדרות</string>
+
+    <string name="use_mode">מצב שימוש</string>
+    <string name="user_mode">מצב בית</string>
+    <string name="store_mode">מצב חנות</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">בחר לוגו קניון</string>
+    <string name="seller_settings_toast">לחץ על MENU כדי להגדיר מצב חנות</string>
+
+    <string name="mall_logo_limit">נא לבחור של PNG או JPG תמונה</string>
+    <string name="enter_storemode">היכנס למצב חנות</string>
+    <string name="init_storemode_countdown">אם תמשיך ללחוץ על \'אישור\', התפריט עבור הטלוויזיה תפעיל מצב חנות.</string>
+    <string name="not_find_update_file_tips">לא ניתן למצוא קובץ עדכון. ודא ש- %1$s נמצאים בספריית הבסיס של USB.</string>
+    <string name="not_find_update_file_tips2">לא ניתן למצוא קובץ עדכון. ודא ש-%2$s או %1$s נמצאים בספריית הבסיס של USB.</string>
+    <string name="not_find_update_file_tips3">לא נמצא קובץ שדרוג.</string>
+    <string name="add_mall_logo_success">לוגו הקניון הועלה בהצלחה</string>
+
+    <string name="epos_position_adjustment">התאמת מיקום E\u2011Pos</string>
+    <string name="mall_logo_position_adjustment">התאמת המיקום של לוגו קניון ומבצעים</string>
+    <string name="epos_update">עדכון E\u2011Pos</string>
+    <string name="invalid_button_press_tips">לחיצה לא תקינה על לחצן במצב חנות</string>
+    <string name="video_update_title">עדכון וידיאו</string>
+
+    <string name="prompt_build_in_video_update">מעדכן וידאו מובנה. אנא המתן.</string>
+    <string name="video_update_button_update">עדכן</string>
+    <string name="video_update_button_cancel">ביטול</string>
+    <string name="picture_update_title">עדכון תמונה</string>
+    <string name="prompt_build_in_picture_update">מעדכן תמונה מובנית. אנא המתן.</string>
+    <string name="update_build_in_video_toast_tips">אנא המתן, הווידיאו מתעדכן.</string>
+    <string name="update_build_in_pic_toast_tips">אנא המתן, התמונה מתעדכנת.</string>
+    <string name="updating_tips_text">מעדכן. אנא המתן.</string>
+    <string name="dialog_btn_confirm_tip">אשר</string>
+    <string name="dialog_btn_delete_tip">מחק</string>
+    <string name="dialog_btn_cancel_tip">ביטול</string>
+    <string name="build_in_picture_update">עדכון תמונה מובנית</string>
+    <string name="no_find_update_pic_file_tips">קובץ עדכון תמונה לא נמצא. תחילית שם קובץ צריכה להיות [%1$s]</string>
+    <string name="update_video_max_size_tips_text">הגודל של קובץ עדכון וידאו נוכחי הוא %1$d M. הגודל המרבי הנתמך: %2$d M.</string>
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">וידאו USB</string>
+    <string name="checkbox_usb_pic_content">תמונת USB</string>
+    <string name="checkbox_signal_content">אות</string>
+    <string name="checkbox_build_in_pic_content">תמונה מובנית</string>
+    <string name="checkbox_build_in_video_content">מובנה וידאו</string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">תמונה</string>
+    <string name="sound_ajust">שמע</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">הגודל המרבי של לוגו קניון הוא %1$d!</string>
+    <string name="mall_logo_pic_exist">התמונה כבר קיימת.</string>
+    <string name="delete_picture_dialog_title">מחק תמונה</string>
+    <string name="delete_picture_dialog_content">האם אתה בטוח שברצונך למחוק את זה?</string>
+    <string name="delete_picture_succes_tips">נמחק בהצלחה</string>
+
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">שמאלה</string>
+    <string name="position_right">ימינה</string>
+    <string name="position_top">חזרה למעלה</string>
+    <string name="position_bottom">מקש</string>
+    <string name="epos_updating_tips">עדכן את ה- E-Pos. אנא המתן.</string>
+    <string name="btn_done">סיים</string>
+    <string name="btn_edit">ערוך</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>אזהרה</b></string>
+    <string name="energy_summary_one">צריכת אנרגיה במצב התמונה הנוכחי עלולה להיות גבוהה יותר מהמצוין בתווית של היקף האנרגיה. \n\n אנא השתמש במצב תמונה סטנדרטי בשביל צריכת אנרגיה רגילה</string>
+    <string name="energy_summary_two">השתמש במצב תמונה סטנדרטי לצריכת חשמל רגילה</string>
+</resources>

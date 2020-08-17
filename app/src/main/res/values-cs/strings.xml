@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Nastavení Režimu obchodu</string>
+    <string name="build_in_video_update">Aktualizace zabudovaného videa</string>
+    <string name="aq_pq_adjust">Nastavení kvality zvuku a obrazu</string>
+    <string name="mall_logo">Logo Mall &amp; Promotion</string>
+    <string name="auto_play_setup">Nastavení Automatického přehrávání</string>
+    <string name="epos_switch">Spínač E-Pos</string>
+
+    <string name="resume_storemode_title">Pokračovat v Demo režimu obchodu</string>
+    <string name="resume_storemode_desc">Televizor se brzy vrátí do Demo obchodního režimu, stisknutím libovolného tlačítka na dálkovém ovladači můžete tento proces oddálit.</string>
+    <string name="fte_init_storemode_title">Spusťte režim Store</string>
+    <string name="fte_init_storemode_desc">Bude inicializován Obchodní režim, chcete pokračovat?</string>
+    <string name="fte_init_storemode_back">Zpět na FTE</string>
+    <string name="fte_init_storemode_enter">Vstup do Režimu obchodu</string>
+
+
+    <string name="usb_not_found">Nebylo nalezeno žádné USB zařízení Zkontrolujte, zda je zařízení připojeno.</string>
+    <string name="udate_success">Aktualizace byla úspěšná!</string>
+    <string name="guide_poweron_title">V nastavení můžete přepnout do režimu Home</string>
+
+    <string name="use_mode">Uživatelský režim</string>
+    <string name="user_mode">Domácí režim</string>
+    <string name="store_mode">Předváděcí režim</string>
+    <string name="store_mode_with_video">Předváděcí režim s 4K videem</string>
+    <string name="select_a_mall_logo">Vyberte logo Mall</string>
+    <string name="seller_settings_toast">Stiskněte nabídku pro nastavení režimu obchod.</string>
+
+    <string name="mall_logo_limit">Vyberte PNG nebo JPG obrázek</string>
+    <string name="enter_storemode">Vstup do Režimu obchodu</string>
+    <string name="init_storemode_countdown">Pokud stisknete a podržíte tlačítko Ok, nabídka televizoru spustí obchodní režim.</string>
+    <string name="not_find_update_file_tips">Nelze najít žádný aktualizační soubor. Ujistěte se, že se %1$s nachází v kořenovém adresáři USB.</string>
+    <string name="not_find_update_file_tips2">Nelze najít žádný aktualizační soubor. Ujistěte se, že se %1$s nebo %2$s nachází v kořenovém adresáři USB.</string>
+    <string name="not_find_update_file_tips3">Nebyl nalezen žádný soubor aktualizace.</string>
+    <string name="add_mall_logo_success">Logo Mall bylo nahrané v pořádku.</string>
+
+    <string name="epos_position_adjustment">Nastavení pozice E-Pos</string>
+    <string name="mall_logo_position_adjustment">Obchodní a propagační logo Nastavení polohy</string>
+    <string name="epos_update">Aktualizace E-pos</string>
+    <string name="invalid_button_press_tips">Neplatné stisknutí tlačítka v režimu Obchodu</string>
+    <string name="video_update_title">Aktualizovat video</string>
+
+    <string name="prompt_build_in_video_update">Aktualizace vestavěného videa. Počkejte prosím.</string>
+    <string name="video_update_button_update">Aktualizovat</string>
+    <string name="video_update_button_cancel">Zrušit</string>
+    <string name="picture_update_title">Aktualizovat obrázek</string>
+    <string name="prompt_build_in_picture_update">Aktualizace vestavěného obrázku. Počkejte prosím.</string>
+    <string name="update_build_in_video_toast_tips">Počkejte prosím, video se aktualizuje.</string>
+    <string name="update_build_in_pic_toast_tips">Počkejte prosím, obrázek se aktualizuje.</string>
+    <string name="updating_tips_text">Aktualizace. Čekejte prosím.</string>
+    <string name="dialog_btn_confirm_tip">Potvrdit</string>
+    <string name="dialog_btn_delete_tip">Vymazat</string>
+    <string name="dialog_btn_cancel_tip">Zrušit</string>
+    <string name="build_in_picture_update">Aktualizace vestavěného obrázku. Počkejte prosím.</string>
+    <string name="no_find_update_pic_file_tips">Aktualizovaný soubor obrázku nebyl nalezen. Předpona názvu souboru by měla být [%1$s]</string>
+    <string name="update_video_max_size_tips_text">Aktualizovaný soubor aktuálního videa je %1$d M. Maximální podporovaná velikost: %2$d M.</string>
+
+
+    <string name="checkbox_usb_video_content">USB Video</string>
+    <string name="checkbox_usb_pic_content">Obrázek USB</string>
+    <string name="checkbox_signal_content">Signál</string>
+    <string name="checkbox_build_in_pic_content">Vestavěný obrázek</string>
+    <string name="checkbox_build_in_video_content">Zabudované video</string>
+
+    <string name="picture_ajust">Obraz</string>
+    <string name="sound_ajust">Zvuk</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Maximální velikost loga je %1$d!</string>
+    <string name="mall_logo_pic_exist">Obrázek již existuje.</string>
+    <string name="delete_picture_dialog_title">Smazat obrázek</string>
+    <string name="delete_picture_dialog_content">Opravdu chcete smazat?</string>
+    <string name="delete_picture_succes_tips">Úspěšně smazáno</string>
+
+
+    <string name="position_left">Vlevo</string>
+    <string name="position_right">Vpravo</string>
+    <string name="position_top">Zpět na začátek</string>
+    <string name="position_bottom">Spodek</string>
+    <string name="epos_updating_tips">Aktualizace E-pos. Prosím čekejte.</string>
+    <string name="btn_done">Hotovo</string>
+    <string name="btn_edit">Upravit</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>UPOZORNĚNÍ:</b></string>
+    <string name="energy_summary_one">Spotřeba energie v aktuálním režimu obrazu může být vyšší, než je uvedeno na energetickém štítku</string>
+    <string name="energy_summary_two">Pro normální spotřebu energie použijte Standardní režim obrazu</string>
+</resources>

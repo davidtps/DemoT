@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Mağaza Modu Ayarları</string>
+    <string name="build_in_video_update">Dahili Video Güncelleme</string>
+    <string name="aq_pq_adjust">AQ&amp;PQ Ayarı</string>
+    <string name="mall_logo">AVM &amp; Tanıtım Logosu</string>
+    <string name="auto_play_setup">Otomatik Kayıttan Yürütme Ayarı</string>
+    <string name="epos_switch">E-Pos Geçişi</string>
+
+    <string name="resume_storemode_title">Mağaza Modu Demosunu Sürdür </string>
+    <string name="resume_storemode_desc">TV seti yakında demo moduna geri dönecek, bu işlemi ertelemek için uzaktan kumandanın herhangi bir düğmesine basabilirsiniz.</string>
+    <string name="fte_init_storemode_title">Mağaza Modunu Başlat</string>
+    <string name="fte_init_storemode_desc">Mağaza Modu başlatılacak. Devam etmek istiyor musunuz?</string>
+    <string name="fte_init_storemode_back">FTE\\\'ye dön</string>
+    <string name="fte_init_storemode_enter">Mağaza Moduna Gir</string>
+
+
+    <string name="usb_not_found">Hiç USB aygıtı bulunamadı. Aygıtınızın bağlı olduğundan emin olun.</string>
+    <string name="udate_success">Güncelleme Başarılı!</string>
+    <string name="guide_poweron_title">Ayarlarda Ev Moduna geçebilirsiniz</string>
+
+    <string name="use_mode">Kullanıcı Modu</string>
+    <string name="user_mode">Ev Modu</string>
+    <string name="store_mode">Mağaza modu</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Bir Alışveriş Merkezi Logosu seçin.</string>
+    <string name="seller_settings_toast">Mağaza Modunu ayarlamak için Menü\'ye basın</string>
+
+    <string name="mall_logo_limit">Lütfen bir PNG veya JPG görüntü seçin.</string>
+    <string name="enter_storemode">Mağaza Moduna Gir</string>
+    <string name="init_storemode_countdown">Tamam\'a basmaya devam ederseniz, TV menüsü Mağaza Modunu başlatır.</string>
+    <string name="not_find_update_file_tips">Güncelleme dosyası bulunamadı. Lütfen %1$s \'nin USB kök dizininde bulunduğundan emin olun.</string>
+    <string name="not_find_update_file_tips2">Güncelleme dosyası bulunamadı. Lütfen %1$s veya %2$s \'nin USB kök dizininde bulunduğundan emin olun.</string>
+    <string name="not_find_update_file_tips3">Yükseltme dosyası bulunamadı.</string>
+    <string name="add_mall_logo_success">Alışveriş merkezi logosu başarıyla karşıya yüklendi.</string>
+
+    <string name="epos_position_adjustment">E\u2011Pos Konum Ayarı </string>
+    <string name="mall_logo_position_adjustment">Alışveriş Merkezi &amp; Promosyon Logosu Konum Ayarlaması</string>
+    <string name="epos_update">E\u2011pos Güncelleme</string>
+    <string name="invalid_button_press_tips">Mağaza Modunda geçersiz düğmeye basıldı </string>
+    <string name="video_update_title">Videoyu Güncelle</string>
+
+    <string name="prompt_build_in_video_update">Dahili video güncelleniyor. Lütfen bekle.</string>
+    <string name="video_update_button_update">güncelle</string>
+    <string name="video_update_button_cancel">İptal</string>
+    <string name="picture_update_title">Resmi Güncelle</string>
+    <string name="prompt_build_in_picture_update">Dahili Resim güncelleniyor. Lütfen bekleyin.</string>
+    <string name="update_build_in_video_toast_tips">Lütfen bekleyin, video güncelleniyor.</string>
+    <string name="update_build_in_pic_toast_tips">Lütfen bekleyin, resim güncelleniyor.</string>
+    <string name="updating_tips_text">Güncelleniyor. Lütfen bekleyin.</string>
+    <string name="dialog_btn_confirm_tip">Onayla</string>
+    <string name="dialog_btn_delete_tip">Sil</string>
+    <string name="dialog_btn_cancel_tip">İptal</string>
+    <string name="build_in_picture_update">Dahili Resim Güncellemesi</string>
+    <string name="no_find_update_pic_file_tips">Resim güncelleme dosyası bulunamadı. Dosya adı öneki [%1$s] olmalıdır</string>
+    <string name="update_video_max_size_tips_text">Geçerli video güncelleme dosyası %1$d M\'tır. Desteklenen maksimum boyut: %2$d M.</string>
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">USB Video </string>
+    <string name="checkbox_usb_pic_content">USB Resim</string>
+    <string name="checkbox_signal_content">Sinyal</string>
+    <string name="checkbox_build_in_pic_content">Dahili Resim</string>
+    <string name="checkbox_build_in_video_content">Dahili Video</string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">Resim</string>
+    <string name="sound_ajust">Ses</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">Maksimum alışveriş merkezi logosu boyutu %1$d!</string>
+    <string name="mall_logo_pic_exist">Resim zaten mevcut.</string>
+    <string name="delete_picture_dialog_title">Resmi Sil</string>
+    <string name="delete_picture_dialog_content">Bunu silmek istediğinizden emin misiniz?</string>
+    <string name="delete_picture_succes_tips">Başarıyla silindi</string>
+
+    <!--Epos  Mall Logo Position-->
+    <string name="position_left">Sol</string>
+    <string name="position_right">Sağ</string>
+    <string name="position_top">Başa dön</string>
+    <string name="position_bottom">Alt</string>
+    <string name="epos_updating_tips">E-Pos Güncelleniyor. Lütfen bekleyin.</string>
+
+    <string name="btn_done">Bitti</string>
+    <string name="btn_edit">Düzenle</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>UYARI</b></string>
+    <string name="energy_summary_one">Mevcut resim modunda enerji tüketimi, enerji derecelendirme etiketinde belirtilenden daha yüksek olabilir. </string>
+    <string name="energy_summary_two">Lütfen normal enerji tüketimi için Standart resim modunu kullanın </string>
+</resources>

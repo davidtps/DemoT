@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Режимдин орнотууларын сактоо</string>
+    <string name="build_in_video_update">Камтылган видеону Жаңылоо</string>
+    <string name="aq_pq_adjust">Аудио жана сүрөт сапатын жөндөө</string>
+    <string name="mall_logo">Соода Борбору &amp;Түрткү Берүү Логотиби</string>
+    <string name="auto_play_setup">Автоматтуу түрдө ойнотууну жөнгө салуу</string>
+    <string name="epos_switch">E-Pos которгучу</string>
+
+    <string name="resume_storemode_title">Дүкөн Режимин Көрсөтүүнү Өзгөртүү</string>
+    <string name="resume_storemode_desc">Сыналгы жакында дүкөн режимин көрсөтүүгө кайтат, сиз бул аракетти кийинкиге калтыруу үчүн алыстан башкаргыч пульттан каалаган баскычты бассаңыз болот.</string>
+    <string name="fte_init_storemode_title">Дүкөн режимин баштоо</string>
+    <string name="fte_init_storemode_desc">Дүкөн режими башталат, сиз улантууну каалайсызбы?</string>
+    <string name="fte_init_storemode_back">Артка FTE ге</string>
+    <string name="fte_init_storemode_enter">Дүкөн Режимин Киргизиңиз</string>
+
+
+    <string name="usb_not_found">USB түзмөк аныкталган жок. Сиздин түзмөк туташканына ынаныңыз.</string>
+    <string name="udate_success">Ийгиликтүү Жаңыланды</string>
+    <string name="guide_poweron_title">Жөндөөлөрдөн үй режимине которула аласыз.</string>
+
+    <string name="use_mode">Колдонуу режими</string>
+    <string name="user_mode">Үй режими</string>
+    <string name="store_mode">Сактоо режими</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Соода Борбору Логотип Тандоо</string>
+    <string name="seller_settings_toast">Дүкөн режимин жөндөө үчүн Меню баскычсын басыңыз.</string>
+
+    <string name="mall_logo_limit">PNG же JPG сүрөтүн тандаңыз</string>
+    <string name="enter_storemode">Дүкөн Режимин Киргизиңиз</string>
+    <string name="init_storemode_countdown">Эгер сиз Ok ди басууну улантсаңыз, анда сыналгы үчүн меню сактоо режимин баштайт.</string>
+    <string name="not_find_update_file_tips">Эч кандай жаңыртылган файл табылган жок. %1$s USB тамыр каталогунда жайгашканын текшериңиз.</string>
+    <string name="not_find_update_file_tips2">Эч кандай жаңыртылган файл табылган жок. %1$s же %2$s USB тамыр каталогунда жайгашканын текшериңиз.</string>
+    <string name="not_find_update_file_tips3">Файл жаңылоо табылган жок</string>
+
+    <string name="add_mall_logo_success">Соода борборунун логотиби ийгиликтүү жүктөлүп берилди.</string>
+
+    <string name="epos_position_adjustment">E-Pos Ордун Жөнгө салуу</string>
+    <string name="mall_logo_position_adjustment">Соода борбору менен жарнамалоо логотиптеринин абалын жөнгө салуу</string>
+    <string name="epos_update">E-Pos жаңылоо</string>
+    <string name="invalid_button_press_tips">Дүкөн Режиминде жараксыз баскычты басуу</string>
+    <string name="video_update_title">Видеону жаңыртуу</string>
+
+    <string name="prompt_build_in_video_update">Камтылган видеону жаңыртууда. Күтө туруңуз.</string>
+    <string name="video_update_button_update">Жаңыртуу</string>
+    <string name="video_update_button_cancel">Жокко чыгаруу</string>
+    <string name="picture_update_title">Сүрөттү жаңыртуу</string>
+    <string name="prompt_build_in_picture_update">Камтылган сүрөттү  жаңыртууда. Күтө туруңуз.</string>
+    <string name="update_build_in_video_toast_tips">Күтө туруңуз, видео жаңыртылууда.</string>
+    <string name="update_build_in_pic_toast_tips">Күтө туруңуз, сүрөт жаңыртылууда.</string>
+    <string name="updating_tips_text">Жаңыртылууда.  Күтө туруңуз.</string>
+    <string name="dialog_btn_confirm_tip">Ырастоо</string>
+    <string name="dialog_btn_delete_tip">Жок кылуу</string>
+    <string name="dialog_btn_cancel_tip">Жокко чыгаруу</string>
+    <string name="build_in_picture_update">Камтылган сүрөттүн  жаңыртылуусу</string>
+    <string name="no_find_update_pic_file_tips">Сүрөт жаңыртуу файлы табылган жок. Файл аталышынын префикси [%1$s] болушу керек.</string>
+    <string name="update_video_max_size_tips_text">Учурдагы видео жаңыртуу файлы %1$dM. Колдоого алынган максималдык өлчөм:  %2$dM.</string>
+
+
+    <string name="checkbox_usb_video_content">USB Видео</string>
+    <string name="checkbox_usb_pic_content">USB Сүрөтү</string>
+    <string name="checkbox_signal_content">Сигнал</string>
+    <string name="checkbox_build_in_pic_content">Камтылган сүрөт</string>
+    <string name="checkbox_build_in_video_content">Камтылган видео</string>
+
+    <string name="picture_ajust">Сүрөт</string>
+    <string name="sound_ajust">Үн</string>
+
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+
+    <string name="mall_logo_max_pic_size">Соода борборунун логотибинин максималдык өлчөмү %1$d!</string>
+    <string name="mall_logo_pic_exist">Сүрөт мурунтан эле бар.</string>
+    <string name="delete_picture_dialog_title">Сүрөттү жок кылуу</string>
+    <string name="delete_picture_dialog_content">Муну чын эле  жок кыласызбы?</string>
+    <string name="delete_picture_succes_tips">Ийгиликтүү жок кылынды</string>
+
+
+    <string name="position_left">Сол</string>
+    <string name="position_right">Оң</string>
+    <string name="position_top">Жогору</string>
+    <string name="position_bottom">Төмөн</string>
+    <string name="epos_updating_tips">E-Pos `ту жаныртуу. Сураныч күтөтурунуз</string>
+    <string name="btn_done">Жасалган</string>
+    <string name="btn_edit">Түзөтүү</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>ЭСКЕРТ</b></string>
+    <string name="energy_summary_one">Учурдагы срт режиминде кубатты керектнн кубат рейтинги крстлгн белгиден жогору болушу ммкн</string>
+    <string name="energy_summary_two">Кубатты орточо керект чн стандарттуу срт режимин колдонууз</string>
+</resources>

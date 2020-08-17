@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">StoreMode</string>
+
+    <string name="key_picture_ajust">key_picture_ajust</string>
+    <string name="key_sound_ajust">key_sound_ajust</string>
+    <string name="key_vidaa_feature_demo">key_vidaa_feature_demo</string>
+    <string name="key_build_in_video_update">key_build_in_video_update</string>
+    <string name="key_aq_pq_adjust">key_aq_pq_adjust</string>
+    <string name="key_mall_logo">key_mall_logo</string>
+    <string name="key_auto_play_setup">key_auto_play_setup</string>
+    <string name="key_epos_switch">key_epos_switch</string>
+    <string name="key_build_in_video_switch">key_build_in_video_switch</string>
+    <string name="key_sharepref_usb_video_check">key_sharepref_usb_video_check</string>
+    <string name="key_epos_position_adjustment">key_e-pos_position_adjustment</string>
+    <string name="key_epos_position_left">key_epos_position_left</string>
+    <string name="key_epos_position_right">key_epos_position_right</string>
+    <string name="key_epos_position_top">key_epos_position_top</string>
+    <string name="key_epos_position_bottom">key_epos_position_bottom</string>
+    <string name="key_malllogo_position_adjustment">key_malllogo_position_adjustment</string>
+    <string name="key_malllogo_position_left">key_malllogo_position_left</string>
+    <string name="key_malllogo_position_right">key_malllogo_position_right</string>
+    <string name="key_malllogo_position_top">key_malllogo_position_top</string>
+    <string name="key_malllogo_position_bottom">key_malllogo_position_bottom</string>
+    <string name="key_sharepref_usb_pic_check">key_sharepref_usb_pic_check</string>
+    <string name="key_sharepref_signal_check">key_sharepref_signal_check</string>
+    <string name="key_sharepref_build_in_pic_check">key_sharepref_build_in_pic_check</string>
+    <string name="key_sharepref_build_in_video_check">key_sharepref_build_in_video_check</string>
+    <string name="key_sharepref_usb_res_priority_check">key_sharepref_usb_res_priority_check</string>
+    <string name="key_setup_choice_three">key_setup_choice_three</string>
+    <string name="key_build_in_picture_update">key_build_in_picture_update</string>
+    <string name="key_epos_update">key_epose_update</string>
+
+    <string name="seller_settings">Do‘kon rejimi sozlamalari</string>
+    <string name="build_in_video_update">Ichiga o\'rnatilgan video yangilamasi</string>
+    <string name="aq_pq_adjust">Tovush sifati va tasvir sifatini sozlash</string>
+    <string name="mall_logo">Savdo majmui va promo aksiya logotipi</string>
+    <string name="auto_play_setup">Avtomatik o‘ynatishni sozlash</string>
+    <string name="epos_switch">E-Pos’ga o‘tish</string>
+
+    <string name="resume_storemode_title">Do‘kon rejimi namoyishini davom ettirish</string>
+    <string name="resume_storemode_desc">Televizor tez orada do‘kon rejimi namoyishiga qaytadi, ushbu jarayonni keyinga qoldirish uchun pultdagi istalgan tugmani bosing.</string>
+    <string name="fte_init_storemode_title">Do‘kon rejimini ishga tushirish</string>
+    <string name="fte_init_storemode_desc">Do‘kon rejimi ishga tushadi, davom etasizmi?</string>
+    <string name="fte_init_storemode_back">FTE’ga qaytish</string>
+    <string name="fte_init_storemode_enter">Do‘kon rejimiga kirish</string>
+
+
+    <string name="usb_not_found">USB qurilma topilmadi. Qurilmangiz ulanganligiga ishonch hosil qiling.</string>
+    <string name="udate_success">Yangilash muvaffaqiyatli!</string>
+    <string name="guide_poweron_title"> Sozlamalarga kirib uy rejimiga o‘tishingiz mumkin</string>
+
+    <string name="use_mode">Foydalanish rejimi</string>
+    <string name="user_mode">Uy rejimi</string>
+    <string name="store_mode">Do\'kon rejimi</string>
+    <string name="store_mode_with_video">Store Mode with video</string>
+    <string name="select_a_mall_logo">Savdo markazi logotipini tanlang</string>
+    <string name="seller_settings_toast">Do‘kon rejimini o‘rnatish uchun Menyu’ni bosing</string>
+
+    <string name="mall_logo_limit">PNG yoki JPG tasvirni tanlang</string>
+    <string name="enter_storemode">Do‘kon rejimiga kirish</string>
+    <string name="init_storemode_countdown">Agar OK tugmasini bosib tursangiz, televizor menyusi do‘kon rejimini ishga tushiradi.</string>
+    <string name="not_find_update_file_tips">Yangilash fayli topilmadi. Iltimos, %1$s USB xotira qurilmasidagi ildiz katalogda joylashganligiga ishonch hosil qiling.</string>
+    <string name="not_find_update_file_tips2">Yangilash fayli topilmadi. Iltimos, %1$s yoki %2$s USB xotira qurilmasidagi ildiz katalogda joylashganligiga ishonch hosil qiling.</string>
+    <string name="not_find_update_file_tips3">Yangilash fayli topilmadi.</string>
+    <string name="add_mall_logo_success">Savdo markazi logotipi muvaffaqiyatli qo‘shildi.</string>
+
+    <string name="epos_position_adjustment">E\u2011Pos holatini sozlash</string>
+    <string name="mall_logo_position_adjustment">Savdo majmuasi va reklama logotipi joylashishini sozlash</string>
+    <string name="epos_update">E\u2011Pos yangilamasi</string>
+    <string name="invalid_button_press_tips">Do‘kon rejimida tugmani bosish amal qilmaydi</string>
+    <string name="video_update_title">Videoni yangilash</string>
+
+    <string name="prompt_build_in_video_update">O‘rnatilgan videoni yangilash. Iltimos kuting.</string>
+    <string name="video_update_button_update">yangilash</string>
+    <string name="video_update_button_cancel">Bekor qilish</string>
+    <string name="picture_update_title">Rasmni yangilash</string>
+    <string name="prompt_build_in_picture_update">Ichki rasmni yangilash. Iltimos kuting.</string>
+    <string name="update_build_in_video_toast_tips">Iltimos, kuting, video yangilanmoqda.</string>
+    <string name="update_build_in_pic_toast_tips">Iltimos, kuting, rasm yangilanmoqda.</string>
+    <string name="updating_tips_text">Yangilash. Iltimos kuting.</string>
+    <string name="dialog_btn_confirm_tip">Tasdiqlash</string>
+    <string name="dialog_btn_delete_tip">O\'chirish</string>
+    <string name="dialog_btn_cancel_tip">Bekor qilish</string>
+    <string name="build_in_picture_update">Ichki rasmni yangilash</string>
+    <string name="no_find_update_pic_file_tips">Rasmni yangilash fayli topilmadi. Fayl nomi prefiksi [%1$s] bo\'lishi kerak</string>
+    <string name="update_video_max_size_tips_text">Joriy video yangilash fayli %1$d M. Qo‘llab-quvvatlanadigan maksimal hajm: %2$d M.</string>
+
+    <!--AutoSetUp-->
+    <string name="checkbox_usb_video_content">USB Video</string>
+    <string name="checkbox_usb_pic_content">USB rasm</string>
+    <string name="checkbox_signal_content">Signal</string>
+    <string name="checkbox_build_in_pic_content">Ichki rasm</string>
+    <string name="checkbox_build_in_video_content">Ichiga o\'rnatilgan video </string>
+    <!--aq & pq ajust-->
+    <string name="picture_ajust">Tasvir</string>
+    <string name="sound_ajust">Tovush</string>
+    <!--SellerSetting-->
+    <string name="switch_usb_priority_content">USB Priority</string>
+
+    <!--Mall Logo-->
+    <string name="mall_logo_max_pic_size">Markaz logotipining maksimal hajmi %1$d!</string>
+    <string name="mall_logo_pic_exist">Rasm allaqachon mavjud.</string>
+    <string name="delete_picture_dialog_title">Rasmni o‘chirish</string>
+    <string name="delete_picture_dialog_content">Buni o‘chirib tashlamoqchimisiz?</string>
+    <string name="delete_picture_succes_tips">Muvaffaqiyatli o‘chirib tashlandi</string>
+
+    <!--Epos/Mall Logo Position-->
+    <string name="position_left">Chap</string>
+    <string name="position_right">O\'ng</string>
+    <string name="position_top">Tepaga qaytish</string>
+    <string name="position_bottom">Past</string>
+    <string name="epos_updating_tips">E-Pos’ni yangilash. Iltimos kuting.</string>
+
+    <string name="btn_done">Bajarildi</string>
+    <string name="btn_edit">Tahrirlash</string>
+
+    <!--Energy ui for AU-->
+    <string name="energy_title"><b>OGOHLANTIRISH</b></string>
+    <string name="energy_summary_one">Hozirgi tasvir rejimida energiya sarfi yorliqda ko‘rsatilgan nominal energiya sarfidan yuqori bo‘lishi mumkin</string>
+    <string name="energy_summary_two">Normal energiya sarfi uchun Standart tasvir rejimidan foydalaning</string>
+</resources>
