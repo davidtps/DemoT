@@ -297,6 +297,7 @@ public class BackgroundTaskManager {
         if (mResumeTipView != null && mResumeTipView.isAttachedToWindow()) {
             LogUtils.d(TAG, "testtest() removeResumeDialog() inner mResumeTipView:" + mResumeTipView.toString());
             WindowManagerUtils.getInstance().getWindowManager().removeView(mResumeTipView);
+            mResumeTipView = null;
         }
     }
 
@@ -342,7 +343,6 @@ public class BackgroundTaskManager {
         if (!ConstantConfig.isStoreModeTop() && ConstantConfig.IS_MAIN_ACTIVITY_INVISIBLE) {
             if (!SeriesUtils.isTvScanning()) {
                 initResumeLayout();
-                removeResumeDialog();
                 WindowManagerUtils.getInstance().getMatchLayoutParams().x = 0;
                 WindowManagerUtils.getInstance().getMatchLayoutParams().y = 0;
                 WindowManagerUtils.getInstance().getWindowManager().addView(mResumeTipView, WindowManagerUtils.getInstance().getMatchLayoutParams());

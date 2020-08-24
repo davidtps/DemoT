@@ -1,5 +1,5 @@
 {
-  "duration": "96600",
+  "duration": "90000",
   "elements": [
     {
       "name": "Box L1",
@@ -14,7 +14,7 @@
         },
         {
           "name": "h",
-          "value": "196"
+          "value": "185"
         },
         {
           "name": "layoutorder",
@@ -22,7 +22,7 @@
         },
         {
           "name": "w",
-          "value": "299"
+          "value": "300"
         },
         {
           "name": "type",
@@ -34,12 +34,12 @@
             {
               "start": "1000",
               "end": "1500",
-              "value": "(-196,0)"
+              "value": "(-185,0)"
             },
             {
-              "start": "89100",
-              "end": "89600",
-              "value": "(0,-196)"
+              "start": "59500",
+              "end": "60000",
+              "value": "(0,-185)"
             }
           ]
         },
@@ -48,14 +48,14 @@
           "stages": [
             {
               "start": "1000",
-              "end": "89600",
+              "end": "60000",
               "value": "in_out"
             }
           ]
         },
         {
           "name": "clip",
-          "value": "rect:0_0_299_196"
+          "value": "rect:0_0_300_185"
         }
       ]
     },
@@ -72,7 +72,7 @@
         },
         {
           "name": "h",
-          "value": "884"
+          "value": "894"
         },
         {
           "name": "layoutorder",
@@ -80,7 +80,7 @@
         },
         {
           "name": "w",
-          "value": "299"
+          "value": "300"
         },
         {
           "name": "type",
@@ -92,12 +92,12 @@
             {
               "start": "2500",
               "end": "3500",
-              "value": "(-884,196)"
+              "value": "(-894,185)"
             },
             {
-              "start": "88100",
-              "end": "88600",
-              "value": "(196,-884)"
+              "start": "46500",
+              "end": "47500",
+              "value": "(185,-894)"
             }
           ]
         },
@@ -106,20 +106,19 @@
           "stages": [
             {
               "start": "2500",
-              "end": "88600",
+              "end": "47500",
               "value": "in_out"
             }
           ]
         },
         {
           "name": "clip",
-          "value": "rect:0_0_299_884"
+          "value": "rect:0_0_300_894"
         }
       ]
     },
-    ////////////////////////////////////////
     {
-      "name": "Box hi_pic_des1",
+      "name": "Box L3",
       "propertys": [
         {
           "name": "x",
@@ -127,19 +126,19 @@
         },
         {
           "name": "content",
-          "value": "epos_hi_pic_des1"
+          "value": "epos_hi_second_bg"
         },
         {
           "name": "h",
-          "value": "130"
+          "value": "343"
         },
         {
           "name": "layoutorder",
-          "value": "1"
+          "value": "2"
         },
         {
           "name": "w",
-          "value": "299"
+          "value": "300"
         },
         {
           "name": "type",
@@ -147,14 +146,72 @@
         },
         {
           "name": "y",
-          "value": "556"
+          "stages": [
+            {
+              "start": "48500",
+              "end": "49500",
+              "value": "(-720,185)"
+            },
+            {
+              "start": "58500",
+              "end": "59500",
+              "value": "(185,-720)"
+            }
+          ]
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "48500",
+              "end": "59500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_300_720"
+        }
+      ]
+    },
+    {
+      "name": "Box epos_hi_pic_des1_sel",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_hi_pic_des1_sel"
+        },
+        {
+          "name": "h",
+          "value": "71"
+        },
+        {
+          "name": "layoutorder",
+          "value": "1"
+        },
+        {
+          "name": "w",
+          "value": "300"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "value": "617"
         },
         {
           "name": "state",
           "stages": [
             {
               "start": "4500",
-              "end": "45300",
+              "end": "15500",
               "value": "in_out"
             }
           ]
@@ -168,15 +225,134 @@
               "value": "(0,1)"
             },
             {
-              "start": "44800",
-              "end": "45300",
+              "start": "15000",
+              "end": "15500",
+              "value": "(1.5,0)"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_300_71"
+        }
+      ]
+    },
+    {
+      "name": "Box epos_hi_pic_des1",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_hi_pic_des1"
+        },
+        {
+          "name": "h",
+          "value": "71"
+        },
+        {
+          "name": "layoutorder",
+          "value": "2"
+        },
+        {
+          "name": "w",
+          "value": "300"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "value": "617"
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "15500",
+              "end": "46500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "46000",
+              "end": "46500",
               "value": "(1,0)"
             }
           ]
         },
         {
           "name": "clip",
-          "value": "rect:0_0_299_130"
+          "value": "rect:0_0_300_71"
+        }
+      ]
+    },
+    {
+      "name": "Box hi_pic_des2_sel",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_hi_pic_des2_sel"
+        },
+        {
+          "name": "h",
+          "value": "71"
+        },
+        {
+          "name": "layoutorder",
+          "value": "1"
+        },
+        {
+          "name": "w",
+          "value": "300"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "value": "688"
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "15500",
+              "end": "46500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "15500",
+              "end": "15500",
+              "value": "(1,1)"
+            },
+            {
+              "start": "25500",
+              "end": "26000",
+              "value": "(1,0)"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_300_71"
         }
       ]
     },
@@ -193,15 +369,15 @@
         },
         {
           "name": "h",
-          "value": "130"
+          "value": "71"
         },
         {
           "name": "layoutorder",
-          "value": "1"
+          "value": "2"
         },
         {
           "name": "w",
-          "value": "299"
+          "value": "300"
         },
         {
           "name": "type",
@@ -209,14 +385,19 @@
         },
         {
           "name": "y",
-          "value": "686"
+          "value": "688"
         },
         {
           "name": "state",
           "stages": [
             {
               "start": "4500",
-              "end": "45300",
+              "end": "15500",
+              "value": "in_out"
+            },
+            {
+              "start": "26000",
+              "end": "46500",
               "value": "in_out"
             }
           ]
@@ -230,15 +411,77 @@
               "value": "(0,1)"
             },
             {
-              "start": "44800",
-              "end": "45300",
+              "start": "46000",
+              "end": "46500",
               "value": "(1,0)"
             }
           ]
         },
         {
           "name": "clip",
-          "value": "rect:0_0_299_130"
+          "value": "rect:0_0_300_71"
+        }
+      ]
+    },
+    {
+      "name": "Box hi_pic_des3_sel",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_hi_pic_des3_sel"
+        },
+        {
+          "name": "h",
+          "value": "71"
+        },
+        {
+          "name": "layoutorder",
+          "value": "1"
+        },
+        {
+          "name": "w",
+          "value": "300"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "value": "759"
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "26000",
+              "end": "46500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "26000",
+              "end": "26000",
+              "value": "(1,1)"
+            },
+            {
+              "start": "36000",
+              "end": "36500",
+              "value": "(1,0)"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_300_71"
         }
       ]
     },
@@ -255,7 +498,7 @@
         },
         {
           "name": "h",
-          "value": "130"
+          "value": "71"
         },
         {
           "name": "layoutorder",
@@ -263,7 +506,7 @@
         },
         {
           "name": "w",
-          "value": "299"
+          "value": "300"
         },
         {
           "name": "type",
@@ -271,14 +514,19 @@
         },
         {
           "name": "y",
-          "value": "816"
+          "value": "759"
         },
         {
           "name": "state",
           "stages": [
             {
               "start": "4500",
-              "end": "45300",
+              "end": "26000",
+              "value": "in_out"
+            },
+            {
+              "start": "36500",
+              "end": "46500",
               "value": "in_out"
             }
           ]
@@ -292,15 +540,77 @@
               "value": "(0,1)"
             },
             {
-              "start": "44800",
-              "end": "45300",
+              "start": "46000",
+              "end": "46500",
               "value": "(1,0)"
             }
           ]
         },
         {
           "name": "clip",
-          "value": "rect:0_0_299_130"
+          "value": "rect:0_0_300_71"
+        }
+      ]
+    },
+    {
+      "name": "Box hi_pic_des4_sel",
+      "propertys": [
+        {
+          "name": "x",
+          "value": "50"
+        },
+        {
+          "name": "content",
+          "value": "epos_hi_pic_des4_sel"
+        },
+        {
+          "name": "h",
+          "value": "71"
+        },
+        {
+          "name": "layoutorder",
+          "value": "1"
+        },
+        {
+          "name": "w",
+          "value": "300"
+        },
+        {
+          "name": "type",
+          "value": "pic"
+        },
+        {
+          "name": "y",
+          "value": "830"
+        },
+        {
+          "name": "state",
+          "stages": [
+            {
+              "start": "36500",
+              "end": "46500",
+              "value": "in_out"
+            }
+          ]
+        },
+        {
+          "name": "scale",
+          "stages": [
+            {
+              "start": "36500",
+              "end": "36500",
+              "value": "(1,1)"
+            },
+            {
+              "start": "46000",
+              "end": "46500",
+              "value": "(1,0)"
+            }
+          ]
+        },
+        {
+          "name": "clip",
+          "value": "rect:0_0_300_71"
         }
       ]
     },
@@ -317,7 +627,7 @@
         },
         {
           "name": "h",
-          "value": "130"
+          "value": "71"
         },
         {
           "name": "layoutorder",
@@ -325,7 +635,7 @@
         },
         {
           "name": "w",
-          "value": "299"
+          "value": "300"
         },
         {
           "name": "type",
@@ -333,14 +643,14 @@
         },
         {
           "name": "y",
-          "value": "946"
+          "value": "830"
         },
         {
           "name": "state",
           "stages": [
             {
               "start": "4500",
-              "end": "45300",
+              "end": "36500",
               "value": "in_out"
             }
           ]
@@ -352,280 +662,25 @@
               "start": "4500",
               "end": "5000",
               "value": "(0,1)"
-            },
-            {
-              "start": "44800",
-              "end": "45300",
-              "value": "(1,0)"
             }
           ]
         },
         {
           "name": "clip",
-          "value": "rect:0_0_299_130"
+          "value": "rect:0_0_300_71"
         }
       ]
     },
-    ////////////////////////////////////////
-    {
-      "name": "Box hi_pic_des5",
-      "propertys": [
-        {
-          "name": "x",
-          "value": "50"
-        },
-        {
-          "name": "content",
-          "value": "epos_hi_pic_des5"
-        },
-        {
-          "name": "h",
-          "value": "130"
-        },
-        {
-          "name": "layoutorder",
-          "value": "1"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "pic"
-        },
-        {
-          "name": "y",
-          "value": "556"
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "46300",
-              "end": "87100",
-              "value": "in_out"
-            }
-          ]
-        },
-        {
-          "name": "scale",
-          "stages": [
-            {
-              "start": "46300",
-              "end": "46800",
-              "value": "(0,1)"
-            },
-            {
-              "start": "86600",
-              "end": "87100",
-              "value": "(1,0)"
-            }
-          ]
-        },
-        {
-          "name": "clip",
-          "value": "rect:0_0_299_130"
-        }
-      ]
-    },
-    {
-      "name": "Box hi_pic_des6",
-      "propertys": [
-        {
-          "name": "x",
-          "value": "50"
-        },
-        {
-          "name": "content",
-          "value": "epos_hi_pic_des6"
-        },
-        {
-          "name": "h",
-          "value": "130"
-        },
-        {
-          "name": "layoutorder",
-          "value": "1"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "pic"
-        },
-        {
-          "name": "y",
-          "value": "686"
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "46300",
-              "end": "87100",
-              "value": "in_out"
-            }
-          ]
-        },
-        {
-          "name": "scale",
-          "stages": [
-            {
-              "start": "46300",
-              "end": "46800",
-              "value": "(0,1)"
-            },
-            {
-              "start": "86600",
-              "end": "87100",
-              "value": "(1,0)"
-            }
-          ]
-        },
-        {
-          "name": "clip",
-          "value": "rect:0_0_299_130"
-        }
-      ]
-    },
-    {
-      "name": "Box hi_pic_des7",
-      "propertys": [
-        {
-          "name": "x",
-          "value": "50"
-        },
-        {
-          "name": "content",
-          "value": "epos_hi_pic_des7"
-        },
-        {
-          "name": "h",
-          "value": "130"
-        },
-        {
-          "name": "layoutorder",
-          "value": "1"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "pic"
-        },
-        {
-          "name": "y",
-          "value": "816"
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "46300",
-              "end": "87100",
-              "value": "in_out"
-            }
-          ]
-        },
-        {
-          "name": "scale",
-          "stages": [
-            {
-              "start": "46300",
-              "end": "46800",
-              "value": "(0,1)"
-            },
-            {
-              "start": "86600",
-              "end": "87100",
-              "value": "(1,0)"
-            }
-          ]
-        },
-        {
-          "name": "clip",
-          "value": "rect:0_0_299_130"
-        }
-      ]
-    },
-    {
-      "name": "Box hi_pic_des8",
-      "propertys": [
-        {
-          "name": "x",
-          "value": "50"
-        },
-        {
-          "name": "content",
-          "value": "epos_hi_pic_des8"
-        },
-        {
-          "name": "h",
-          "value": "130"
-        },
-        {
-          "name": "layoutorder",
-          "value": "1"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "pic"
-        },
-        {
-          "name": "y",
-          "value": "946"
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "46300",
-              "end": "87100",
-              "value": "in_out"
-            }
-          ]
-        },
-        {
-          "name": "scale",
-          "stages": [
-            {
-              "start": "46300",
-              "end": "46800",
-              "value": "(0,1)"
-            },
-            {
-              "start": "86600",
-              "end": "87100",
-              "value": "(1,0)"
-            }
-          ]
-        },
-        {
-          "name": "clip",
-          "value": "rect:0_0_299_130"
-        }
-      ]
-    },
-    ////////////////////////////////////////
     {
       "name": "epos_hi_pic_ic1",
       "propertys": [
         {
           "name": "y",
-          "value": "196"
+          "value": "185"
         },
         {
           "name": "h",
-          "value": "357"
+          "value": "432"
         },
         {
           "name": "content",
@@ -637,7 +692,7 @@
         },
         {
           "name": "w",
-          "value": "299"
+          "value": "300"
         },
         {
           "name": "type",
@@ -652,7 +707,7 @@
           "stages": [
             {
               "start": "4500",
-              "end": "17100",
+              "end": "15500",
               "value": "in_out"
             }
           ]
@@ -666,83 +721,24 @@
               "value": "(0,1)"
             },
             {
-              "start": "16900",
-              "end": "17100",
-              "value": "(0,0)"
+              "start": "15000",
+              "end": "15500",
+              "value": "(1,0)"
             }
           ]
         }
       ]
     },
-    {
-      "name": "Box CF1",
-      "propertys": [
-        {
-          "name": "y",
-          "value": "556"
-        },
-        {
-          "name": "h",
-          "value": "686"
-        },
-        {
-          "name": "shader",
-          "value": "LinearGradient(0_170_175_1,10_89_179_1)"
-        },
-        {
-          "name": "layoutorder",
-          "value": "2"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "rect"
-        },
-        {
-          "name": "x",
-          "stages": [
-            {
-              "start": "6000",
-              "end": "6500",
-              "value": "(-249,50)"
-            },
-            {
-              "start": "14500",
-              "end": "14700",
-              "value": "(50,-249)"
-            }
-          ]
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "6000",
-              "end": "14700",
-              "value": "in-out"
-            }
-          ]
-        },
-        {
-          "name": "clip",
-          "value": "rect:50_0_349_686"
-        }
-      ]
-    },
-    //////////
     {
       "name": "epos_hi_pic_ic2",
       "propertys": [
         {
           "name": "y",
-          "value": "196"
+          "value": "185"
         },
         {
           "name": "h",
-          "value": "357"
+          "value": "432"
         },
         {
           "name": "content",
@@ -754,7 +750,7 @@
         },
         {
           "name": "w",
-          "value": "299"
+          "value": "300"
         },
         {
           "name": "type",
@@ -768,8 +764,8 @@
           "name": "state",
           "stages": [
             {
-              "start": "15700",
-              "end": "26800",
+              "start": "15500",
+              "end": "26000",
               "value": "in_out"
             }
           ]
@@ -778,88 +774,29 @@
           "name": "scale",
           "stages": [
             {
-              "start": "15700",
-              "end": "15900",
+              "start": "15500",
+              "end": "15500",
               "value": "(1,1)"
             },
             {
-              "start": "26600",
-              "end": "26800",
-              "value": "(0,0)"
+              "start": "25500",
+              "end": "26000",
+              "value": "(1,0)"
             }
           ]
         }
       ]
     },
-    {
-      "name": "Box CF2",
-      "propertys": [
-        {
-          "name": "y",
-          "value": "686"
-        },
-        {
-          "name": "h",
-          "value": "816"
-        },
-        {
-          "name": "shader",
-          "value": "LinearGradient(0_170_175_1,10_89_179_1)"
-        },
-        {
-          "name": "layoutorder",
-          "value": "2"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "rect"
-        },
-        {
-          "name": "x",
-          "stages": [
-            {
-              "start": "15700",
-              "end": "16200",
-              "value": "(-249,50)"
-            },
-            {
-              "start": "24200",
-              "end": "24400",
-              "value": "(50,-249)"
-            }
-          ]
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "15700",
-              "end": "24400",
-              "value": "in-out"
-            }
-          ]
-        },
-        {
-          "name": "clip",
-          "value": "rect:50_0_349_816"
-        }
-      ]
-    },
-    //////////
     {
       "name": "epos_hi_pic_ic3",
       "propertys": [
         {
           "name": "y",
-          "value": "196"
+          "value": "185"
         },
         {
           "name": "h",
-          "value": "357"
+          "value": "432"
         },
         {
           "name": "content",
@@ -871,7 +808,7 @@
         },
         {
           "name": "w",
-          "value": "299"
+          "value": "300"
         },
         {
           "name": "type",
@@ -885,7 +822,7 @@
           "name": "state",
           "stages": [
             {
-              "start": "25400",
+              "start": "26000",
               "end": "36500",
               "value": "in_out"
             }
@@ -895,88 +832,29 @@
           "name": "scale",
           "stages": [
             {
-              "start": "25400",
-              "end": "25600",
+              "start": "26000",
+              "end": "26000",
               "value": "(1,1)"
             },
             {
-              "start": "36300",
+              "start": "36000",
               "end": "36500",
-              "value": "(0,0)"
+              "value": "(1,0)"
             }
           ]
         }
       ]
     },
-    {
-      "name": "Box CF3",
-      "propertys": [
-        {
-          "name": "y",
-          "value": "816"
-        },
-        {
-          "name": "h",
-          "value": "946"
-        },
-        {
-          "name": "shader",
-          "value": "LinearGradient(0_170_175_1,10_89_179_1)"
-        },
-        {
-          "name": "layoutorder",
-          "value": "2"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "rect"
-        },
-        {
-          "name": "x",
-          "stages": [
-            {
-              "start": "25400",
-              "end": "25900",
-              "value": "(-249,50)"
-            },
-            {
-              "start": "33900",
-              "end": "34100",
-              "value": "(50,-249)"
-            }
-          ]
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "25400",
-              "end": "34100",
-              "value": "in-out"
-            }
-          ]
-        },
-        {
-          "name": "clip",
-          "value": "rect:50_0_349_946"
-        }
-      ]
-    },
-    ///////////
     {
       "name": "epos_hi_pic_ic4",
       "propertys": [
         {
           "name": "y",
-          "value": "196"
+          "value": "185"
         },
         {
           "name": "h",
-          "value": "357"
+          "value": "432"
         },
         {
           "name": "content",
@@ -988,7 +866,7 @@
         },
         {
           "name": "w",
-          "value": "299"
+          "value": "300"
         },
         {
           "name": "type",
@@ -1002,242 +880,8 @@
           "name": "state",
           "stages": [
             {
-              "start": "35100",
-              "end": "48000",
-              "value": "in_out"
-            }
-          ]
-        },
-        {
-          "name": "scale",
-          "stages": [
-            {
-              "start": "35100",
-              "end": "35300",
-              "value": "(1,1)"
-            },
-            {
-              "start": "47800",
-              "end": "48000",
-              "value": "(0,0)"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Box CF4",
-      "propertys": [
-        {
-          "name": "y",
-          "value": "946"
-        },
-        {
-          "name": "h",
-          "value": "1076"
-        },
-        {
-          "name": "shader",
-          "value": "LinearGradient(0_170_175_1,10_89_179_1)"
-        },
-        {
-          "name": "layoutorder",
-          "value": "2"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "rect"
-        },
-        {
-          "name": "x",
-          "stages": [
-            {
-              "start": "35100",
-              "end": "35600",
-              "value": "(-249,50)"
-            },
-            {
-              "start": "43600",
-              "end": "43800",
-              "value": "(50,-249)"
-            }
-          ]
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "35100",
-              "end": "43800",
-              "value": "in-out"
-            }
-          ]
-        },
-        {
-          "name": "clip",
-          "value": "rect:50_0_349_1076"
-        }
-      ]
-    },
-    ////////////////////////////////////////
-    {
-      "name": "hi_pic_ic5",
-      "propertys": [
-        {
-          "name": "y",
-          "value": "196"
-        },
-        {
-          "name": "h",
-          "value": "357"
-        },
-        {
-          "name": "content",
-          "value": "epos_hi_pic_ic5"
-        },
-        {
-          "name": "layoutorder",
-          "value": "0"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "pic"
-        },
-        {
-          "name": "x",
-          "value": "50"
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "46300",
-              "end": "58900",
-              "value": "in_out"
-            }
-          ]
-        },
-        {
-          "name": "scale",
-          "stages": [
-            {
-              "start": "46300",
+              "start": "36500",
               "end": "46500",
-              "value": "(1,1)"
-            },
-            {
-              "start": "58700",
-              "end": "58900",
-              "value": "(0,0)"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Box CS1",
-      "propertys": [
-        {
-          "name": "y",
-          "value": "556"
-        },
-        {
-          "name": "h",
-          "value": "686"
-        },
-        {
-          "name": "shader",
-          "value": "LinearGradient(0_170_175_1,10_89_179_1)"
-        },
-        {
-          "name": "layoutorder",
-          "value": "2"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "rect"
-        },
-        {
-          "name": "x",
-          "stages": [
-            {
-              "start": "47800",
-              "end": "48300",
-              "value": "(-249,50)"
-            },
-            {
-              "start": "56300",
-              "end": "56500",
-              "value": "(50,-249)"
-            }
-          ]
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "47800",
-              "end": "56500",
-              "value": "in-out"
-            }
-          ]
-        },
-        {
-          "name": "clip",
-          "value": "rect:50_0_349_686"
-        }
-      ]
-    },
-    ///////////
-    {
-      "name": "hi_pic_ic6",
-      "propertys": [
-        {
-          "name": "y",
-          "value": "196"
-        },
-        {
-          "name": "h",
-          "value": "357"
-        },
-        {
-          "name": "content",
-          "value": "epos_hi_pic_ic6"
-        },
-        {
-          "name": "layoutorder",
-          "value": "0"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "pic"
-        },
-        {
-          "name": "x",
-          "value": "50"
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "57500",
-              "end": "68600",
               "value": "in_out"
             }
           ]
@@ -1246,311 +890,18 @@
           "name": "scale",
           "stages": [
             {
-              "start": "57500",
-              "end": "57700",
+              "start": "36500",
+              "end": "36500",
               "value": "(1,1)"
             },
             {
-              "start": "68400",
-              "end": "68600",
-              "value": "(0,0)"
+              "start": "46000",
+              "end": "46500",
+              "value": "(1,0)"
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Box CS2",
-      "propertys": [
-        {
-          "name": "y",
-          "value": "686"
-        },
-        {
-          "name": "h",
-          "value": "816"
-        },
-        {
-          "name": "shader",
-          "value": "LinearGradient(0_170_175_1,10_89_179_1)"
-        },
-        {
-          "name": "layoutorder",
-          "value": "2"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "rect"
-        },
-        {
-          "name": "x",
-          "stages": [
-            {
-              "start": "57500",
-              "end": "58000",
-              "value": "(-249,50)"
-            },
-            {
-              "start": "66000",
-              "end": "66200",
-              "value": "(50,-249)"
-            }
-          ]
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "57500",
-              "end": "66200",
-              "value": "in-out"
-            }
-          ]
-        },
-        {
-          "name": "clip",
-          "value": "rect:50_0_349_816"
-        }
-      ]
-    },
-    ///////////
-    {
-      "name": "hi_pic_ic7",
-      "propertys": [
-        {
-          "name": "y",
-          "value": "196"
-        },
-        {
-          "name": "h",
-          "value": "357"
-        },
-        {
-          "name": "content",
-          "value": "epos_hi_pic_ic7"
-        },
-        {
-          "name": "layoutorder",
-          "value": "0"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "pic"
-        },
-        {
-          "name": "x",
-          "value": "50"
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "67200",
-              "end": "78300",
-              "value": "in_out"
-            }
-          ]
-        },
-        {
-          "name": "scale",
-          "stages": [
-            {
-              "start": "67200",
-              "end": "67400",
-              "value": "(1,1)"
-            },
-            {
-              "start": "78100",
-              "end": "78300",
-              "value": "(0,0)"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Box CS3",
-      "propertys": [
-        {
-          "name": "y",
-          "value": "816"
-        },
-        {
-          "name": "h",
-          "value": "946"
-        },
-        {
-          "name": "shader",
-          "value": "LinearGradient(0_170_175_1,10_89_179_1)"
-        },
-        {
-          "name": "layoutorder",
-          "value": "2"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "rect"
-        },
-        {
-          "name": "x",
-          "stages": [
-            {
-              "start": "67200",
-              "end": "67700",
-              "value": "(-249,50)"
-            },
-            {
-              "start": "75700",
-              "end": "75900",
-              "value": "(50,-249)"
-            }
-          ]
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "67200",
-              "end": "75900",
-              "value": "in-out"
-            }
-          ]
-        },
-        {
-          "name": "clip",
-          "value": "rect:50_0_349_946"
-        }
-      ]
-    },
-    ////////////
-    {
-      "name": "hi_pic_ic8",
-      "propertys": [
-        {
-          "name": "y",
-          "value": "196"
-        },
-        {
-          "name": "h",
-          "value": "357"
-        },
-        {
-          "name": "content",
-          "value": "epos_hi_pic_ic8"
-        },
-        {
-          "name": "layoutorder",
-          "value": "0"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "pic"
-        },
-        {
-          "name": "x",
-          "value": "50"
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "76900",
-              "end": "88500",
-              "value": "in_out"
-            }
-          ]
-        },
-        {
-          "name": "scale",
-          "stages": [
-            {
-              "start": "76900",
-              "end": "77100",
-              "value": "(1,1)"
-            },
-            {
-              "start": "88300",
-              "end": "88500",
-              "value": "(0,0)"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Box CS4",
-      "propertys": [
-        {
-          "name": "y",
-          "value": "946"
-        },
-        {
-          "name": "h",
-          "value": "1076"
-        },
-        {
-          "name": "shader",
-          "value": "LinearGradient(0_170_175_1,10_89_179_1)"
-        },
-        {
-          "name": "layoutorder",
-          "value": "2"
-        },
-        {
-          "name": "w",
-          "value": "299"
-        },
-        {
-          "name": "type",
-          "value": "rect"
-        },
-        {
-          "name": "x",
-          "stages": [
-            {
-              "start": "76900",
-              "end": "77400",
-              "value": "(-249,50)"
-            },
-            {
-              "start": "85400",
-              "end": "85600",
-              "value": "(50,-249)"
-            }
-          ]
-        },
-        {
-          "name": "state",
-          "stages": [
-            {
-              "start": "76900",
-              "end": "85600",
-              "value": "in-out"
-            }
-          ]
-        },
-        {
-          "name": "clip",
-          "value": "rect:50_0_349_1076"
         }
       ]
     }
-    ////////////////////////////////////////
   ]
 }

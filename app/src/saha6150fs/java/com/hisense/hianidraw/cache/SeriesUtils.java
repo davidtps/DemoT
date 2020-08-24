@@ -33,13 +33,13 @@ public class SeriesUtils {
     public static final int EPOS_MIN_HEIGHT = 144;//px
     public static final int EPOS_MIN_WIDTH = 349;//299;//px
     public static final boolean SHOW_EPOS_FUNCTION = true;//true  show  ;false don't show epos function
-    public static final boolean SHOW_EPOS_POSITION_ADJUST_FUNCTION = false;//true  show  ;false don't show epos position function
+    public static final boolean SHOW_EPOS_POSITION_ADJUST_FUNCTION = true;//true  show  ;false don't show epos position function
     public static final boolean OLED_SERIES = false;//true  no usb pic and built-in pic function
     public static final int UPDATE_VIDEO_FILE_MAX_SIZE = 450;//unit is M
-    public static final long MPERIODTIME_JSON = 96600L;
+    public static final long MPERIODTIME_JSON = 90000L;
     public static final int EPOS_LEFT_MARGIN = 50;//px
     public static final int DELAY_START_STOREMODE = 40000;//ms
-    public static final boolean EPOS_PLAY_REPEAT = false;//epos play repeat
+    public static final boolean EPOS_PLAY_REPEAT = true;//epos play repeat
     public static boolean DEFAULT_PLAY_SOURECE_BUILT_IN_VIDEO = false;//  没有选择任何资源时，true 默认播放内置视频,false 默认播放内置图片
     private static boolean isSupportNewAqPqJar = true;// is support new aqpq jar
     public static int DEFAULT_AUDIO_VOLUME = -1;   //default audio volume ; -1 means don't set default volume

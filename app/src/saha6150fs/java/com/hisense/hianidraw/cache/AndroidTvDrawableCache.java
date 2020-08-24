@@ -5,6 +5,7 @@ import android.graphics.drawable.Drawable;
 
 import com.hisense.storemode.R;
 
+
 /**
  * @author tianpengsheng
  * create at   10/9/19 11:34 AM
@@ -43,18 +44,34 @@ public class AndroidTvDrawableCache extends DrawableCache {
             case "epos_hi_pic_des4":
                 drawable = context.getDrawable(R.drawable.epos_hi_pic_des4);
                 break;
-            case "epos_hi_pic_des5":
-                drawable = context.getDrawable(R.drawable.epos_hi_pic_des5);
+            case "epos_hi_pic_des1_sel":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_des1_sel);
                 break;
-            case "epos_hi_pic_des6":
-                drawable = context.getDrawable(R.drawable.epos_hi_pic_des6);
+            case "epos_hi_pic_des2_sel":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_des2_sel);
                 break;
-            case "epos_hi_pic_des7":
-                drawable = context.getDrawable(R.drawable.epos_hi_pic_des7);
+            case "epos_hi_pic_des3_sel":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_des3_sel);
                 break;
-            case "epos_hi_pic_des8":
-                drawable = context.getDrawable(R.drawable.epos_hi_pic_des8);
+            case "epos_hi_pic_des4_sel":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_des4_sel);
                 break;
+            case "epos_hi_second_bg":
+                drawable = context.getDrawable(R.drawable.epos_hi_second_bg);
+                break;
+
+//            case "epos_hi_pic_des5":
+//                drawable = context.getDrawable(R.drawable.epos_hi_pic_des5);
+//                break;
+//            case "epos_hi_pic_des6":
+//                drawable = context.getDrawable(R.drawable.epos_hi_pic_des6);
+//                break;
+//            case "epos_hi_pic_des7":
+//                drawable = context.getDrawable(R.drawable.epos_hi_pic_des7);
+//                break;
+//            case "epos_hi_pic_des8":
+//                drawable = context.getDrawable(R.drawable.epos_hi_pic_des8);
+//                break;
             case "epos_hi_pic_ic1":
                 drawable = context.getDrawable(R.drawable.epos_hi_pic_ic1);
                 break;
