@@ -44,18 +44,6 @@ public class AndroidTvDrawableCache extends DrawableCache {
             case "epos_hi_pic_des4":
                 drawable = context.getDrawable(R.drawable.epos_hi_pic_des4);
                 break;
-            case "epos_hi_pic_des1_sel":
-                drawable = context.getDrawable(R.drawable.epos_hi_pic_des1_sel);
-                break;
-            case "epos_hi_pic_des2_sel":
-                drawable = context.getDrawable(R.drawable.epos_hi_pic_des2_sel);
-                break;
-            case "epos_hi_pic_des3_sel":
-                drawable = context.getDrawable(R.drawable.epos_hi_pic_des3_sel);
-                break;
-            case "epos_hi_pic_des4_sel":
-                drawable = context.getDrawable(R.drawable.epos_hi_pic_des4_sel);
-                break;
             case "epos_hi_second_bg":
                 drawable = context.getDrawable(R.drawable.epos_hi_second_bg);
                 break;

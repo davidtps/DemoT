@@ -220,7 +220,7 @@ public class SeriesUtils {
             AssetManager assetManager = StoreModeApplication.sContext.getResources().getAssets();
             try {
                 if (ConstantConfig.EPOS_LAYOUT_POSITION == 0 || ConstantConfig.EPOS_LAYOUT_POSITION == 2) {
-                    inputStream = assetManager.open("epos_verticaltest.json");
+                    inputStream = assetManager.open("epos_verticaltest2.json");
 
                 } else if (ConstantConfig.EPOS_LAYOUT_POSITION == 1 || ConstantConfig.EPOS_LAYOUT_POSITION == 3) {
                     inputStream = assetManager.open("epos_horizontal.json");
