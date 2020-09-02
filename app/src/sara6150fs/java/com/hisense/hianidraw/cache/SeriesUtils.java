@@ -12,6 +12,8 @@ import com.hisense.hianidraw.draw.DrawHelper;
 import com.hisense.hianidraw.json.hisense838.Root;
 import com.hisense.storemode.R;
 import com.hisense.storemode.StoreModeApplication;
+import com.hisense.storemode.manager.epos.EPosManager;
+import com.hisense.storemode.manager.task.BackgroundTaskManager;
 import com.hisense.storemode.utils.ConstantConfig;
 import com.hisense.storemode.utils.LogUtils;
 import com.hisense.storemode.utils.PreferenceUtils;
@@ -29,13 +31,13 @@ public class SeriesUtils {
 
     private static final String TAG = "SeriesUtils";
     public static final int EPOS_MIN_HEIGHT = 144;//px
-    public static final int EPOS_MIN_WIDTH = 250;//px
+    public static final int EPOS_MIN_WIDTH = 349;//299;//px
     public static final boolean SHOW_EPOS_FUNCTION = true;//true  show  ;false don't show epos function
     public static final boolean SHOW_EPOS_POSITION_ADJUST_FUNCTION = true;//true  show  ;false don't show epos position function
     public static final boolean OLED_SERIES = false;//true  no usb pic and built-in pic function
-    public static final int UPDATE_VIDEO_FILE_MAX_SIZE = 900;//unit is M
-    public static final long MPERIODTIME_JSON = 77100L;
-    public static final int EPOS_LEFT_MARGIN = 0;//px
+    public static final int UPDATE_VIDEO_FILE_MAX_SIZE = 450;//unit is M
+    public static final long MPERIODTIME_JSON = 90000L;
+    public static final int EPOS_LEFT_MARGIN = 50;//px
     public static final int DELAY_START_STOREMODE = 40000;//ms
     public static final boolean EPOS_PLAY_REPEAT = true;//epos play repeat
     public static boolean DEFAULT_PLAY_SOURECE_BUILT_IN_VIDEO = false;//  没有选择任何资源时，true 默认播放内置视频,false 默认播放内置图片
@@ -47,7 +49,6 @@ public class SeriesUtils {
     //default mall logo
     public static final String DEFAULT_MALL_LOGO = "";//if no default set value :"",split:-  ps:R.drawable.soccer_1 + "-" + R.drawable.soccer_2
 
-
     //apk local R.drawable.* resource
     public static int[] LOCAL_DRAWABLE_RESOURCE = new int[]
             {
@@ -57,26 +58,26 @@ public class SeriesUtils {
 
     //left--0  top--1  right--2  bottom--3
     public static boolean[] getEposPositionBooleans() {
-        boolean[] arr = new boolean[]{false, true, false, true};
+        boolean[] arr = new boolean[]{true, false, true, false};
         return arr;
     }
 
     //left--0  top--1  right--2  bottom--3
     public static boolean[] getMallLogoPositionBooleans() {
-        boolean[] arr = new boolean[]{true, false, true, false};
+        boolean[] arr = new boolean[]{false, true, false, true};
         return arr;
     }
 
 
     //usb video/ usb pic/ signal/ build pic /build video (default isCheck)
     public static boolean[] getAutoPlaySetupDefaultCheckBooleans() {
-        boolean[] arr = new boolean[]{true, true, true, true, false};
+        boolean[] arr = new boolean[]{true, true, true, true, true};
         return arr;
     }
 
     //isVisible    usb video/ usb pic/ signal/ build pic /build video
     public static boolean[] getAutoPlaySetupIsVisibleBooleans() {
-        boolean[] arr = new boolean[]{true, true, true, true, false};
+        boolean[] arr = new boolean[]{true, true, true, true, true};
         return arr;
     }
 
@@ -117,20 +118,30 @@ public class SeriesUtils {
         int malllogo_position = (int) PreferenceUtils.getInstance().get(ConstantConfig.SHAREPREF_MALL_LOGO_POSITION, 1);
 
 
-        if (epos_position == 0 || epos_position == 2) {
-            ConstantConfig.EPOS_LAYOUT_POSITION = 3;
-            PreferenceUtils.getInstance().save(ConstantConfig.SHAREPREF_EPOS_POSITION, 3);//bottom
+        if (epos_position == 1 || epos_position == 3) {
+            ConstantConfig.EPOS_LAYOUT_POSITION = 0;
+            PreferenceUtils.getInstance().save(ConstantConfig.SHAREPREF_EPOS_POSITION, 0);//left
         }
-        if (malllogo_position == 1 || malllogo_position == 3) {
-            ConstantConfig.MALL_LOGO_POSITION = 0;
-            PreferenceUtils.getInstance().save(ConstantConfig.SHAREPREF_MALL_LOGO_POSITION, 0);//left
+        if (malllogo_position == 0 || malllogo_position == 2) {
+            ConstantConfig.MALL_LOGO_POSITION = 1;
+            PreferenceUtils.getInstance().save(ConstantConfig.SHAREPREF_MALL_LOGO_POSITION, 1);//top
         }
 
     }
 
     //aoto transform epos postion
     public static void autoTransformEposPosition() {
+        int epos_position = (int) PreferenceUtils.getInstance().get(ConstantConfig.SHAREPREF_EPOS_POSITION, 0);
+        if (epos_position == 0) {//left
+            ConstantConfig.EPOS_LAYOUT_POSITION = 2;
+            PreferenceUtils.getInstance().save(ConstantConfig.SHAREPREF_EPOS_POSITION, 2);//right
+        } else if (epos_position == 2) {//right
+            ConstantConfig.EPOS_LAYOUT_POSITION = 0;
+            PreferenceUtils.getInstance().save(ConstantConfig.SHAREPREF_EPOS_POSITION, 0);//left
+        }
 
+        EPosManager.getInstance().removeEposAndLogo();
+        BackgroundTaskManager.getInstance().startEPosTask();
     }
 
     /**
@@ -170,6 +181,7 @@ public class SeriesUtils {
         int gmsPackageStatus = StoreModeApplication.sContext.getPackageManager().getApplicationEnabledSetting(gmsPackage);
         int googleVideoPackageStatus = StoreModeApplication.sContext.getPackageManager().getApplicationEnabledSetting(googleVideoPackage);
 //        int googlePlayStorePackageStatus = StoreModeApplication.sContext.getPackageManager().getApplicationEnabledSetting(googlePlayStorePackage);
+
         LogUtils.d(TAG, "modifyGoogleServiceSwitch() 3 is diable,1 is enable  gmsPackageStatus:" + gmsPackageStatus);
         LogUtils.d(TAG, "modifyGoogleServiceSwitch() 3 is diable,1 is enable  googleVideoPackageStatus:" + googleVideoPackageStatus);
 //        LogUtils.d(TAG, "modifyGoogleServiceSwitch() 3 is diable,1 is enable  googlePlayStorePackageStatus:" + googlePlayStorePackageStatus);
@@ -208,7 +220,7 @@ public class SeriesUtils {
             AssetManager assetManager = StoreModeApplication.sContext.getResources().getAssets();
             try {
                 if (ConstantConfig.EPOS_LAYOUT_POSITION == 0 || ConstantConfig.EPOS_LAYOUT_POSITION == 2) {
-                    inputStream = assetManager.open("epos_vertical.json");
+                    inputStream = assetManager.open("epos_verticalthird.json");
 
                 } else if (ConstantConfig.EPOS_LAYOUT_POSITION == 1 || ConstantConfig.EPOS_LAYOUT_POSITION == 3) {
                     inputStream = assetManager.open("epos_horizontal.json");

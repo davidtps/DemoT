@@ -6,6 +6,10 @@ import android.graphics.drawable.Drawable;
 import com.hisense.storemode.R;
 
 
+/**
+ * @author tianpengsheng
+ * create at   10/9/19 11:34 AM
+ */
 
 public class AndroidTvDrawableCache extends DrawableCache {
 
@@ -22,63 +26,74 @@ public class AndroidTvDrawableCache extends DrawableCache {
         }
         Drawable drawable = null;
         switch (key) {
-            case "epos_logo":
-                drawable = context.getDrawable(R.drawable.epos_logo);
+            case "epos_hi_top":
+                drawable = context.getDrawable(R.drawable.epos_hi_top);
                 break;
-            case "epos_android_pic":
-                drawable = context.getDrawable(R.drawable.epos_android_pic);
+            case "epos_hi_bg":
+                drawable = context.getDrawable(R.drawable.epos_hi_bg);
                 break;
-
-            case "epos_googleplay_pic":
-                drawable = context.getDrawable(R.drawable.epos_googleplay_pic);
+            case "epos_hi_pic_des1":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_des1);
                 break;
-            case "epos_dolby_pic":
-                drawable = context.getDrawable(R.drawable.epos_dolby_pic);
+            case "epos_hi_pic_des2":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_des2);
                 break;
-            case "epos_bezelless_pic":
-                drawable = context.getDrawable(R.drawable.epos_bezelless_pic);
+            case "epos_hi_pic_des3":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_des3);
                 break;
-            case "epos_smart_pic":
-                drawable = context.getDrawable(R.drawable.epos_smart_pic);
+            case "epos_hi_pic_des4":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_des4);
                 break;
-            case "epos_4k_pic":
-                drawable = context.getDrawable(R.drawable.epos_4k_pic);
+            case "epos_hi_second_bg":
+                drawable = context.getDrawable(R.drawable.epos_hi_second_bg);
                 break;
-            case "epos_android":
-                drawable = context.getDrawable(R.drawable.epos_android);
+            case "epos_hi_third_line":
+                drawable = context.getDrawable(R.drawable.epos_hi_third_line);
                 break;
-            case "epos_googleplay":
-                drawable = context.getDrawable(R.drawable.epos_googleplay);
+            case "epos_hi_third_pic_ic1":
+                drawable = context.getDrawable(R.drawable.epos_hi_third_pic_ic1);
                 break;
-            case "epos_dolby":
-                drawable = context.getDrawable(R.drawable.epos_dolby);
+            case "epos_hi_third_pic_ic2":
+                drawable = context.getDrawable(R.drawable.epos_hi_third_pic_ic2);
                 break;
-            case "epos_bezelless":
-                drawable = context.getDrawable(R.drawable.epos_bezelless);
+            case "epos_hi_third_pic_ic3":
+                drawable = context.getDrawable(R.drawable.epos_hi_third_pic_ic3);
                 break;
-            case "epos_smart":
-                drawable = context.getDrawable(R.drawable.epos_smart);
+            case "epos_hi_pic_des5":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_des5);
                 break;
-            case "epos_4k":
-                drawable = context.getDrawable(R.drawable.epos_4k);
+            case "epos_hi_pic_des6":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_des6);
                 break;
-            case "epos_android_des":
-                drawable = context.getDrawable(R.drawable.epos_android_des);
+            case "epos_hi_pic_des7":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_des7);
                 break;
-            case "epos_googleplay_des":
-                drawable = context.getDrawable(R.drawable.epos_googleplay_des);
+            case "epos_hi_pic_des8":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_des8);
                 break;
-            case "epos_dolby_des":
-                drawable = context.getDrawable(R.drawable.epos_dolby_des);
+            case "epos_hi_pic_ic1":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_ic1);
                 break;
-            case "epos_bezelless_des":
-                drawable = context.getDrawable(R.drawable.epos_bezelless_des);
+            case "epos_hi_pic_ic2":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_ic2);
                 break;
-            case "epos_smart_des":
-                drawable = context.getDrawable(R.drawable.epos_smart_des);
+            case "epos_hi_pic_ic3":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_ic3);
                 break;
-            case "epos_4k_des":
-                drawable = context.getDrawable(R.drawable.epos_4k_des);
+            case "epos_hi_pic_ic4":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_ic4);
+                break;
+            case "epos_hi_pic_ic5":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_ic5);
+                break;
+            case "epos_hi_pic_ic6":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_ic6);
+                break;
+            case "epos_hi_pic_ic7":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_ic7);
+                break;
+            case "epos_hi_pic_ic8":
+                drawable = context.getDrawable(R.drawable.epos_hi_pic_ic8);
                 break;
             default:
                 drawable = context.getDrawable(R.drawable.ic_launcher);
